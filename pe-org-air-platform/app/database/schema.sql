@@ -1,0 +1,72 @@
+-- ==========================================
+-- ORGAIR PLATFORM FOUNDATION - SNOWFLAKE DDL
+-- (Snowflake-compatible: no CHECK, no INDEX)
+-- ==========================================
+
+-- Industries table
+CREATE TABLE IF NOT EXISTS industries (
+    id STRING PRIMARY KEY,
+    name STRING NOT NULL UNIQUE,
+    sector STRING NOT NULL,
+    hr_base NUMBER(5,2),
+    created_at TIMESTAMP_NTZ DEFAULT CURRENT_TIMESTAMP()
+);
+
+-- Companies table
+CREATE TABLE IF NOT EXISTS companies (
+    id STRING PRIMARY KEY,
+    name STRING NOT NULL,
+    ticker STRING,
+    industry_id STRING,
+    position_factor NUMBER(4,3) DEFAULT 0.0,
+    is_deleted BOOLEAN DEFAULT FALSE,
+    created_at TIMESTAMP_NTZ DEFAULT CURRENT_TIMESTAMP(),
+    updated_at TIMESTAMP_NTZ DEFAULT CURRENT_TIMESTAMP(),
+    CONSTRAINT fk_companies_industry
+        FOREIGN KEY (industry_id) REFERENCES industries(id)
+);
+
+-- Assessments table
+CREATE TABLE IF NOT EXISTS assessments (
+    id STRING PRIMARY KEY,
+    company_id STRING NOT NULL,
+    assessment_type STRING NOT NULL,
+    assessment_date DATE NOT NULL,
+    status STRING DEFAULT 'draft',
+    primary_assessor STRING,
+    secondary_assessor STRING,
+    vr_score NUMBER(5,2),
+    confidence_lower NUMBER(5,2),
+    confidence_upper NUMBER(5,2),
+    created_at TIMESTAMP_NTZ DEFAULT CURRENT_TIMESTAMP(),
+    CONSTRAINT fk_assessments_company
+        FOREIGN KEY (company_id) REFERENCES companies(id)
+);
+
+-- Dimension scores table
+CREATE TABLE IF NOT EXISTS dimension_scores (
+    id STRING PRIMARY KEY,
+    assessment_id STRING NOT NULL,
+    dimension STRING NOT NULL,
+    score NUMBER(5,2) NOT NULL,
+    weight NUMBER(4,3),
+    confidence NUMBER(4,3) DEFAULT 0.8,
+    evidence_count INT DEFAULT 0,
+    created_at TIMESTAMP_NTZ DEFAULT CURRENT_TIMESTAMP(),
+    CONSTRAINT fk_dimension_scores_assessment
+        FOREIGN KEY (assessment_id) REFERENCES assessments(id),
+    CONSTRAINT uq_assessment_dimension UNIQUE (assessment_id, dimension)
+);
+
+MERGE INTO industries t
+USING (
+    SELECT '550e8400-e29b-41d4-a716-446655440001' AS id, 'Manufacturing' AS name, 'Industrials' AS sector, 72 AS hr_base UNION ALL
+    SELECT '550e8400-e29b-41d4-a716-446655440002', 'Healthcare Services', 'Healthcare', 78 UNION ALL
+    SELECT '550e8400-e29b-41d4-a716-446655440003', 'Business Services', 'Services', 75 UNION ALL
+    SELECT '550e8400-e29b-41d4-a716-446655440004', 'Retail', 'Consumer', 70 UNION ALL
+    SELECT '550e8400-e29b-41d4-a716-446655440005', 'Financial Services', 'Financial', 80
+) s
+ON t.id = s.id
+WHEN NOT MATCHED THEN
+INSERT (id, name, sector, hr_base)
+VALUES (s.id, s.name, s.sector, s.hr_base);
