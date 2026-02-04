@@ -4,7 +4,8 @@ version = "0.1.0"
 description = "PE OrgAIR Platform Foundation - FastAPI service for company and assessment management"
 authors = ["BigDataIA-Spring26-Team-1"]
 readme = "README.md"
-packages = [{include = "app"}]
+packages = [{ include = "app", from = "pe-org-air-platform" }]
+
 
 [tool.poetry.dependencies]
 python = "^3.12"
