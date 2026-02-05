@@ -58,6 +58,44 @@ CREATE TABLE IF NOT EXISTS dimension_scores (
     CONSTRAINT uq_assessment_dimension UNIQUE (assessment_id, dimension)
 );
 
+-- =========================================================
+-- CS2: Evidence Collection (Documents + Chunks)
+-- =========================================================
+ 
+CREATE TABLE IF NOT EXISTS documents (
+  id STRING PRIMARY KEY,
+  company_id STRING NOT NULL,
+  ticker STRING NOT NULL,
+  filing_type STRING NOT NULL,          -- 10-K / 10-Q / 8-K
+  filing_date DATE NOT NULL,
+  source_url STRING,
+  local_path STRING,
+  s3_key STRING,
+  content_hash STRING,
+  word_count INT,
+  chunk_count INT,
+  status STRING DEFAULT 'processed',
+  error_message STRING,
+  created_at TIMESTAMP_NTZ DEFAULT CURRENT_TIMESTAMP(),
+  processed_at TIMESTAMP_NTZ
+);
+ 
+-- Dedupe support: prevent duplicates on reruns
+ALTER TABLE documents ADD CONSTRAINT IF NOT EXISTS uq_documents_content_hash UNIQUE (content_hash);
+ 
+CREATE TABLE IF NOT EXISTS document_chunks (
+  id STRING PRIMARY KEY,
+  document_id STRING NOT NULL,
+  chunk_index INT NOT NULL,
+  content STRING NOT NULL,
+  section STRING,                       -- "Item 1", "Item 1A", "Item 7" or NULL
+  start_char INT,
+  end_char INT,
+  word_count INT,
+  created_at TIMESTAMP_NTZ DEFAULT CURRENT_TIMESTAMP(),
+  CONSTRAINT uq_doc_chunk UNIQUE (document_id, chunk_index)
+);
+
 MERGE INTO industries t
 USING (
     SELECT '550e8400-e29b-41d4-a716-446655440001' AS id, 'Manufacturing' AS name, 'Industrials' AS sector, 72 AS hr_base UNION ALL

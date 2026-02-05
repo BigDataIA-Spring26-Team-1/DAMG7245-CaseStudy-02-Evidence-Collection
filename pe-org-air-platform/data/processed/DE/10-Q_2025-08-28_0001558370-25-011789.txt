@@ -1,0 +1,291 @@
+Item 1A. Risk Factors in our Annual Report on Form 10-K for the year ended October 27, 2024, except as set forth below:
+Legal proceedings, disputes and government inquiries and investigations could harm our business, financial condition, reputation, and brand.
+We routinely are a party to claims and legal actions and the subject of government inquiries and investigations, the most prevalent of which relate to product liability (including asbestos-related liability), antitrust matters (including class action litigation), employment, patent, and trademark. For example, we were recently the subject of a previously disclosed Federal Trade Commission (FTC) investigation into our information security practices and statements, which was closed by the FTC without action. The defense of lawsuits and government inquiries and investigations has resulted and may result in expenditures of significant financial resources and the diversion of management’s time and attention away from business operations. Adverse decisions in one or more of these claims, actions, inquiries, or investigations could require us to pay substantial damages or fines, undertake service actions, initiate recall campaigns, or take other costly actions. It is therefore possible that legal judgments or investigations could give rise to expenses that are not covered, or not fully covered, by our insurance programs and could affect our financial position and results.
+We are currently subject to a consolidated multidistrict class action lawsuit in the Northern District of Illinois alleging that we have engaged in attempted monopolization, exclusionary conduct, and restraint of the market for repair services for John Deere brand agricultural equipment by limiting repair resources only to our authorized technicians or independent authorized John Deere dealers. In addition, the FTC, along with the Attorneys General of the States of Arizona, Illinois, Michigan, Minnesota, and Wisconsin, filed a lawsuit against us in the United States District Court for the Northern District of Illinois Western Division alleging similar claims. We are currently unable to predict the outcome of these matters.
+45
+
+​
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+Issuer Purchases of Equity Securities
+Purchases of our common stock during the third quarter of 2025 were as follows:
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+    
+​
+    
+​
+​
+​
+Total Number of
+    
+    
+​
+ 
+​
+​
+​
+​
+​
+​
+​
+Shares Purchased as
+​
+Maximum Number of
+ 
+ 
+​
+​
+Total Number of
+​
+​
+​
+​
+Part of Publicly
+​
+Shares that May Yet Be
+ 
+ 
+​
+​
+Shares
+​
+​
+​
+​
+Announced Plans or
+​
+Purchased under the
+ 
+ 
+​
+​
+Purchased (2)
+​
+Average Price
+​
+Programs (1)
+​
+Plans or Programs (1)
+ 
+ 
+Period
+​
+(thousands)
+​
+Per Share
+​
+(thousands)
+​
+(millions)
+ 
+ 
+Apr 28 to May 25
+​
+ 
+​
+ 
+​
+ 
+​
+​
+ 
+​
+​
+15.9 
+​
+​
+May 26 to Jun 22
+​
+272 
+​
+$
+519.79 
+​
+271 
+​
+15.6 
+​
+​
+Jun 23 to Jul 27
+​
+310 
+​
+​
+514.24 
+​
+310 
+​
+15.3 
+​
+​
+Total
+​
+582 
+​
+​
+​
+​
+581 
+​
+​
+​
+​
+(1)
+We have a share repurchase plan that was announced in December 2022 to purchase up to $18.0 billion of shares of our common stock. The maximum number of shares that may yet be purchased under this plan was 15.3 million based on the closing price of our common stock on the New York Stock Exchange as of the end of the third quarter of 2025 of $517.38 per share. At the end of the third quarter of 2025, $7.9 billion of common stock remained to be purchased under this plan.
+(2)
+In the third quarter of 2025, one thousand shares of common stock were acquired from plan participants at the weighted-average market price of $485.89 per share to pay payroll taxes on the vesting of restricted stock awards.
+Item 3.
+Defaults Upon Senior Securities
+None.
+Item 4.
+Mine Safety Disclosures
+Not applicable.
+Item 5.
+Other Information
+Director and Executive Officer Trading Arrangements
+On 
+May 21, 2025
+, 
+Cory J. Reed
+, 
+President, Worldwide Agriculture & Turf Division, Production Precision Ag, Sales & Marketing Regions of the Americas and Australia
+, 
+adopted
+ a trading plan intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) under the Exchange Act. The plan provides for the sale of up to 
+12,000
+ shares of common stock resulting from the exercise of employee stock options. The plan expires on 
+May 19, 2026
+.
+​
+On 
+June 20, 2025
+, 
+John C. May
+, 
+Chairman and Chief Executive Officer
+, 
+adopted
+ a trading plan intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) under the Exchange Act. The plan provides for the sale of up to 
+52,578
+ shares of common stock resulting from the exercise of employee stock options. The plan expires on 
+June 18, 2026
+.
+46
+
+​
+Item 6.
+Exhibits
+Certain instruments relating to long-term borrowings constituting less than 10% of the registrant’s total assets are not filed as exhibits herewith pursuant to Item 601(b)(4)(iii)(A) of Regulation S-K. The registrant will furnish copies of such instruments to the Commission upon request of the Commission.
+​
+​
+​
+​
+3.1
+Certificate of Incorporation (Exhibit 3.1 to Form 10-Q of registrant for the quarter ended July 28, 2019, Securities and Exchange Commission File Number 1-4121*)
+​
+​
+3.2
+Bylaws, as amended (Exhibit 3.2 to Form 10-Q of registrant for the quarter ended July 30, 2023, Securities and Exchange Commission File Number 1-4121*)
+​
+​
+31.1
+Rule 13a-14(a)/15d-14(a) Certification
+​
+​
+31.2
+Rule 13a-14(a)/15d-14(a) Certification
+​
+​
+32
+Section 1350 Certifications (furnished herewith)
+​
+​
+101.INS
+Inline XBRL Instance Document (the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document)
+​
+​
+101.SCH
+Inline XBRL Taxonomy Extension Schema Document
+​
+​
+101.CAL
+Inline XBRL Taxonomy Extension Calculation Linkbase Document
+​
+​
+101.DEF
+Inline XBRL Taxonomy Extension Definition Linkbase Document
+​
+​
+101.LAB
+Inline XBRL Taxonomy Extension Label Linkbase Document
+​
+​
+101.PRE
+Inline XBRL Taxonomy Extension Presentation Linkbase Document
+​
+​
+104
+Cover Page Interactive Data File (formatted as Inline XBRL and contained in Exhibit 101)
+​
+​
+*
+ 
+Incorporated by reference.
+​
+​
+​
+47
+
+​
+​
+SIGNATURES
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+​
+DEERE & COMPANY
+​
+​
+​
+​
+Date:
+August 28, 2025
+​
+By:
+/s/ Joshua A. Jepsen
+​
+​
+​
+​
+Joshua A. Jepsen
+Senior Vice President and Chief Financial Officer
+(Principal Financial Officer and
+Principal Accounting Officer)
+​
+​
+​
+48

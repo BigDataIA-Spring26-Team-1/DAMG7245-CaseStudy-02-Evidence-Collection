@@ -1,0 +1,86 @@
+jpm-20260120
+false
+0000019617
+0000019617
+2026-01-20
+2026-01-20
+0000019617
+us-gaap:CommonStockMember
+2026-01-20
+2026-01-20
+0000019617
+jpm:DepositarySharesOneFourHundredthInterestinaShareof5.75NonCumulativePreferredStockSeriesDDMember
+2026-01-20
+2026-01-20
+0000019617
+jpm:DepositarySharesOneFourHundredthInterestinaShareof6.00NonCumulativePreferredStockSeriesEEMember
+2026-01-20
+2026-01-20
+0000019617
+jpm:DepositarySharesOneFourHundredthInterestinaShareof4.75NonCumulativePreferredStockSeriesGGMember
+2026-01-20
+2026-01-20
+0000019617
+jpm:DepositarySharesOneFourHundredthInterestInAShareOf455NonCumulativePreferredStockSeriesJJMember
+2026-01-20
+2026-01-20
+0000019617
+jpm:DepositarySharesOneFourHundredthInterestInAShareOf4625NonCumulativePreferredStockSeriesLLMember
+2026-01-20
+2026-01-20
+0000019617
+jpm:DepositarySharesOneFourHundredthInterestInAShareOf420NonCumulativePreferredStockSeriesMMMember
+2026-01-20
+2026-01-20
+0000019617
+jpm:GuaranteeOfCallableFixedRateNotesDueJune102032OfJPMorganChaseFinancialCompanyLLCMember
+2026-01-20
+2026-01-20
+0000019617
+jpm:GuaranteeOfAlerianMLPIndexETNsDueJanuary282044OfJPMorganChaseFinancialCompanyLLCDomain
+2026-01-20
+2026-01-20
+0000019617
+jpm:GuaranteeOfInverseVIXShortTermFuturesETNsDueMarch222045OfJPMorganChaseFinancialCompanyLLCMember
+2026-01-20
+2026-01-20
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 
+8-K
+ 
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (date of earlies
+
+--- CHUNK ---
+
+20% Non-Cumulative Preferred Stock, Series MM
+JPM PR M
+The New York Stock Exchange
+Guarantee of Callable Fixed Rate Notes due June 10, 2032 of JPMorgan Chase Financial Company LLC
+JPM/32
+The New York Stock Exchange
+Guarantee of Alerian MLP Index ETNs due January 28, 2044 of JPMorgan Chase Financial Company LLC
+AMJB
+NYSE Arca, Inc.
+Guarantee of Inverse VIX Short-Term Futures ETNs due March 22, 2045 of JPMorgan Chase Financial Company LLC
+VYLD
+NYSE Arca, Inc.
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company 
+☐
+ 
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. ☐
+Item 5.02(e) Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+JPMorgan Chase & Co. (the “Firm”) announced that the independent members of the Board of Directors (the “Board”) approved the annual compensation for 2025 for Mr. James Dimon, CEO, in the amount of $43,000,000 compared to last year’s annual compensation of $39,000,000. The annual compensation for 2025 reflects Mr. Dimon’s stewardship of the Firm, with str
+
+--- CHUNK ---
+
+tutional clients around the world, which include individuals, homeowners, small and large-sized businesses, schools, hospitals, cities, states, and countries. The Firm continued its investments in data, technology, and AI research and capabilities; people and products; and corporate responsibility, positioning the Firm for future success. Lastly, the Firm opened its new global headquarters building at 270 Park Avenue in New York, one of many investments to create collaborative work environments for employees, serve clients locally and globally, and contribute to local economies.
+The Board evaluated Mr. Dimon’s holistic performance across financial and non-financial results, as well as the competitive environment, in determining his compensation. As part of their evaluation and determination, the Board considered Mr. Dimon’s continued development of top executives to lead for today and the future, his continued commitment to shareholders and his longstanding exemplary leadership of a premier financial services firm. 
+1
+     Revenue is on a managed basis. Managed revenue and ROTCE are non-GAAP financial measures. For further discussion, see notes (a) and (b) on page 6 of Exhibit 99.1 to the Firm’s Current Report on Form 8-K dated January 13, 2026, which has been filed with the U.S. Securities and Exchange Commission, containing the Firm's earnings press release for the quarter ended December 31, 2025.
+2
+ Equity incentives are subject to the JPMorgan Chase Bonus Recoupment Polic
