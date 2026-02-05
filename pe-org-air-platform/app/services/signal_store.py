@@ -43,25 +43,26 @@ class SignalStore:
         cur = self.conn.cursor()
         try:
             cur.execute(
-                """
-                INSERT INTO external_signals
-                (id, company_id, ticker, signal_type, source, title, url, published_at, content_text, content_hash, metadata)
-                VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,PARSE_JSON(%s))
-                """,
-                (
-                    sid,
-                    company_id,
-                    ticker,
-                    signal_type,
-                    source,
-                    title,
-                    url,
-                    published_at,
-                    content_text,
-                    content_hash,
-                    json.dumps(metadata),
-                ),
-            )
+            """
+            INSERT INTO external_signals
+            (id, company_id, ticker, signal_type, source, title, url, published_at,
+            content_text, content_hash, metadata)
+            SELECT %s,%s,%s,%s,%s,%s,%s,%s,%s,%s,TRY_PARSE_JSON(%s)
+            """,
+            (
+                sid,
+                company_id,
+                ticker,
+                signal_type,
+                source,
+                title,
+                url,
+                published_at,
+                content_text,
+                content_hash,
+                json.dumps(metadata),
+            ),
+        )
             return sid
         finally:
             cur.close()
