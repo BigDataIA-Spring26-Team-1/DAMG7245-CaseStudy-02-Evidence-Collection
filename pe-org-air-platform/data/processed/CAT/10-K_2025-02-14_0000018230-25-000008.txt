@@ -1,0 +1,658 @@
+Item 1A. Risk Factors of the 2024 Form 10-K.
+Notes:
+•
+Glossary of terms included on pages 35 - 37; first occurrence of terms shown in bold italics.
+•
+Information on non-GAAP financial measures is included on pages 47 - 48.
+•
+Some amounts within this report are rounded to the millions or billions and may not add. In addition, the sum of the components reported across periods may not equal the total amount reported year-to-date due to rounding. 
+29
+Table of Contents
+2024 COMPARED WITH 2023 
+CONSOLIDATED SALES AND REVENUES
+The chart above graphically illustrates reasons for the change in consolidated sales and revenues between 2023 (at left) and 2024 (at right). Caterpillar management utilizes these charts internally to visually communicate with the company’s board of directors and employees.
+Total sales and revenues for 2024 were $64.809 billion, a decrease of $2.251 billion, or 3 percent, compared with $67.060 billion in 2023. The decrease was primarily driven by lower sales volume of $3.543 billion, partially offset by favorable price realization of $1.238 billion. The decrease in sales volume was mainly driven by lower sales of equipment to end users. In addition, changes in dealer inventories had an unfavorable impact to sales volume. Dealer inventory increased less during 2024 than during 2023.
+In the three primary segments, sales were lower in Construction Industries and Resource Industries and higher in Energy & Transportation.
+North America sales decreased 1 percent primarily due to lower sales volume, partially offset by favorable price realization. The decrease in sales volume was mainly due to the impact from changes in dealer inventories. Dealer inventory increased less during 2024 than during 2023.
+Sales increased 1 percent in Latin America. Unfavorable currency impacts related to the Brazilian real were more than offset by higher sales volume and favorable price realization. The increase in sales volume was primarily due to the impact from changes in dealer inventories. Dealer inventory increased during 2024, compared to a decrease during 2023.
+EAME sales decreased 10 percent primarily due lower sales volume. The decrease in sales volume was mainly driven by lower sales of equipment to end users. 
+Asia/Pacific sales decreased 6 percent primarily due to lower sales volume. The decrease in sales volume was mainly driven by the impact from changes in dealer inventories. Dealer inventory decreased in 2024, compared to an increase in 2023.
+Total dealer inventory increased about $400 million during 2024, compared to an increase of about $2.1 billion during 2023. Machine dealer inventory decreased about $700 million during 2024, compared to an increase of $700 million during 2023. Dealers are independent, and the reasons for changes in their inventory levels vary, including their expectations of future demand and product delivery times. Dealers’ demand expectations take into account seasonal changes, macroeconomic conditions, machine rental rates and other factors. Delivery times can vary based on availability of product from Caterpillar factories and product distribution centers. We do not expect a significant change in machine dealer inventories in 2025.
+30
+Table of Contents
+Sales and Revenues by Segment
+(Millions of dollars)
+2023
+Sales
+Volume
+Price
+Realization
+Currency
+Inter-Segment/Other
+2024
+$
+Change
+%
+Change
+Construction Industries
+$
+27,418 
+$
+(1,737)
+$
+(70)
+$
+(143)
+$
+(13)
+$
+25,455 
+$
+(1,963)
+(7 
+%)
+Resource Industries
+13,583 
+(1,603)
+405 
+(28)
+32 
+12,389 
+(1,194)
+(9 
+%)
+Energy & Transportation
+28,001 
+(142)
+900 
+(25)
+120 
+28,854 
+853 
+3 
+%
+All Other Segment
+449 
+(17)
+5 
+(1)
+(11)
+425 
+(24)
+(5 
+%)
+Corporate Items and Eliminations
+(5,582)
+(44)
+(2)
+(4)
+(128)
+(5,760)
+(178)
+ 
+Machinery, Energy & Transportation
+63,869 
+(3,543)
+1,238 
+(201)
+— 
+61,363 
+(2,506)
+(4 
+%)
+Financial Products Segment
+3,785 
+— 
+— 
+— 
+268 
+4,053 
+268 
+7 
+%
+Corporate Items and Eliminations
+(594)
+— 
+— 
+— 
+(13)
+(607)
+(13)
+ 
+Financial Products
+ Revenues
+3,191 
+— 
+— 
+— 
+255 
+3,446 
+255 
+8 
+%
+Consolidated Sales and Revenues
+$
+67,060 
+$
+(3,543)
+$
+1,238 
+$
+(201)
+$
+255 
+$
+64,809 
+$
+(2,251)
+(3 
+%)
+Sales and Revenues by Geographic Region
+North America
+Latin America
+EAME
+Asia/Pacific
+External Sales and Revenues
+Inter-Segment
+Total Sales and Revenues
+(Millions of dollars)
+$
+% Chg
+$
+% Chg
+$
+% Chg
+$
+% Chg
+$
+% Chg
+$
+% Chg
+$
+% Chg
+2024
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Construction Industries
+$
+14,576 
+(5%)
+$
+2,553 
+11%
+$
+4,315 
+(18%)
+$
+3,900 
+(11%)
+$
+25,344 
+(7%)
+$
+111 
+(10%)
+$
+25,455 
+(7 
+%)
+Resource Industries
+4,561 
+(13%)
+2,077 
+2%
+1,804 
+(13%)
+3,576 
+(8%)
+12,018 
+(9%)
+371 
+9%
+12,389 
+(9 
+%)
+Energy & Transportation
+13,005 
+9%
+1,763 
+(11%)
+5,787 
+(2%)
+3,533 
+2%
+24,088 
+3%
+4,766 
+3%
+28,854 
+3 
+%
+All Other Segment
+56 
+(14%)
+— 
+100%
+12 
+(33%)
+50 
+2%
+118 
+(10%)
+307 
+(3%)
+425 
+(5 
+%)
+Corporate Items and Eliminations
+(150)
+(6)
+(25)
+(24)
+(205)
+(5,555)
+(5,760)
+Machinery, Energy & Transportation 
+32,048 
+(1%)
+6,387 
+1%
+11,893 
+(10%)
+11,035 
+(6%)
+61,363 
+(4%)
+— 
+—%
+61,363 
+(4 
+%)
+Financial Products Segment
+2,702 
+11%
+402 
+(3%)
+505 
+3%
+444 
+1%
+4,053 
+1
+7%
+— 
+—%
+4,053 
+7 
+%
+Corporate Items and Eliminations
+(353)
+(81)
+(82)
+(91)
+(607)
+— 
+(607)
+Financial Products Revenues
+2,349 
+12%
+321 
+(5%)
+423 
+4%
+353 
+1%
+3,446 
+8%
+— 
+—%
+3,446 
+8 
+%
+Consolidated Sales and Revenues
+$
+34,397 
+(1%)
+$
+6,708 
+1%
+$
+12,316 
+(10%)
+$
+11,388 
+(6%)
+$
+64,809 
+(3%)
+$
+— 
+—%
+$
+64,809 
+(3 
+%)
+2023
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Construction Industries
+$
+15,343 
+$
+2,307 
+$
+5,254 
+$
+4,390 
+$
+27,294 
+ 
+$
+124 
+$
+27,418 
+Resource Industries
+5,256 
+2,040 
+2,069 
+3,879 
+13,244 
+ 
+339 
+13,583 
+Energy & Transportation
+11,982 
+1,983 
+5,929 
+3,461 
+23,355 
+ 
+4,646 
+28,001 
+All Other Segment
+65 
+(1)
+18 
+49 
+131 
+ 
+318 
+449 
+Corporate Items and Eliminations
+(133)
+(3)
+(5)
+(14)
+(155)
+ 
+(5,427)
+(5,582)
+Machinery, Energy & Transportation
+32,513 
+6,326 
+13,265 
+11,765 
+63,869 
+ 
+— 
+63,869 
+ 
+Financial Products Segment
+2,440 
+416 
+491 
+438 
+3,785 
+1
+ 
+— 
+3,785 
+Corporate Items and Eliminations
+(347)
+(77)
+(83)
+(87)
+(594)
+ 
+— 
+(594)
+Financial Products Revenues
+2,093 
+339 
+408 
+351 
+3,191 
+ 
+— 
+3,191 
+ 
+Consolidated Sales and Revenues
+$
+34,606 
+$
+6,665 
+$
+13,673 
+$
+12,116 
+$
+67,060 
+ 
+$
+— 
+$
+67,060 
+1
+ Includes revenues from Machinery, Energy & Transportation of $711 million and $690 million in 2024 and 2023, respectively.
+31
+Table of Contents
+CONSOLIDATED OPERATING PROFIT
+The chart above graphically illustrates reasons for the change in consolidated operating profit between 2023 (at left) and 2024 (at right). Caterpillar management utilizes these charts internally to visually communicate with the company’s board of directors and employees. The bar entitled Other includes 
+consolidating adjustments
+ and 
+Machinery, Energy & Transportation other operating (income) expenses
+.
+Operating profit was $13.072 billion in 2024, an increase of $106 million, or 1 percent, compared with $12.966 billion in 2023. The profit impact of lower sales volume of $1.298 billion, higher selling, general and administrative (SG&A) and research and development (R&D) expenses of $201 million, and higher restructuring costs of $165 million were more than offset by favorable price realization of $1.238 billion, the absence of the impact of the divestiture of the company's Longwall business in 2023 of $586 million and favorable manufacturing costs of $246 million. The increase in SG&A/R&D expenses was primarily driven by investments aligned with strategic initiatives. Favorable manufacturing costs largely reflected lower freight. 
+For the twelve months ended December 31, 2024, restructuring costs increased primarily due to the divestitures of certain non-U.S. entities.
+Operating profit margin was 20.2 percent in 2024, compared with 19.3 percent in 2023.
+Profit (Loss) by Segment
+(Millions of dollars)
+2024
+2023
+$
+Change
+%
+Change
+Construction Industries
+$
+6,165 
+$
+6,975 
+$
+(810)
+(12 
+%)
+Resource Industries
+2,533 
+2,834 
+(301)
+(11 
+%)
+Energy & Transportation 
+5,736 
+4,936 
+800 
+16 
+%
+All Other Segment
+48 
+18 
+30 
+167 
+%
+Corporate Items and Eliminations
+(1,384)
+(2,104)
+720 
+ 
+Machinery, Energy & Transportation
+13,098 
+12,659 
+439 
+3 
+%
+Financial Products Segment
+932 
+909 
+23 
+3 
+%
+Corporate Items and Eliminations
+(327)
+14 
+(341)
+ 
+Financial Products
+605 
+923 
+(318)
+(34 
+%)
+Consolidating Adjustments
+(631)
+(616)
+(15)
+ 
+Consolidated Operating Profit
+$
+13,072 
+$
+12,966 
+$
+106 
+1 
+%
+32
+Table of Contents
+Other Profit/Loss and Tax Items
+•
+Interest expense excluding Financial Products in 2024 was $512 million, compared with $511 million in 2023.
+•
+Other income (expense) in 2024 was income of $813 million, compared with income of $595 million in 2023. The change was primarily driven by favorable foreign currency impacts, favorable impacts from 
+pension and other postemployment benefit (OPEB)
+ plan costs and higher mark-to-market gains for remeasurement of pension and OPEB plans.
+•
+The effective tax rate for 2024 was 19.7 percent compared to 21.3 percent for 2023. Excluding the discrete items discussed below, the annual effective tax rate was 22.2 percent for 2024 compared to 21.4 percent for 2023. The increase from 2023 was primarily related to changes in the geographic mix of profits from a tax perspective.
+In 2024, the company recorded a discrete tax benefit of $224 million for a tax law change related to currency translation. The 2024 annual effective tax rate excludes the impact of losses of $164 million for the divestitures of certain non-U.S. entities with related tax benefits of $54 million. The 2023 annual effective tax rate excludes the impact of the nondeductible loss of $586 million related to the divestiture of the company’s Longwall business. The company also recorded a tax charge of $43 million related to $154 million of mark-to-market gains for remeasurement of pension and OPEB plans in 2024, compared to a tax charge of $26 million related to $97 million of mark-to-market gains in 2023. In 2024, the company recorded discrete tax benefits of $47 million to reflect changes in estimates related to prior years. In addition, a discrete tax benefit of $57 million was recorded in 2024 and 2023 for the settlement of stock-based compensation awards with associated tax deductions in excess of cumulative U.S. GAAP compensation expense. In 2023, the company recorded a discrete tax benefit of $88 million due to a change in the valuation allowance for certain non-U.S. deferred tax assets.
+Construction Industries
+Construction Industries’ total sales were $25.455 billion in 2024, a decrease of $1.963 billion, or 7 percent, compared with $27.418 billion in 2023. The decrease was primarily due to lower sales volume. The decrease in sales volume was mainly driven by lower sales of equipment to end users. 
+•
+In North America, sales decreased due to lower sales volume. Lower sales volume was primarily driven by the impact from changes in dealer inventories. Dealer inventory increased less during 2024 than during 2023.
+•
+Sales increased in Latin America primarily due to higher sales volume, partially offset by unfavorable price realization and unfavorable currency impacts primarily related to the Brazilian real. Higher sales volume was mainly driven by the impact from changes in dealer inventories. Dealer inventory increased during 2024, compared with a decrease during 2023.
+•
+In EAME, sales decreased primarily due to lower sales volume. Lower sales volume was mainly due to lower sales of equipment to end users. 
+•
+Sales decreased in Asia/Pacific primarily due to lower sales volume and unfavorable currency impacts, primarily related to the Japanese yen. Lower sales volume was mainly driven by the impact from changes in dealer inventories. Dealer inventory decreased during 2024, compared with an increase during 2023.
+Construction Industries’ profit was $6.165 billion in 2024, a decrease of $810 million, or 12 percent, compared with $6.975 billion in 2023. The decrease was mainly due to the profit impact of lower sales volume.
+Construction Industries’ profit as a percent of total sales was 24.2 percent in 2024, compared with 25.4 percent in 2023.
+Resource Industries
+Resource Industries’ total sales were $12.389 billion in 2024, a decrease of $1.194 billion, or 9 percent, compared with $13.583 billion in 2023. The decrease was primarily due to lower sales volume, partially offset by favorable price realization. Sales volume decreased primarily due to lower sales of equipment to end users.
+Resource Industries’ profit was $2.533 billion in 2024, a decrease of $301 million, or 11 percent, compared with $2.834 billion in 2023. The decrease was mainly due to the profit impact of lower sales volume of $655 million, partially offset by favorable price realization of $405 million. 
+Resource Industries’ profit as a percent of total sales was 20.4 percent for 2024, compared with 20.9 percent for 2023.
+33
+Table of Contents
+Energy & Transportation
+Sales by Application
+(Millions of dollars)
+2024
+2023
+$
+Change
+%
+ 
+Change
+Oil and Gas
+$
+6,980 
+$
+6,988 
+$
+(8)
+— 
+%
+Power Generation
+7,756 
+6,362 
+1,394 
+22 
+%
+Industrial
+3,990 
+4,871 
+(881)
+(18 
+%)
+Transportation
+5,362 
+5,134 
+228 
+4 
+%
+External Sales
+24,088 
+23,355 
+733 
+3 
+%
+Inter-Segment
+4,766 
+4,646 
+120 
+3 
+%
+Total Sales
+$
+28,854 
+$
+28,001 
+$
+853 
+3 
+%
+Energy & Transportation’s total sales were $28.854 billion in 2024, an increase of $853 million, or 3 percent, compared with $28.001 billion in 2023. The increase was primarily due to favorable price realization.
+•
+Oil and Gas – Sales were about flat. Decreased sales in reciprocating engines used in well servicing applications were offset by increased sales in reciprocating engines used in gas compression applications and increased sales for turbines and turbine-related services.
+•
+Power Generation – Sales increased in large reciprocating engines, primarily data center applications. Turbines and turbine-related services increased as well.
+•
+Industrial – Sales decreased in EAME and North America.
+•
+Transportation – Sales increased in marine and rail services, partially offset by lower sales of reciprocating engine aftermarket parts.
+Energy & Transportation’s profit was $5.736 billion in 2024, an increase of $800 million, or 16 percent, compared with $4.936 billion in 2023. The increase was mainly due to favorable price realization.
+Energy & Transportation’s profit as a percent of total sales was 19.9 percent in 2024, compared with 17.6 percent in 2023.
+Financial Products Segment
+Financial Products’ segment revenues were $4.053 billion in 2024, an increase of $268 million, or 7 percent, compared with $3.785 billion in 2023. The increase was primarily due to a favorable impact from higher average financing rates across all regions of $153 million and a favorable impact from higher average 
+earning assets
+ of $127 million driven by North America.
+Financial Products’ segment profit was $932 million in 2024, an increase of $23 million, or 3 percent, compared with $909 million in 2023. The increase was mainly due to a favorable impact from higher average earning assets of $54 million, an insurance settlement of $33 million, and a favorable impact from equity securities of $32 million. These favorable impacts were partially offset by an increase in SG&A expenses of $54 million and an unfavorable impact from returned or repossessed equipment of $34 million.
+Corporate Items and Eliminations
+Expense for corporate items and eliminations was $1.711 billion in 2024, a decrease of $379 million from 2023, primarily driven by the absence of the divestiture of the company's Longwall business in 2023, partially offset by unfavorable impacts of segment reporting methodology differences.
+2023 COMPARED WITH 2022 
+For discussions related to the consolidated sales and revenue and consolidated operating profit between 2023 and 2022, refer to Part II, 

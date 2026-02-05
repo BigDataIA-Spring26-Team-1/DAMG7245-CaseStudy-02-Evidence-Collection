@@ -1,0 +1,61 @@
+cat-20260129
+0000018230
+false
+0000018230
+2026-01-28
+2026-01-28
+0000018230
+us-gaap:CommonStockMember
+2026-01-28
+2026-01-28
+0000018230
+cat:A5.3DebenturesDueSeptember152035Member
+2026-01-28
+2026-01-28
+UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION 
+Washington, D.C.  20549
+FORM
+8-K
+Current Report
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+Date of Report (Date of earliest event reported):
+January 29, 2026
+CATERPILLAR INC.
+(Exact name of registrant as specified in its charter)
+Delaware
+1-768
+37-0602744
+(State or other jurisdiction of incorporation)
+ 
+(Commission File Number)
+ 
+(I.R.S Employer Identification No.)
+5205 N. O'Connor Blvd.,
+Suite 100,
+Irving,
+Texas
+75039
+(Address of principal executive offices)
+(Zip Code)
+Registrant’s telephone number, including area code:
+(972)
+891-7700
+Former name or former address, if changed since last report:
+N/A
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+☐
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+☐
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+☐
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Securities registered pursuant to Section 12(b) of the Act:
+Title of each class
+Trading Symbol (s)
+Name of each exchange which registered
+Common Stock ($1.00 par value)
+CAT
+The New York Stock Exchange
+5.3% Debentures due Septembe
