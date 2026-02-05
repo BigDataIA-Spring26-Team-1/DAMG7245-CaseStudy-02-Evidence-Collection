@@ -114,20 +114,20 @@ CREATE TABLE IF NOT EXISTS external_signals (
   id STRING PRIMARY KEY,
   company_id STRING NOT NULL,
   ticker STRING NOT NULL,
- 
   signal_type STRING NOT NULL,          -- jobs/news/patents/tech
   source STRING NOT NULL,               -- greenhouse/google_news_rss/uspto/etc
   title STRING,
   url STRING,
   published_at TIMESTAMP_NTZ,
   collected_at TIMESTAMP_NTZ DEFAULT CURRENT_TIMESTAMP(),
- 
   content_text STRING,
   content_hash STRING,
- 
-  metadata VARIANT
+  metadata VARIANT,
+  CONSTRAINT uq_external_signals_hash UNIQUE (content_hash)
 );
  
+ 
+
 CREATE TABLE IF NOT EXISTS company_signal_summaries (
   id STRING PRIMARY KEY,
   company_id STRING NOT NULL,
