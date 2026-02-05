@@ -13,6 +13,7 @@ from app.pipelines.sec_edgar import SecEdgarClient, store_raw_filing
 from app.pipelines.document_parser import parse_filing_bytes, chunk_document
 from app.services.evidence_store import EvidenceStore, DocumentRow, ChunkRow
 from app.services.snowflake import get_snowflake_connection
+from app.config import settings
  
 DEFAULT_TICKERS = [
     "CAT", "DE", "UNH", "HCA", "ADP",
@@ -49,17 +50,14 @@ def main() -> int:
     else:
         tickers = [t.strip().upper() for t in args.companies.split(",") if t.strip()]
  
-    # Store files relative to repo root
     base_dir = ROOT
  
-    # TODO: move to .env/settings later
-    user_agent = "PE-OrgAIR (Northeastern) yourname@northeastern.edu"
+    user_agent = settings.sec_user_agent
  
     client = SecEdgarClient(user_agent=user_agent, rate_limit_per_sec=5.0)
     store = EvidenceStore()
  
     try:
-        # Debug once: confirm Snowflake sessions
         cur = store.conn.cursor()
         cur.execute("SELECT CURRENT_DATABASE(), CURRENT_SCHEMA()")
         print("EvidenceStore session:", cur.fetchone())
@@ -151,7 +149,6 @@ def main() -> int:
                     f"chunks={len(chunk_rows)}"
                 )
  
-                # Save proof artifacts
                 (out_dir / f"{f.form}_{f.filing_date}_{f.accession}.txt").write_text(
                     parsed.sections.get("Item 1A") or parsed.full_text[:20000],
                     encoding="utf-8",
@@ -168,7 +165,7 @@ def main() -> int:
                     f"hash={parsed.content_hash[:10]} words={parsed.word_count} chunks={len(chunks)}"
                 )
  
-        print("\n✅ OK: Evidence collection completed")
+        print("\n OK: Evidence collection completed")
         return 0
  
     finally:
