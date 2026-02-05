@@ -1,0 +1,783 @@
+Item 1A in our Form 10-K for fiscal 2025 and other SEC filings, we may need to adjust our capital, operating and other discretionary spending to realign our working capital requirements with the capital resources available to us. Furthermore, if we determine the need for additional short-term liquidity, there is no assurance that such financing, if pursued and obtained, would be adequate or on terms acceptable to us.
+ 
+Letters of credit:
+ As of November 30, 2025, we had irrevocable standby letters of credit available totaling $172.9 million, primarily to secure commitments for certain insurance policies. The letters of credit expire at various dates between December 01, 2025 and February 28, 2027. No amounts were outstanding on these letters of credit during the second quarter or as of November 30, 2025.
+ 
+ 
+Long-term financing:
+ We have borrowed $0.8 billion through the issuance of long-term private placement debt (“Senior Notes”) and $4.2 billion through the issuance of three fixed rate corporate bonds ("Corporate Bonds"). The following is information on each of our long-term financing arrangements related to future cash commitments:
+ 
+
+ 
+
+ 
+
+Senior Notes
+
+ 
+
+ 
+
+Corporate Bonds
+
+ 
+
+$ in billions
+
+ 
+
+Series A
+
+ 
+
+ 
+
+Series B
+
+ 
+
+ 
+
+5-year
+
+ 
+
+ 
+
+7-year
+
+ 
+
+ 
+
+10-year
+
+ 
+
+Principal amount
+
+ 
+
+$
+
+0.4
+
+ 
+
+ 
+
+$
+
+0.4
+
+ 
+
+ 
+
+$
+
+1.5
+
+ 
+
+ 
+
+$
+
+1.5
+
+ 
+
+ 
+
+$
+
+1.2
+
+ 
+
+Principal payment date
+
+ 
+
+March 13, 2026
+
+ 
+
+ 
+
+March 13, 2029
+
+ 
+
+ 
+
+April 15, 2030
+
+ 
+
+ 
+
+April 15, 2032
+
+ 
+
+ 
+
+April 15, 2035
+
+ 
+
+Fixed interest rate
+
+ 
+
+4.07%
+
+ 
+
+ 
+
+4.25%
+
+ 
+
+ 
+
+5.10%
+
+ 
+
+ 
+
+5.35%
+
+ 
+
+ 
+
+5.60%
+
+ 
+
+Interest payment dates in arrears
+
+ 
+
+March and September
+
+ 
+
+ 
+
+March and September
+
+ 
+
+ 
+
+April and October
+
+ 
+
+ 
+
+April and October
+
+ 
+
+ 
+
+April and October
+
+ 
+
+ 
+Refer to Note N of the Notes to Consolidated Financial Statements contained in Item 8 of our Form 10-K for fiscal 2025 for further discussion on our long-term financing.
+ 
+Other commitments:
+ 
+We had outstanding commitments under existing workers’ compensation insurance agreements and legally binding contractual arrangements. We also entered into various purchase commitments with vendors in the ordinary course of business and had outstanding commitments to purchase approximately $5.9 million of capital assets as of November 30, 2025. In addition, we are involved in six limited partnership agreements to contribute a maximum of $37.5 million to venture capital funds. As of November 30, 2025, we have contributed approximately $32.1 million of the total funding commitment.
+ 
+In the normal course of business, we make representations and warranties that guarantee the performance of services under service arrangements with clients. Historically, there have been no material losses related to such guarantees. We have also entered into indemnification agreements with our officers, directors, and non-officer fiduciaries of our pooled employer plan retirement
+ 
+
+28
+ 
+
+Table of Contents
+
+ 
+ 
+
+offering, which require us to defend and, if necessary, indemnify these individuals for certain pending or future legal claims as they relate to their services provided to us.
+ 
+We currently self-insure the deductible portion of various insured exposures under certain corporate employee and PEO employee health and medical benefit plans. Historically, the amounts accrued for these plans have not been material and were not material as of November 30, 2025. We also self-insure the deductible portion of certain PEO workers' compensation benefit plans. Refer to Note A in the Notes to Consolidated Financial Statements in this Form 10-Q for additional information regarding our estimated loss exposure under these PEO workers' compensation benefit plans.
+ 
+ 
+We also maintain corporate insurance coverage, in addition to our purchased primary insurance policies, for gap coverage for employment practices liability, errors and omissions, warranty liability, theft and embezzlement, cyber threats, and acts of terrorism, as well as capacity for deductibles and self-insured retention through our captive insurance company.
+Operating, Investing, and Financing Cash Flow Activities
+Primary sources of cash, restricted cash, and equivalents are through collections for services rendered to our customers and interest earned on funds held for clients and corporate investments. Primary uses of cash include employee compensation and contractual obligations related to business operations, cash dividends paid, share repurchases, purchases of property and equipment, long-term debt service, and acquisitions.
+ 
+Our investment portfolio incorporates both corporate cash and funds held for clients. Interest rates, market conditions, and our variable cash flows are among several factors influencing our investment strategy directing the mix between long-term and VRDN AFS securities vs. short-term restricted cash and cash equivalents held in the portfolio. A portfolio strategy that favors larger balances held in restricted cash and cash equivalents may impact our investing activities due to the offsetting activity in the purchases and sales/maturities of AFS investments.
+Our cash flows include certain activities that are short-term in nature and have an impact on short-term cash flows due to timing of collection and settlement of obligations as follows:
+•
+PEO receivables and worksite-employee ("WSE") accrued compensation:
+ PEO receivables and WSE accrued compensation fluctuate based on either/both: (1) the timing of the payroll cut-off date and our month-end close, and (2) the timing of when cash is collected from the client and when it is remitted to either the WSE for wages earned or applicable tax or regulatory agencies for payroll taxes. PEO accounts receivable collections and compensation payments to WSEs and applicable tax or regulatory agencies are settled through our corporate cash and the fluctuations impact our operating activities.
+•
+Client fund obligations:
+ Client fund obligations liability will vary based on the timing of when cash is collected from the clients and when it is remitted to employees of the clients utilizing employee payment services or to applicable tax or regulatory agencies for payroll tax administration services. Collections from clients are typically remitted from one to 30 days after receipt, with some items extending to 90 days. Fluctuations in client fund obligations impact financing activities. 
+ 
+Summarized operating, investing, and financing cash flow information for the six months and the prior period:
+ 
+
+ 
+
+ 
+
+For the six months ended
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+November 30,
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+In millions
+
+ 
+
+2025
+
+ 
+
+ 
+
+2024
+
+ 
+
+ 
+
+ 
+
+Change
+
+ 
+
+Net cash provided by operating activities
+
+ 
+
+$
+
+ 
+
+1,163.3
+
+ 
+
+ 
+
+$
+
+ 
+
+841.1
+
+ 
+
+ 
+
+$
+
+ 
+
+322.2
+
+ 
+
+Net cash used in investing activities
+
+ 
+
+ 
+
+ 
+
+(926.4
+
+)
+
+ 
+
+ 
+
+ 
+
+(302.7
+
+)
+
+ 
+
+ 
+
+ 
+
+(623.7
+
+)
+
+Net cash used in financing activities
+
+ 
+
+ 
+
+ 
+
+(1,097.8
+
+)
+
+ 
+
+ 
+
+ 
+
+(776.4
+
+)
+
+ 
+
+ 
+
+ 
+
+(321.4
+
+)
+
+Net change in cash, restricted cash, and equivalents
+
+ 
+
+$
+
+ 
+
+(860.9
+
+)
+
+ 
+
+$
+
+ 
+
+(238.0
+
+)
+
+ 
+
+$
+
+ 
+
+(622.9
+
+)
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Cash dividends per common share
+
+ 
+
+$
+
+ 
+
+2.16
+
+ 
+
+ 
+
+$
+
+ 
+
+1.96
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+29
+ 
+
+Table of Contents
+
+ 
+ 
+
+ 
+ 
+The changes in our cash flow for the six months compared to the prior year period were primarily the result of the following key drivers:
+Operating Cash Flow Activities
+Fiscal 2026
+•
+Net income, adjusted for non-cash items including depreciation and amortization, provision on deferred taxes and stock-based compensation, attributable to the reasons discussed in the “Results of Operations” section of this Item 2;
+•
+Net increase in refunds owed to our clients and other cash collections related to tax benefits; and
+•
+Net increase in accrued income taxes due to the timing of estimated tax payments as compared to the accrual of income tax expense; offset by
+•
+A net decrease in accrued corporate compensation primarily due to the settlement of fiscal 2025 year-end bonuses.
+Fiscal 2025
+•
+Net income, adjusted for non-cash items including depreciation and amortization, benefit from deferred taxes and stock-based compensation, attributable to the reasons discussed in the “Results of Operations” section of this Item 2; and
+•
+Net increase in accrued income taxes due to the timing of estimated tax payments as compared to the accrual of income tax expense;
+•
+Net changes in PEO assets and liabilities as a result of the timing of cash collected and the settlement of payroll taxes; and
+•
+A net decrease in accrued corporate compensation primarily due to the settlement of fiscal 2024 year-end bonuses.
+ 
+Investing Cash Flow Activities
+Fiscal 2026
+•
+Net purchases of AFS securities related to investment in our long-term portfolio;
+•
+Cash used to develop and enhance our client facing internal-use software and the acquisition of third-party customer lists; and
+•
+Net purchases of short-term accounts receivable and an increase in our funding to existing clients.
+ 
+Fiscal 2025
+•
+Net purchases of short-term accounts receivable due to an increase in our client base, the timing of cash collections on outstanding receivables and cash settlement of the related reserve;
+•
+Cash used to develop and enhance our client facing internal-use software and the acquisition of third-party customer lists; and
+•
+Net purchases of AFS securities related to investment in our long-term portfolio. 
+Financing Cash Flow Activities
+Fiscal 2026
+•
+Cumulative dividends paid at $2.16 per share. The payment of future dividends is dependent on our future earnings and cash flow and is subject to the discretion of our Board of Directors (the "Board"); and
+•
+Cash used to repurchase 2.1 million shares of our common stock at a weighted average price of $134.43 per share during the six months. All repurchased shares were retired upon acquisition.
+ 
+Fiscal 2025
+
+30
+ 
+
+Table of Contents
+
+ 
+ 
+
+•
+Cumulative dividends paid at $1.96 per share. The payment of future dividends is dependent on our future earnings and cash flow and is subject to the discretion of the Board; and
+•
+Cash used to repurchase 0.8 million shares of our common stock at a weighted average price of $125.50 per share during the six months. All repurchases were retired upon acquisition; offset by
+•
+Increase in client fund obligations related to the timing of collections and remittances of client funds. 
+ 
+MARKET RISK FACTORS
+ 
+Changes in interest rates and interest rate risk:
+ Funds held for clients are primarily comprised of short-term funds and AFS securities. Corporate investments are primarily comprised of AFS securities. As a result of our investing activities, we are exposed to changes in interest rates that may materially affect our results of operations and financial position. Changes in interest rates will impact the earnings potential of future investments and will cause fluctuations in the fair value of our long-term AFS securities. We follow an investment strategy of protecting principal and optimizing liquidity. A substantial portion of our portfolios is invested in high credit quality securities with ratings of AA or higher, and A-1/P-1 ratings on short-term securities. We invest predominantly in corporate bonds; municipal bonds; U.S. government agency securities; and VRDNs when available in the market. We limit the amounts that can be invested in any single issuer and invest primarily in short- to intermediate-term instruments whose fair value is less sensitive to interest rate changes. We manage the AFS securities to a benchmark duration of two to three and one-quarter years.
+ 
+During the six months, our primary short-term investment vehicles were U.S. government agency discount notes and bank demand deposit accounts. We have no exposure to high-risk or non-liquid investments. We have insignificant exposure to European investments.
+ 
+ 
+During the six months, the average interest rate earned on our combined funds held for clients and corporate cash equivalents and investment portfolios was 3.7% compared to 3.8% for the prior year period. When interest rates are falling, the full impact of lower interest rates will not immediately be reflected in net income due to the interaction of short- and long-term interest rate changes. During a falling interest rate environment, earnings will decrease from our short-term investments, and over time, decrease from our longer-term AFS securities. Earnings from AFS securities, which as of November 30, 2025 had an average duration of 3.0 years, would not reflect decreases in interest rates until the investments are sold or mature and the proceeds are reinvested at lower rates.
+ 
+The amortized cost and fair value of AFS securities that had stated maturities as of November 30, 2025 are shown below by expected maturity.
+
+ 
+
+ 
+
+November 30, 2025
+
+ 
+
+ 
+
+ 
+
+Amortized
+
+ 
+
+ 
+
+Fair
+
+ 
+
+In millions
+
+ 
+
+cost
+
+ 
+
+ 
+
+value
+
+ 
+
+Maturity date:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Due in one year or less
+
+ 
+
+$
+
+ 
+
+702.0
+
+ 
+
+ 
+
+$
+
+ 
+
+696.8
+
+ 
+
+Due after one year through three years
+
+ 
+
+ 
+
+ 
+
+1,918.9
+
+ 
+
+ 
+
+ 
+
+ 
+
+1,899.2
+
+ 
+
+Due after three years through five years
+
+ 
+
+ 
+
+ 
+
+513.8
+
+ 
+
+ 
+
+ 
+
+ 
+
+519.7
+
+ 
+
+Due after five years
+
+ 
+
+ 
+
+ 
+
+1,412.9
+
+ 
+
+ 
+
+ 
+
+ 
+
+1,422.9
+
+ 
+
+Total
+
+ 
+
+$
+
+ 
+
+4,547.6
+
+ 
+
+ 
+
+$
+
+ 
+
+4,538.6
+
+ 
+
+ 
+ 
+VRDNs, when held by us, are primarily categorized as due after five years in the table above as the contractual maturities on these securities are typically 20 to 30 years. Although these securities are issued as long-term securities, they are priced and traded as short-term instruments because of the liquidity provided through the tender feature.
+ 
+As of November 30, 2025, the Federal Funds rate was in the range of 3.75% to 4.00%. Effective December 11, 2025, the Federal Reserve decreased the Federal Funds rate to a range of 3.50% to 3.75%. There continues to be uncertainty in the changing market and economic conditions, including the possibility of additional measures that could be taken by the U.S. President, the Federal Reserve and other government agencies related to the overall macroeconomic environment. We will continue to monitor the market and economic conditions.
+ 
+ 
+
+31
+ 
+
+Table of Contents
+
+ 
+ 
+
+Calculating the future effects of changing interest rates involves many factors. These factors include, but are not limited to:
+ 
+•
+governmental action to address inflation and/or intervene to support financial markets;
+•
+daily interest rate changes;
+•
+seasonal variations in investment balances;
+•
+actual duration of short-term and AFS securities; 
+•
+the proportion of taxable and tax-exempt investments;
+•
+changes in tax-exempt municipal rates versus taxable investment rates, which are not synchronized or simultaneous; and
+•
+financial market volatility and the resulting effect on benchmark and other indexing interest rates.
+ 
+Subject to these factors and under normal financial market conditions, a 25-basis-point change in taxable interest rates generally affects our tax-exempt interest rates by approximately 19 basis points. Under normal financial market conditions, the impact to earnings from a 25-basis-point change in short-term interest rates would be approximately $5.5 million to $6.0 million, after taxes, for a twelve-month period. Such a basis point change may or may not be tied to changes in the Federal Funds rate.
+ 
+Our total investment portfolio (funds held for clients and corporate cash equivalents and investments) is expected to average approximately $7.4 billion for the fiscal year ending May 31, 2026. Our anticipated allocation is approximately 40% invested in short-term securities and VRDNs with an average duration of less than 30 days and 60% invested in AFS securities, with an average duration of two to three and one-quarter years.
+ 
+The combined funds held for clients and corporate AFS securities reflected net unrealized losses of $9.0 million as of November 30, 2025 and $53.6 million as of May 31, 2025. During the six months, the net unrealized gain or loss on our investment portfolios ranged from net unrealized gain of $2.3 million to a net unrealized loss of $63.8 million. These fluctuations were driven by changes in market rates of interest. The net unrealized loss on our investment portfolio was approximately $15.8 million as of December 17, 2025.
+ 
+As of November 30, 2025 and May 31, 2025, we had $4.5 billion and $3.8 billion, respectively, invested in AFS securities at fair value. The weighted-average yield-to-maturity was 3.6% as of November 30, 2025 and 3.3% as of May 31, 2025. The weighted-average yield-to-maturity excludes AFS securities tied to short-term interest rates, such as VRDNs, when held. Assuming a hypothetical decrease in longer-term interest rates of 25 basis points, the resulting potential increase in fair value for our portfolio of AFS securities as of November 30, 2025, would be in a range of approximately $30.0 million to $35.0 million. Conversely, a corresponding increase in interest rates would result in a comparable decrease in fair value. This hypothetical increase or decrease in the fair value of the portfolio would be recorded as an adjustment to the portfolio’s recorded value, with an offsetting amount recorded in stockholders’ equity. These fluctuations in fair value would have no related or immediate impact on our results of operations unless any declines in fair value are due to credit related concerns and an impairment loss is recognized.
+ 
+We are also exposed to interest rate risk through the use of our recurring credit facilities as outlined in the Liquidity and Capital Resources section of this Form 10-Q. If interest rates were to increase, or we increase the frequency or amounts borrowed under these credit facilities, we could experience additional interest expense and a corresponding decrease in earnings.
+ 
+ 
+Credit risk:
+ We are exposed to credit risk in connection with our investments in AFS securities through the possible inability of the borrowers to meet the terms of their bonds. We regularly review our investment portfolios to determine if any investment is impaired due to increased credit risk or other valuation concerns and we believe that the investments we held as of November 30, 2025 were not impaired as a result of the previously discussed reasons. While $1.9 billion of our AFS securities had fair values that were below amortized cost, we believe that it is probable that the principal and interest will be collected in accordance with the contractual terms, and that the gross unrealized losses of $42.1 million were due to changes in interest rates and were not due to increased credit risk or other valuation concerns. A substantial portion of the AFS securities in an unrealized loss position as of November 30, 2025 and May 31, 2025 had an AA rating or better. We do not intend to sell these investments until the recovery of their amortized cost basis or maturity, and further believe that it is not more-likely-than-not that we will be required to sell these investments prior to that time. Our assessment that an investment is not impaired due to increased credit risk or other valuation concerns could change in the future due to new developments, including changes in our strategies or assumptions related to any particular investment.
+
+32
+ 
+
+Table of Contents
+
+ 
+ 
+
+We have some credit risk exposure relating to our purchase of client accounts receivable under non-recourse arrangements. There is also credit risk exposure relating to our trade accounts receivable. This credit risk exposure is diversified amongst multiple client arrangements and all such arrangements are regularly reviewed for potential write-off. No single client was material in respect to total accounts receivable, service revenue, or results of operations as of November 30, 2025.
+ 
+Market risk:
+ We have an ongoing monitoring system for financial institutions we conduct business with and maintain cash balances at large well-capitalized (as defined by their regulators) financial institutions. We closely monitor market conditions and take appropriate measures, when necessary, to minimize potential risk exposure to our clients' and our cash and investment balances.
+ 
+CRITICAL ACCOUNTING ESTIMATES
+ 
+Our critical accounting policies are described in 

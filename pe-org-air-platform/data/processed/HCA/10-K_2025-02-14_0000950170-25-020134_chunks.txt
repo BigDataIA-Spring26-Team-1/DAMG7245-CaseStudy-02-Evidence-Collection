@@ -1,0 +1,487 @@
+Item 1.
+ 
+Business
+ 
+General
+ 
+HCA Healthcare, Inc. is one of the leading health care services companies in the United States. At December 31, 2024, we operated 190 hospitals, comprised of 180 general, acute care hospitals; six behavioral hospitals; and four rehabilitation hospitals. In addition, we operated 124 freestanding ambulatory surgery centers ("ASCs") and 26 freestanding endoscopy centers. Our facilities are located in 20 states and England.
+ 
+The terms “Company,” “HCA,” “HCA Healthcare,” “we,” “our” or “us,” as used herein and unless otherwise stated or indicated by context, refer to HCA Healthcare, Inc. and its affiliates. The term “affiliates” means direct and indirect subsidiaries of HCA Healthcare, Inc. and partnerships and joint ventures in which such subsidiaries are partners. The terms “facilities” or “hospitals” refer to entities owned and operated by affiliates of HCA, and the term “employees” refers to employees of affiliates of HCA.
+ 
+Our primary objective is to provide a comprehensive array of quality health care services in the most cost-effective manner possible. Our general, acute care hospitals typically provide a full range of services to accommodate such medical specialties as internal medicine, general surgery, cardiology, oncology, neurosurgery, orthopedics and obstetrics, as well as diagnostic and emergency services. Outpatient and ancillary health care services are provided by our general, acute care hospitals, ASCs, freestanding emergency care
+
+--- CHUNK ---
+
+we serve with high-quality, convenient and cost-effective health care while growing our business and creating long-term value for our stockholders. We strive to be the health care system of choice in the communities we serve by developing comprehensive networks locally and supporting these networks with enterprise expertise and economies of scale. Our strategy is organized around a framework that seeks to drive sustained growth by delivering operational excellence, attracting exceptional physicians and other health care professionals, developing comprehensive services, creating greater access and coordinating higher quality care for patients.
+ 
+
+3
+
+ 
+To achieve these objectives, we align our efforts around the following growth agenda:
+ 
+•
+grow our presence in existing markets; 
+•
+achieve industry-leading performance in clinical, operational and satisfaction measures; 
+•
+recruit and retain physicians and other health care professionals to meet the need for high-quality health services; 
+•
+continue to utilize economies of scale to grow the Company; and 
+•
+pursue a disciplined development strategy. 
+Our strategy also emphasizes investments that seek to advance our clinical systems and digital capabilities, transform care models with innovative care solutions, expand our workforce development programs and enhance our health care networks and partnerships.
+Health Care Facilities
+ 
+We currently own, manage or operate hospitals, ASCs, freestanding emergency care facilities, urgent c
+
+--- CHUNK ---
+
+pment purchasing and leasing contracts, accounting, financial and clinical systems, governmental reimbursement assistance, construction planning and coordination, information technology systems and solutions, legal counsel, human resources services and internal audit services.
+ 
+Summary Risk Factors
+You should carefully read and consider the risk factors set forth under Item 1A, “Risk Factors,” as well as all other information contained in this annual report on Form 10-K. Additional risks and uncertainties not presently known to us or that we currently deem immaterial may also affect us. If any of these risks occur, our business, financial position, results of operations, cash flows or prospects could be materially, adversely affected. Our business is subject to the following principal risks and uncertainties:
+ 
+
+4
+
+ 
+Risks related to our indebtedness:
+ 
+•
+We have significant indebtedness and may incur further indebtedness in the future. Our indebtedness could adversely affect our ability to raise additional capital to fund our operations, limit our ability to react to changes in the economy or our industry, expose us to interest rate risk to the extent of our variable rate debt and prevent us from meeting our obligations. 
+•
+We may not be able to generate sufficient cash to service all of our indebtedness and may not be able to refinance our indebtedness on favorable terms. If we are unable to do so, we may be forced to take other actions to satisfy our obligations under our
+
+--- CHUNK ---
+
+changes to laws and regulations. We are unable to predict whether, what, and when changes in the health care industry may occur, and the effects and ultimate impact of any changes are uncertain and may adversely affect our business and results of operations. 
+•
+Changes in government health care programs may adversely affect our revenues and business. 
+•
+If we fail to comply with extensive laws and government regulations, we could suffer penalties or be required to make significant changes to our operations. 
+•
+State efforts to regulate the construction or expansion of health care facilities could impair our ability to operate and expand our operations. 
+•
+We may incur additional tax liabilities. 
+•
+We have been and could become the subject of government investigations, claims and litigation, as well as governmental and commercial payer audits. 
+•
+We may be subject to liabilities from claims brought against our facilities, which are costly to defend and may require us to pay significant damages if not covered by insurance. 
+
+5
+
+ 
+Risks related to operations, strategy, demand and competition:
+ 
+•
+Our hospitals and other facilities face competition for patients from other hospitals and health care providers. 
+•
+Any increase in the volume of uninsured patients or deterioration in the collectability of uninsured and patient due accounts could adversely affect our results of operations. 
+•
+If our volume of patients with private health insurance coverage declines or we are unable to
+
+--- CHUNK ---
+
+geographic location of the hospital. Inpatient occupancy levels fluctuate for various reasons, many of which are beyond our control.
+ 
+
+6
+
+ 
+We receive payments for patient services from the federal government under the Medicare program, state governments under their respective Medicaid or similar programs, managed care plans (including plans offered through federal and state-based health insurance marketplaces (“Exchanges”)), private insurers and directly from patients. Our revenues by primary third-party payer classification and other (including uninsured patients) for the years ended December 31, 2024, 2023 and 2022 are summarized in the following table (dollars in millions):
+ 
+ 
+
+ 
+
+ 
+
+Years Ended December 31,
+
+ 
+
+ 
+
+ 
+
+2024
+
+ 
+
+ 
+
+Ratio
+
+ 
+
+ 
+
+2023
+
+ 
+
+ 
+
+Ratio
+
+ 
+
+ 
+
+2022
+
+ 
+
+ 
+
+Ratio
+
+ 
+
+Medicare
+
+ 
+
+$
+
+10,780
+
+ 
+
+ 
+
+ 
+
+15.3
+
+%
+
+ 
+
+$
+
+10,585
+
+ 
+
+ 
+
+ 
+
+16.3
+
+%
+
+ 
+
+$
+
+10,447
+
+ 
+
+ 
+
+ 
+
+17.3
+
+%
+
+Managed Medicare
+
+ 
+
+ 
+
+11,987
+
+ 
+
+ 
+
+ 
+
+17.0
+
+ 
+
+ 
+
+ 
+
+10,496
+
+ 
+
+ 
+
+ 
+
+16.2
+
+ 
+
+ 
+
+ 
+
+9,201
+
+ 
+
+ 
+
+ 
+
+15.3
+
+ 
+
+Medicaid
+
+ 
+
+ 
+
+4,678
+
+ 
+
+ 
+
+ 
+
+6.6
+
+ 
+
+ 
+
+ 
+
+3,606
+
+ 
+
+ 
+
+ 
+
+5.6
+
+ 
+
+ 
+
+ 
+
+2,636
+
+ 
+
+ 
+
+ 
+
+4.4
+
+ 
+
+Managed Medicaid
+
+ 
+
+ 
+
+3,980
+
+ 
+
+ 
+
+ 
+
+5.6
+
+ 
+
+ 
+
+ 
+
+3,879
+
+ 
+
+ 
+
+ 
+
+6.0
+
+ 
+
+ 
+
+ 
+
+3,998
+
+ 
+
+ 
+
+ 
+
+6.6
+
+ 
+
+Managed care and other insurers
+
+ 
+
+ 
+
+34,954
+
+ 
+
+ 
+
+ 
+
+49.5
+
+ 
+
+ 
+
+ 
+
+31,819
+
+ 
+
+ 
+
+ 
+
+49.0
+
+ 
+
+ 
+
+ 
+
+29,120
+
+ 
+
+ 
+
+ 
+
+48.3
+
+ 
+
+International (managed care and other insurers)
+
+ 
+
+ 
+
+1,682
+
+ 
+
+ 
+
+ 
+
+2.4
+
+ 
+
+ 
+
+ 
+
+1,509
+
+ 
+
+ 
+
+ 
+
+2.3
+
+ 
+
+ 
+
+ 
+
+1,317
+
+ 
+
+ 
+
+ 
+
+2.2
+
+ 
+
+
+--- CHUNK ---
+
+whether they may qualify for Medicaid, other federal or state assistance or charity care under our charity care policy. If an uninsured patient does not qualify for these programs, the uninsured discount is applied.
+ 
+Medicare
+ 
+In addition to the reimbursement reductions and adjustments discussed below, the Budget Control Act of 2011 (the “BCA”) requires automatic spending reductions to reduce the federal deficit, resulting in a uniform percentage reduction across all Medicare programs of 2% per fiscal year that extends through the first eight months of federal fiscal year 2032. We anticipate that the federal deficit will continue to place pressure on government health care programs, and it is possible that future deficit reduction legislation will impose additional spending reductions.
+Inpatient Acute Care
+ 
+Under the Medicare program, we receive reimbursement under a prospective payment system (“PPS”) for general, acute care hospital inpatient services. Under the hospital inpatient PPS, fixed payment amounts per inpatient discharge are established based on the patient’s assigned Medicare severity diagnosis-related group (“MS-DRG”). MS-DRGs classify treatments for illnesses according to the estimated intensity of hospital resources necessary to furnish care for each principal diagnosis. MS-DRG weights represent the average resources for a given MS-DRG relative to the average resources for all MS-DRGs. MS-DRG payments are adjusted for area wage differentials. Hospitals, othe
+
+--- CHUNK ---
+
+charges a patient to another hospital or, for specified MS-DRGs, to certain post-acute care settings. We anticipate that additional adjustments may apply in future payment years as a result of 2024 court decisions that vacated a low wage index policy CMS adopted in 2020. The policy had funded an increase to the wage index value for hospitals with low wage indexes by decreasing reimbursement for all other hospitals. CMS addressed the impact of the decision prospectively in its final rule updating inpatient hospital payment rates and policies for federal fiscal year 2025, but it is not yet clear how the agency will address the impact the low wage policy had in 2020 through 2024.
+CMS has implemented and is implementing a number of programs and requirements intended to transform Medicare from a passive payer to an active purchaser of quality goods and services. For example, hospitals that do not successfully participate in the Hospital Inpatient Quality Reporting Program are subject to a 25% reduction of the market basket update. Hospitals that do not demonstrate meaningful use of electronic health records (“EHRs”) are subject to a 75% reduction of the market basket update.
+ 
+Further, Medicare does not allow an inpatient hospital discharge to be assigned to a higher paying MS-DRG if certain designated hospital acquired conditions (“HACs”) were not present on admission and the identified HAC is the only condition resulting in the assignment of the higher paying MS-DRG. In this sit
+
+--- CHUNK ---
+
+spital based on achievement (relative to other hospitals) and improvement ranges (relative to the hospital’s own past performance) for each applicable performance standard. Hospitals that meet or exceed the quality performance standards receive greater reimbursement under the value-based purchasing program than they would have otherwise. Hospitals that do not achieve the necessary level of quality performance receive reduced Medicare inpatient hospital payments. Hospitals are scored on a number of individual measures that are categorized into four domains: clinical outcomes; efficiency and cost reduction; safety; and person and community engagement.
+ 
+ 
+
+8
+
+ 
+Outpatient
+ 
+CMS reimburses hospital outpatient services (and certain Medicare Part B services furnished to hospital inpatients who have no Part A coverage) on a PPS basis. Hospital outpatient services paid under PPS are classified into groups called ambulatory payment classifications (“APCs”). Services for each APC are similar clinically and in terms of the resources they require. Depending on the services provided, a hospital may be paid for more than one APC for a patient visit. A payment rate is established for each APC and updated for each calendar year. Each calendar year, the annual market basket update is further reduced by a productivity adjustment based on the BLS 10-year moving average of changes in specified economy-wide productivity. For calendar year 2024, CMS increased payment rates under the outpatient PP
+
+--- CHUNK ---
+
+ts. Under the policy, clinic visit services provided at all off-campus provider-based departments are generally not covered as outpatient department services under the outpatient PPS, but rather are reimbursed at the Medicare Physician Fee Schedule (“Physician Fee Schedule”) rate, which is generally lower than the outpatient PPS rate.
+Rehabilitation
+ 
+CMS reimburses inpatient rehabilitation facilities (“IRFs”) on a PPS basis. Under the IRF PPS, patients are classified into case mix groups that reflect the relative resource intensity typically associated with the patient’s clinical condition. The case mix groups are based upon impairment, age, functional motor and cognitive scores, and comorbidities (additional diseases or disorders from which the patient suffers). IRFs are paid a predetermined amount per discharge that reflects the patient’s case mix group and is adjusted for facility-specific factors, such as area wage levels, proportion of low-income patients, and location in a rural area. Each federal fiscal year, the IRF rates are updated using a market basket index, which is reduced by a productivity adjustment based on the BLS 10-year moving average of changes in specified economy-wide productivity. For federal fiscal year 2024, CMS increased IRF payment rates by an estimated 3.4%, reflecting an IRF market basket update of 3.6%, reduced by a 0.2 percentage point productivity adjustment. For federal fiscal year 2025, CMS increased IRF payment rates by an estimated 3.0%, 
+
+--- CHUNK ---
+
+l fiscal year 2025, CMS increased the IPF payment rates by 2.8%, which reflects a 3.3% IPF market basket increase, reduced by a 0.5 percentage point productivity adjustment. Together with other policy changes, total Medicare payments to IPFs are anticipated to increase by 2.5% in federal fiscal year 2025. Inpatient psychiatric facilities are required to report quality measures to CMS to avoid receiving a 2.0 percentage point reduction to the market basket update. As of December 31, 2024, we had six behavioral hospitals and 43 hospital behavioral units.
+ 
+Ambulatory Surgery Centers
+ 
+CMS reimburses ASCs using a predetermined fee schedule. Reimbursements for ASC overhead costs are limited to no more than the overhead costs paid to hospital outpatient departments under the Medicare hospital outpatient PPS for the same procedure. If CMS determines that a procedure is commonly performed in a physician’s office, the ASC reimbursement for that procedure is limited to the reimbursement allowable under the Physician Fee Schedule, with limited exceptions. All surgical procedures, other than those that pose a significant safety risk or generally require an overnight stay, are payable as ASC procedures. From time to time, CMS expands the services that may be performed in ASCs, which may result in more Medicare procedures that historically have been performed in hospitals being moved to ASCs, reducing surgical volume in our hospitals. Also, more Medicare procedures that historically have 

@@ -1,0 +1,673 @@
+Item 1 of this Form 10-Q for a discussion of recently issued accounting pronouncements.
+ 
+Ite
+m 3. Quantitative and Qualitative Disclosures About Market Risk
+ 
+The information called for by this item is provided under the caption “Market Risk Factors” under Item 2 – Management’s Discussion and Analysis of Financial Condition and Results of Operations and is incorporated herein by reference.
+ 
+Ite
+m 4. Controls and Procedures
+ 
+Disclosure Controls and Procedures:
+ Disclosure controls and procedures are designed with the objective of ensuring that information required to be disclosed in the Company’s reports filed under the Securities Exchange Act of 1934, as amended (the “Exchange Act”), such as this report, is recorded, processed, summarized, and reported within the time periods specified in the SEC’s rules and forms. Disclosure controls and procedures are also designed with the objective of ensuring that such information is accumulated and communicated to the Company’s management, including the Company’s principal executive officer and principal financial officer, as appropriate, to allow timely decisions regarding required disclosure.
+ 
+Conclusion Regarding the Effectiveness of Disclosure Controls and Procedures:
+ As of the end of the period covered by this report, the Company carried out an evaluation, under the supervision and with the participation of the Company’s principal executive officer and principal financial officer, of the effectiveness of disclosure controls an
+
+--- CHUNK ---
+
+$
+
+ 
+
+126.5
+
+ 
+
+ 
+
+$
+
+ 
+
+9.4
+
+ 
+
+ 
+Item 5. Other Information
+ 
+During the second
+ quarter, none of our directors or officers (as defined by Rule 16a-1 under the Exchange Act), 
+adopted
+ or 
+terminated
+ any contract, instruction or written plan for the purchase or sale of our securities that was intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) of the Exchange Act or any “non-Rule 10b5-1 trading arrangement” (as defined by Item 408(c) of Regulation S-K).
+ 
+Ite
+m 6. Exhibits
+ 
+INDEX TO EXHIBITS
+ 
+
+ 
+
+Exhibit
+number
+
+Description
+
+*
+
+31.1
+
+Certification pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+
+*
+
+31.2
+
+Certification pursuant to Section 302 of the Sarbanes-Oxley Act of 2002.
+
+*
+
+32.1
+
+Certification pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+
+*
+
+32.2
+
+Certification pursuant to 18 U.S.C. Section 1350, as adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002.
+
+*
+
+101.INS
+
+Inline XBRL Instance Document– the instance document does not appear in the Interactive Data File because XBRL tags are embedded within the Inline XBRL document.
+
+*
+
+101.SCH
+
+Inline XBRL Taxonomy Extension Schema With Embedded Linkbase Documents
+
+*
+
+104
+
+Cover Page Interactive Data File (embedded within the Inline XBRL document)
+
+ 
+* Exhibit filed or furnished with this report
+ 
+ 
+ 
+
+35
+ 
+
+Table of Contents
+
+ 
+ 
+
+SIGNA
+TURES
+ 
+Pursuant to the requirements of the Securities Exchange Act of 1934, the re
+
+--- CHUNK ---
+
+Item 1A in our Form 10-K for fiscal 2025 and other SEC filings, we may need to adjust our capital, operating and other discretionary spending to realign our working capital requirements with the capital resources available to us. Furthermore, if we determine the need for additional short-term liquidity, there is no assurance that such financing, if pursued and obtained, would be adequate or on terms acceptable to us.
+ 
+Letters of credit:
+ As of November 30, 2025, we had irrevocable standby letters of credit available totaling $172.9 million, primarily to secure commitments for certain insurance policies. The letters of credit expire at various dates between December 01, 2025 and February 28, 2027. No amounts were outstanding on these letters of credit during the second quarter or as of November 30, 2025.
+ 
+ 
+Long-term financing:
+ We have borrowed $0.8 billion through the issuance of long-term private placement debt (“Senior Notes”) and $4.2 billion through the issuance of three fixed rate corporate bonds ("Corporate Bonds"). The following is information on each of our long-term financing arrangements related to future cash commitments:
+ 
+
+ 
+
+ 
+
+Senior Notes
+
+ 
+
+ 
+
+Corporate Bonds
+
+ 
+
+$ in billions
+
+ 
+
+Series A
+
+ 
+
+ 
+
+Series B
+
+ 
+
+ 
+
+5-year
+
+ 
+
+ 
+
+7-year
+
+ 
+
+ 
+
+10-year
+
+ 
+
+Principal amount
+
+ 
+
+$
+
+0.4
+
+ 
+
+ 
+
+$
+
+0.4
+
+ 
+
+ 
+
+$
+
+1.5
+
+ 
+
+ 
+
+$
+
+1.5
+
+ 
+
+ 
+
+$
+
+1.2
+
+ 
+
+Principal payment date
+
+ 
+
+March 13, 2026
+
+ 
+
+ 
+
+March 13, 2029
+
+ 
+
+ 
+
+April 15, 2030
+
+ 
+
+ 
+
+April 15, 2032
+
+ 
+
+ 
+
+Apri
+
+--- CHUNK ---
+
+0-Q for additional information regarding our estimated loss exposure under these PEO workers' compensation benefit plans.
+ 
+ 
+We also maintain corporate insurance coverage, in addition to our purchased primary insurance policies, for gap coverage for employment practices liability, errors and omissions, warranty liability, theft and embezzlement, cyber threats, and acts of terrorism, as well as capacity for deductibles and self-insured retention through our captive insurance company.
+Operating, Investing, and Financing Cash Flow Activities
+Primary sources of cash, restricted cash, and equivalents are through collections for services rendered to our customers and interest earned on funds held for clients and corporate investments. Primary uses of cash include employee compensation and contractual obligations related to business operations, cash dividends paid, share repurchases, purchases of property and equipment, long-term debt service, and acquisitions.
+ 
+Our investment portfolio incorporates both corporate cash and funds held for clients. Interest rates, market conditions, and our variable cash flows are among several factors influencing our investment strategy directing the mix between long-term and VRDN AFS securities vs. short-term restricted cash and cash equivalents held in the portfolio. A portfolio strategy that favors larger balances held in restricted cash and cash equivalents may impact our investing activities due to the offsetting activity in the purchases and 
+
+--- CHUNK ---
+
+29
+ 
+
+Table of Contents
+
+ 
+ 
+
+ 
+ 
+The changes in our cash flow for the six months compared to the prior year period were primarily the result of the following key drivers:
+Operating Cash Flow Activities
+Fiscal 2026
+•
+Net income, adjusted for non-cash items including depreciation and amortization, provision on deferred taxes and stock-based compensation, attributable to the reasons discussed in the “Results of Operations” section of this Item 2;
+•
+Net increase in refunds owed to our clients and other cash collections related to tax benefits; and
+•
+Net increase in accrued income taxes due to the timing of estimated tax payments as compared to the accrual of income tax expense; offset by
+•
+A net decrease in accrued corporate compensation primarily due to the settlement of fiscal 2025 year-end bonuses.
+Fiscal 2025
+•
+Net income, adjusted for non-cash items including depreciation and amortization, benefit from deferred taxes and stock-based compensation, attributable to the reasons discussed in the “Results of Operations” section of this Item 2; and
+•
+Net increase in accrued income taxes due to the timing of estimated tax payments as compared to the accrual of income tax expense;
+•
+Net changes in PEO assets and liabilities as a result of the timing of cash collected and the settlement of payroll taxes; and
+•
+A net decrease in accrued corporate compensation primarily due to the settlement of fiscal 2024 year-end bonuses.
+ 
+Investing Cash Flow Activities
+Fiscal 2026
+•
+Net purchases o
+
+--- CHUNK ---
+
+in interest rates will impact the earnings potential of future investments and will cause fluctuations in the fair value of our long-term AFS securities. We follow an investment strategy of protecting principal and optimizing liquidity. A substantial portion of our portfolios is invested in high credit quality securities with ratings of AA or higher, and A-1/P-1 ratings on short-term securities. We invest predominantly in corporate bonds; municipal bonds; U.S. government agency securities; and VRDNs when available in the market. We limit the amounts that can be invested in any single issuer and invest primarily in short- to intermediate-term instruments whose fair value is less sensitive to interest rate changes. We manage the AFS securities to a benchmark duration of two to three and one-quarter years.
+ 
+During the six months, our primary short-term investment vehicles were U.S. government agency discount notes and bank demand deposit accounts. We have no exposure to high-risk or non-liquid investments. We have insignificant exposure to European investments.
+ 
+ 
+During the six months, the average interest rate earned on our combined funds held for clients and corporate cash equivalents and investment portfolios was 3.7% compared to 3.8% for the prior year period. When interest rates are falling, the full impact of lower interest rates will not immediately be reflected in net income due to the interaction of short- and long-term interest rate changes. During a falling interes
+
+--- CHUNK ---
+
+vene to support financial markets;
+•
+daily interest rate changes;
+•
+seasonal variations in investment balances;
+•
+actual duration of short-term and AFS securities; 
+•
+the proportion of taxable and tax-exempt investments;
+•
+changes in tax-exempt municipal rates versus taxable investment rates, which are not synchronized or simultaneous; and
+•
+financial market volatility and the resulting effect on benchmark and other indexing interest rates.
+ 
+Subject to these factors and under normal financial market conditions, a 25-basis-point change in taxable interest rates generally affects our tax-exempt interest rates by approximately 19 basis points. Under normal financial market conditions, the impact to earnings from a 25-basis-point change in short-term interest rates would be approximately $5.5 million to $6.0 million, after taxes, for a twelve-month period. Such a basis point change may or may not be tied to changes in the Federal Funds rate.
+ 
+Our total investment portfolio (funds held for clients and corporate cash equivalents and investments) is expected to average approximately $7.4 billion for the fiscal year ending May 31, 2026. Our anticipated allocation is approximately 40% invested in short-term securities and VRDNs with an average duration of less than 30 days and 60% invested in AFS securities, with an average duration of two to three and one-quarter years.
+ 
+The combined funds held for clients and corporate AFS securities reflected net unrealized losses of $9.0 millio
+
+--- CHUNK ---
+
+the terms of their bonds. We regularly review our investment portfolios to determine if any investment is impaired due to increased credit risk or other valuation concerns and we believe that the investments we held as of November 30, 2025 were not impaired as a result of the previously discussed reasons. While $1.9 billion of our AFS securities had fair values that were below amortized cost, we believe that it is probable that the principal and interest will be collected in accordance with the contractual terms, and that the gross unrealized losses of $42.1 million were due to changes in interest rates and were not due to increased credit risk or other valuation concerns. A substantial portion of the AFS securities in an unrealized loss position as of November 30, 2025 and May 31, 2025 had an AA rating or better. We do not intend to sell these investments until the recovery of their amortized cost basis or maturity, and further believe that it is not more-likely-than-not that we will be required to sell these investments prior to that time. Our assessment that an investment is not impaired due to increased credit risk or other valuation concerns could change in the future due to new developments, including changes in our strategies or assumptions related to any particular investment.
+
+32
+ 
+
+Table of Contents
+
+ 
+ 
+
+We have some credit risk exposure relating to our purchase of client accounts receivable under non-recourse arrangements. There is also credit risk exposure relati
+
+--- CHUNK ---
+
+Item 7 of our Form 10-K for fiscal 2025, filed with the SEC on July 11, 2025. On an ongoing basis, we evaluate the critical accounting policies and estimates used to prepare our consolidated financial statements, including, but not limited to, those related to:
+ 
+•
+revenue recognition;
+•
+assets recognized from the costs to obtain and fulfill contracts;
+•
+PEO insurance reserves;
+•
+goodwill and other intangible assets;
+•
+impairment of long-lived assets; 
+•
+stock-based compensation costs; 
+•
+business combinations; and
+•
+income taxes.
+ 
+There have been no material changes in these aforementioned critical accounting policies and estimates.
+ 
+NEW ACCOUNTING PRONOUNCEMENTS
+ 
+Recently adopted accounting pronouncements:
+ Refer to Note A of the Notes to Consolidated Financial Statements (Unaudited) contained in Item 1 of this Form 10-Q for a discussion of recently adopted accounting pronouncements.
+ 
+Recently issued accounting pronouncements:
+ Refer to Note A of the Notes to Consolidated Financial Statements (Unaudited) contained in Item 1 of this Form 10-Q for a discussion of recently issued accounting pronouncements.
+ 
+Ite
+m 3. Quantitative and Qualitative Disclosures About Market Risk
+ 
+The information called for by this item is provided under the caption “Market Risk Factors” under Item 2 – Management’s Discussion and Analysis of Financial Condition and Results of Operations and is incorporated herein by reference.
+ 
+Ite
+m 4. Controls and Procedures
+ 
+Disclosure Controls and Proced
+
+--- CHUNK ---
+
+of Equity Securities and Use of Proceeds
+ 
+The Company maintains a program to repurchase up to $400.0 million of the Company’s common stock with authorization that expires on May 31, 2027.
+ 
+The purpose of this program is to manage common stock dilution. Shares repurchased under this program during the second quarter were as follows:
+ 
+
+In millions, except per share amounts
+
+ 
+
+Total
+number
+of shares
+purchased
+
+ 
+
+ 
+
+Average
+price paid
+per share
+
+ 
+
+ 
+
+Total dollars
+
+ 
+
+ 
+
+Approximate dollar value
+of shares that may yet be
+purchased under
+the programs
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+September 1, 2025 - September 30, 2025
+
+ 
+
+$
+
+ 
+
+—
+
+ 
+
+ 
+
+$
+
+ 
+
+—
+
+ 
+
+ 
+
+$
+
+ 
+
+—
+
+ 
+
+ 
+
+$
+
+ 
+
+135.9
+
+ 
+
+October 1, 2025 - October 31, 2025
+
+ 
+
+ 
+
+ 
+
+1.0
+
+ 
+
+ 
+
+ 
+
+ 
+
+122.54
+
+ 
+
+ 
+
+ 
+
+ 
+
+126.5
+
+ 
+
+ 
+
+$
+
+ 
+
+9.4
+
+ 
+
+November 1, 2025 - November 30, 2025
+
+ 
+
+ 
+
+ 
+
+—
+
+ 
+
+ 
+
+ 
+
+ 
+
+—
+
+ 
+
+ 
+
+ 
+
+ 
+
+—
+
+ 
+
+ 
+
+$
+
+ 
+
+9.4
+
+ 
+
+Total for the period
+
+ 
+
+ 
+
+ 
+
+1.0
+
+ 
+
+ 
+
+$
+
+ 
+
+122.54
+
+ 
+
+ 
+
+$
+
+ 
+
+126.5
+
+ 
+
+ 
+
+$
+
+ 
+
+9.4
+
+ 
+
+ 
+Item 5. Other Information
+ 
+During the second
+ quarter, none of our directors or officers (as defined by Rule 16a-1 under the Exchange Act), 
+adopted
+ or 
+terminated
+ any contract, instruction or written plan for the purchase or sale of our securities that was intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) of the Exchange Act or any “non-Rule 10b5-1 trading arrangement” (as defined by Item 408(c) 

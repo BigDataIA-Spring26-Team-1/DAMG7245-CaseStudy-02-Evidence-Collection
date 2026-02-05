@@ -1,0 +1,91 @@
+Item 1. Business.
+Overview
+JPMorgan Chase & Co. (“JPMorganChase” or the “Firm”, NYSE: JPM), a financial holding company incorporated under Delaware law in 1968, is a leading financial services firm based in the United States of America (“U.S.”), with operations worldwide. JPMorganChase had $4.0 trillion in assets and $344.8 billion in stockholders’ equity as of December 31, 2024. The Firm is a leader in investment banking, financial services for consumers and small businesses, commercial banking, financial transaction processing and asset management. Under the J.P. Morgan and Chase brands, the Firm serves millions of customers, predominantly in the U.S., and many of the world’s most prominent corporate, institutional and government clients globally.
+JPMorganChase’s principal bank subsidiary is JPMorgan Chase Bank, National Association (“JPMorgan Chase Bank, N.A.”), a national banking association with U.S. branches in 48 states and Washington, D.C. JPMorganChase’s principal non-bank subsidiary is J.P. Morgan Securities LLC (“J.P. Morgan Securities”), a U.S. broker-dealer. The bank and non-bank subsidiaries of JPMorganChase operate nationally as well as through overseas branches and subsidiaries, representative offices and subsidiary foreign banks. The Firm’s principal operating subsidiaries outside the U.S. are J.P. Morgan Securities plc and J.P. Morgan SE (“JPMSE”), which are subsidiaries of JPMorgan Chase Bank, N.A. and are based in the United Kingdom (“U.K.”) and Germany, r
+
+--- CHUNK ---
+
+PMorganChase and its subsidiaries and affiliates operate in highly competitive environments. Competitors include other banks, brokerage firms, investment banking companies, merchant banks, hedge funds, commodity trading companies, private equity firms, insurance companies, mutual fund companies, investment managers, credit card companies, mortgage banking companies, trust companies, securities processing companies, automobile financing companies, leasing companies, e-commerce and other internet-based companies, financial technology companies, and other companies engaged in providing similar and new products and services. The Firm’s businesses generally compete on the basis of the quality and variety of the Firm’s products and services, transaction execution, innovation, reputation and price. Competition also varies based on the types of clients, customers, industries and geographies served. With respect to some of its geographies and products, JPMorganChase competes globally; with respect to others, the Firm competes on a national or regional basis. New competitors in the financial services industry continue to emerge, including firms that offer products and services solely through the internet and non-financial companies that offer products and services that disintermediate traditional banking products and services offered by financial services firms such as JPMorganChase.
+1
+Part I
+Supervision and regulation
+The Firm is subject to extensive and comprehensive regulation under
+
+--- CHUNK ---
+
+in closely-related activities. FHCs are permitted to engage in a broader range of financial activities. The Federal Reserve has the authority to limit an FHC’s ability to conduct otherwise permissible activities if the FHC or any of its depository institution subsidiaries ceases to meet applicable eligibility requirements. The Federal Reserve may also impose corrective capital and/or managerial requirements on the FHC, and if deficiencies are persistent, may require divestiture of the FHC’s depository institutions. If any 
+depository institution controlled by an FHC fails to maintain a satisfactory rating under the Community Reinvestment Act, the Federal Reserve must prohibit the FHC and its subsidiaries from engaging in any new activities other than those permissible for BHCs, or acquiring a company engaged in such activities. 
+Capital and liquidity requirements
+. The Federal Reserve establishes capital, liquidity and leverage requirements for JPMorganChase that are generally consistent with the international Basel III capital and liquidity framework and evaluates the Firm’s compliance with those requirements. The OCC establishes similar requirements for JPMorgan Chase Bank, N.A. Certain of the Firm’s non-U.S. subsidiaries and branches are also subject to local capital and liquidity requirements.
+Banking supervisors globally continue to refine and enhance the Basel III capital framework for financial institutions. In July 2023, U.S. banking regulators released a proposal to 
+
+--- CHUNK ---
+
+stress tests for the Firm and JPMorgan Chase Bank, N.A. under the supervisory “severely adverse” scenarios provided by the Federal Reserve and the OCC. In December 2024, the Federal Reserve indicated in a press release that it intends to seek public comment on changes to its stress testing framework. Additionally, there is a pending legal challenge to the manner in which stress testing is administered. Refer to Litigation and regulatory challenges on pages 6-7 for further information.
+Refer to Capital Risk Management on pages 97–107 and Liquidity Risk Management on pages 108–115 for more information.
+Enhanced prudential standards
+. As part of its mandate to identify and monitor risks to the financial stability of the U.S. posed by large banking organizations, the Financial Stability Oversight Council (“FSOC”) recommends prudential standards and reporting requirements to the Federal Reserve for systemically important financial institutions (“SIFIs”), such as JPMorganChase. The Federal Reserve has adopted several rules to implement those heightened prudential standards, including rules relating to risk management and corporate governance of subject BHCs. JPMorganChase is required under these rules to comply with enhanced liquidity and overall risk management standards, including oversight by the board of directors of risk management activities.
+Holding company as a source of strength.
+ JPMorgan Chase & Co. is required to serve as a source of financial strength for its depositor
+
+--- CHUNK ---
+
+l Bank Act and related interpretations of the OCC. The OCC has authority to bring an enforcement action against JPMorgan Chase Bank, N.A. for unsafe or unsound banking practices, which could include limiting JPMorgan Chase Bank, N.A.’s ability to conduct otherwise permissible activities, or imposing corrective capital or managerial requirements on the bank.
+FDIC deposit insurance.
+ The FDIC deposit insurance fund provides insurance coverage for certain deposits and is funded through assessments on banks, including JPMorgan Chase Bank, N.A. The FDIC is required to maintain a minimum reserve ratio, which measures the balance of reserves in the deposit insurance fund against an estimate of FDIC-insured deposits, of 1.35%. The reserve ratio is currently below the statutory minimum and, in October 2022, the FDIC adopted a final rule to raise bank assessments and accelerate the time by which the reserve ratio would meet the statutory minimum. As a result, the FDIC has adopted a restoration plan to bring the reserve ratio up to the required 1.35% by September 30, 2028, with a longer-term target of maintaining a reserve ratio of 2%.
+FDIC powers upon a bank insolvency.
+ Upon any insolvency of JPMorgan Chase Bank, N.A., the FDIC could be appointed as conservator or receiver under the Federal Deposit Insurance Act. The FDIC has broad powers to transfer assets and liabilities without the approval of the institution’s creditors. 
+Prompt corrective action.
+ The Federal Deposit Insurance Co
+
+--- CHUNK ---
+
+are secured in specified amounts and comply with certain other requirements. 
+Dividend restrictions.
+ Federal law imposes limitations on the payment of dividends by national banks, such as JPMorgan Chase Bank, N.A. Refer to Note 26 for the amount of dividends that JPMorgan Chase Bank, N.A. could pay, at January 1, 2025, to JPMorganChase without the approval of the banking regulators. The OCC and the Federal Reserve also have authority to prohibit or limit the payment of dividends of a bank subsidiary that they supervise if, in the banking regulator’s opinion, payment of a dividend would constitute an unsafe or unsound practice in light of the financial condition of the bank. 
+Depositor preference.
+ Under federal law, the claims of a receiver of an insured depositary institution (“IDI”) for administrative expense and the claims of holders of 
+U.S. deposit liabilities (including the FDIC and deposits in non-U.S. branches that are dually payable in the U.S. and in a non-U.S. branch) have priority over the claims of other unsecured creditors of the institution, including depositors in non-U.S. branches and public noteholders. 
+Consumer supervision and regulation.
+ JPMorganChase and JPMorgan Chase Bank, N.A. are subject to supervision and regulation in the U.S. by the Consumer Financial Protection Bureau (“CFPB”) with respect to federal consumer protection laws, including laws relating to fair lending and the prohibition of unfair, deceptive or abusive acts or practices in connect
+
+--- CHUNK ---
+
+t to regulation under state 
+4
+statutes which are enforced by the Attorney General or empowered agency of each state.
+In the U.K., the Firm operates a retail bank through J.P. Morgan Europe Limited (“JPMEL”) and provides retail investment management services through Nutmeg Saving and Investment Limited (“Nutmeg”). JPMEL is regulated by the PRA, and both JPMEL and Nutmeg are regulated by the FCA with respect to their conduct of financial services in the U.K., including obligations relating to the fair treatment of customers. JPMEL is also regulated by the U.K. Payment Systems Regulator with respect to its operation and use of payment systems. In addition, the retail businesses of JPMEL and Nutmeg are subject to U.K. consumer-protection legislation. 
+Securities and broker-dealer regulation: 
+The Firm conducts securities underwriting, dealing and brokerage activities in the U.S. through J.P. Morgan Securities LLC and other non-bank broker-dealer subsidiaries, all of which are subject to regulations of the SEC, FINRA and the New York Stock Exchange, among others. The Firm conducts similar securities activities outside the U.S. subject to local regulatory requirements. In the U.K., those activities are primarily conducted by J.P. Morgan Securities plc and in the EU, those activities are primarily conducted by JPMSE. Broker-dealers are subject to laws and regulations covering all aspects of the securities business, including sales and trading practices, securities offerings, public
+
+--- CHUNK ---
+
+ial institutions that offer investment recommendations to retirement clients, including in the context of rollovers from an employer plan to an IRA. The effective date of the Fiduciary Rule has been stayed by two federal courts. Refer to Litigation and regulatory challenges on pages 6-7 for further information. 
+Derivatives regulation: 
+The Firm is subject to comprehensive regulation of its derivatives businesses. In the U.S., JPMorgan Chase Bank, N.A., J.P. Morgan Securities LLC and J.P. Morgan Securities plc are registered with the CFTC as “swap dealers”. In addition, JPMorgan Chase Bank, N.A. and J.P. Morgan Securities LLC are registered with the SEC as “security-based swap dealers”. As a result, these entities are subject to a comprehensive regulatory framework applicable to their swap or security-based swap activities, including capital requirements, rules requiring the collateralization of uncleared swaps and security-based swaps, rules regarding segregation of counterparty collateral, business conduct and documentation standards, rules requiring the central clearing of standardized over-the-counter (“OTC”) derivatives, requirements that certain standardized OTC swaps be traded on regulated trading venues, record-keeping and reporting obligations, and anti-fraud and anti-manipulation requirements. Similar requirements have also been established in the European Union (“EU”) under the European Market Infrastructure Regulation (“EMIR”) and the Markets in Financial Instrume
+
+--- CHUNK ---
+
+ilities, embezzlement or human rights violations. The Firm is also subject to economic sanctions laws, rules and regulations in other jurisdictions in which it operates, including those that conflict with or prohibit a firm such as JPMorganChase from complying with certain laws, rules and regulations to which it is otherwise subject.
+Anti-Corruption: 
+The Firm is subject to laws and regulations relating to corrupt and illegal payments to government officials and others in the jurisdictions in which it operates, including the U.S. Foreign Corrupt Practices Act and the U.K. Bribery Act.
+Compensation practices: 
+The Firm’s compensation practices are subject to oversight by the Federal Reserve, as well as other agencies. The Federal Reserve has jointly issued guidance with the FDIC and the OCC that is designed to ensure that incentive compensation paid by banking organizations does not encourage imprudent risk-taking that threatens the organizations’ safety and soundness. The Financial Stability Board (“FSB”) has also established standards covering compensation principles for banks. The Firm’s compensation 
+practices are also subject to regulation and oversight by regulators in other jurisdictions, notably the Fifth Capital Requirements Directive (“CRD V”), as implemented in the EU and as largely adopted in the U.K, which includes compensation-related provisions. The European Banking Authority has instituted guidelines on compensation policies including under CRD V which in certa
+
+--- CHUNK ---
+
+he Bank Policy Institute (“BPI”), the U.S. Chamber of Commerce and other trade organizations filed an action against the Federal Reserve in the United States District Court for the Southern District of Ohio in December 2024 challenging the manner in which the annual stress testing process is administered.
+6
+•
+CFPB Late Fee Rule
+: This rule has been stayed pending resolution of an action challenging the rule filed against the CFPB in the United States District Court for the Northern District of Texas in March 2024 by trade organizations including the American Bankers Association and the Consumer Bankers Association.
+•
+CFPB Data Sharing Rule
+: The BPI, the Kentucky Bankers Association and other organizations filed an action against the CFPB in the United States District Court for the Eastern District of Kentucky in October 2024 challenging key aspects of this rule.
+•
+CFPB Overdraft Rule
+: An action filed by trade organizations led by the Mississippi Bankers Association against the CFPB in the United States District Court for the Southern District of Mississippi in December 2024 seeks a preliminary injunction to stay the October 1, 2025 effective date of this rule. The CFPB has consented in part to stay the effective date of the rule by 90 days and to temporarily stay the litigation. The preliminary injunction and the stay of litigation are pending court approval.
+•
+Fiduciary Rule
+: Trade organizations including the Federation of Americans for Consumer Choice and the American Co
