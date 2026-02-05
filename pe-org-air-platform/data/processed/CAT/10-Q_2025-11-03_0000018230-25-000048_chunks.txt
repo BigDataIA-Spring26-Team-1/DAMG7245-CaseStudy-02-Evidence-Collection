@@ -3,14 +3,14 @@ There have been no material changes to the risk factors we previously disclosed 
 Form 10-K
  for the year ended December 31, 2024.
 Item 2.  Unregistered Sales of Equity Securities and Use of Proceeds
- 
+
 Issuer Purchases of Equity Securities
 Period
 Total Number
 of Shares
 Purchased
 Average Price
- 
+
 Paid per Share
 Total Number
 of Shares Purchased
@@ -49,34 +49,141 @@ $
 1
  In May 2022, the Board approved a share repurchase authorization (the 2022 Authorization) of up to $15.0 billion of Caterpillar common stock effective August 1, 2022, with no expiration. In June 2024, the Board approved an additional share repurchase authorization (the 2024 Authorization) of up to $20.0 billion of Caterpillar common stock, effective June 12, 2024, with no expiration. As of March 31,2025, the 2022 Authorization was fully utilized and as of September 30,2025, approximately $15.3 billion remained available under the 2024 Authorization.
 Non-U.S. Employee Stock Purchase Plans
- 
-As of September 30, 2025, we had 38 employee stock purchase plans (the “EIP Plans”) that are administered outside the United States for our non-U.S. employees, which had appro
+
+As of September 30, 2025, we had 38 employee stock purchase plans (the “EIP Plans”) that are administered outside the United States for our non-U.S. employees, which had approxim
 
 --- CHUNK ---
 
-Report on Form 8-K filed September 3, 2025)
-10.8
-Japan Local Currency Addendum to the Fourth Amended and Restated Credit Agreement (Three-Year Facility) (incorporated by reference from Exhibit 10.8 to the Company's Current Report on Form 8-K filed September 3, 2025)
-10.9
-Fourth Amended and Restated Credit Agreement (Five-Year Facility) (incorporated by reference from Exhibit 10.9 to the Company's Current Report on Form 8-K filed September 3, 2025)
-10.10
-CIF Local Currency Addendum to the Fourth Amended and Restated Credit Agreement (Five-Year Facility) (incorporated by reference from Exhibit 10.10 to the Company's Current Report on Form 8-K filed September 3, 2025)
-10.11
-CIF LUX Local Currency Addendum to the Fourth Amended and Restated Credit Agreement (Five-Year Facility) (incorporated by reference from Exhibit 10.11 to the Company's Current Report on Form 8-K filed September 3, 2025)
-10.12
-Japan Local Currency Addendum to the Fourth Amended and Restated Credit Agreement (Five-Year Facility) (incorporated by reference from Exhibit 10.12 to the Company's Current Report on Form 8-K filed September 3, 2025)
-31.1
-Certification of Chief Executive Officer of Caterpillar Inc., as required pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
-31.2
-Certification of Chief Financial Officer of Caterpillar Inc., as required pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
-32
-Certification of Chief Executive Officer of Caterpillar Inc. and Chief Financial Officer of Caterpi
+Paid per Share
+Total Number
+of Shares Purchased
+as Part of Publicly Announced Program
+Approximate Dollar
+Value of Shares that
+May Yet be Purchased
+under the Program (in billions)
+1
+July 1-31, 2025
+321,671 
+$
+410.33 
+321,671 
+$
+15.508 
+August 1-31, 2025
+297,850 
+$
+423.01 
+297,850 
+$
+15.382 
+September 1-30, 2025
+228,478 
+$
+446.41 
+228,478 
+$
+15.280 
+Total
+847,999 
+$
+424.50 
+847,999 
+1
+ In May 2022, the Board approved a share repurchase authorization (the 2022 Authorization) of up to $15.0 billion of Caterpillar common stock effective August 1, 2022, with no expiration. In June 2024, the Board approved an additional share repurchase authorization (the 2024 Authorization) of up to $20.0 billion of Caterpillar common stock, effective June 12, 2024, with no expiration. As of March 31,2025, the 2022 Authorization was fully utilized and as of September 30,2025, approximately $15.3 billion remained available under the 2024 Authorization.
+Non-U.S. Employee Stock Purchase Plans
+
+As of September 30, 2025, we had 38 employee stock purchase plans (the “EIP Plans”) that are administered outside the United States for our non-U.S. employees, which had approximately 17,000 active participants in the aggregate. During the third quarter of 2025, approximately 46,000 shares of Caterpillar common stock were purchased by the EIP Plans pursuant to the terms of such plans.
+Item 5. 
+Other Information
+On 
+August 12, 2025
+, 
+Jason E. Kaiser
+, 
+Group President
+ of our Energy & Transportation segment, 
+en
+
+--- CHUNK ---
+
+As of September 30, 2025, we had 38 employee stock purchase plans (the “EIP Plans”) that are administered outside the United States for our non-U.S. employees, which had approximately 17,000 active participants in the aggregate. During the third quarter of 2025, approximately 46,000 shares of Caterpillar common stock were purchased by the EIP Plans pursuant to the terms of such plans.
+Item 5. 
+Other Information
+On 
+August 12, 2025
+, 
+Jason E. Kaiser
+, 
+Group President
+ of our Energy & Transportation segment, 
+entered
+ into a Rule 10b5-1 sales plan intended to satisfy the affirmative defense of Rule 10b5-1(c) under the Securities Exchange Act of 1934, as amended. The sales plan will be in effect until the earlier of (1) 
+August 12, 2026
+ and (2) the date on which (i) an aggregate of 
+16,881
+ shares of our common stock and (ii) all shares vested as of December 31, 2025 pursuant to a Performance Stock Unit (PSU) grant have been sold under the plan.
+80
+Table of Contents
+Item 6. Exhibits
+10.1
+364-Day Credit Agreement (incorporated by reference from Exhibit 10.1 to the Company's Current Report on Form 8-K filed September 3, 2025)
+10.2
+CIF Local Currency Addendum to the 364-Day Credit Agreement (incorporated by reference from Exhibit 10.2 to the Company's Current Report on Form 8-K filed September 3, 2025)
+10.3
+CIF LUX Local Currency Addendum to the 364-Day Credit Agreement (incorporated by reference from Exhibit 10.3 to the Company's Current Report on Form 8-K filed September 3, 20
+
+--- CHUNK ---
+
+Inline XBRL Taxonomy Extension Label Linkbase Document
+101.PRE
+
+Inline XBRL Taxonomy Extension Presentation Linkbase Document
+104
+Cover Page Interactive File (embedded within the Inline XBRL document and included in Exhibit 101)
+The agreements and other documents filed as exhibits to this report are not intended to provide factual information or other disclosure other than with respect to the terms of the agreements or other documents themselves, and you should not rely on them for that purpose. In particular, any representations and warranties made by us in these agreements or other documents 
+81
+Table of Contents
+were made solely within the specific context of the relevant agreement or document and may not describe the actual state of affairs as of the date they were made or at any other time. 
+82
+Table of Contents
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+CATERPILLAR INC.
+
+November 3, 2025
+/s/ Joseph E. Creed
+Chief Executive Officer
+
+Joseph E. Creed
+
+November 3, 2025
+/s/ Andrew R.J. Bonfield
+Chief Financial Officer
+
+Andrew R.J. Bonfield
+
+November 3, 2025
+/s/ Derek Owens
+Chief Legal Officer and General Counsel
+
+Derek Owens
+
+November 3, 2025
+/s/ William E. Schaupp
+Vice President and Chief Accounting Officer
+
+William E. Schaupp
+
+83
 
 --- CHUNK ---
 
 Item 7. Management’s Discussion and Analysis of Financial Condition and Results of Operations in our 2024 Annual Report on Form 10-K. There have been no significant changes to our critical accounting estimates since our 2024 Annual Report on Form 10-K.
 OTHER MATTERS
- 
+
 Information related to legal proceedings appears in Note 14 – "Environmental and legal matters" of Part I, Item 1 “Financial Statements.”
 Retirement Benefits
 We recognize 
@@ -87,23 +194,13 @@ Table of Contents
 Order Backlog
 At the end of the third quarter of 2025, the dollar amount of backlog believed to be firm was approximately $39.8 billion, about $2.4 billion higher than the second quarter of 2025 due to increases in the Energy & Transportation segment. Of the total backlog at September 30, 2025, approximately $12.5 billion was not expected to be filled in the following twelve months.
 NON-GAAP FINANCIAL MEASURES
-We provide the following definitions for
+We provide the following definitions for 
 
 --- CHUNK ---
 
-%
-$
-10,130
- 
-$
-2,166
- 
-$
-8,001
- 
 $
 16.27
- 
+
 Restructuring (income) costs - divestitures of certain non-U.S. entities
 164 
 0.3 
@@ -141,84 +238,56 @@ A reconciliation of our effective tax rate to annual effective tax rate, excludi
 Profit Before Taxes
 Provision (Benefit) for Income Taxes
 Effective Tax Rate
-Three Months Ended September 30, 2025 - U.S.
+Three Months Ended September 30, 2025 - U.S. GAAP
+$
+3,127
+
+$
+836
+
+26.7
+
+%
+Incr
 
 --- CHUNK ---
 
-ayments, dividends and share repurchases. 
-69
-Table of Contents
-Reconciliations of ME&T free cash flow to the most directly comparable GAAP measure, net cash provided by operating activities are as follows:
-(Millions of dollars)
-Nine Months Ended September 30,
-2025
-2024
-ME&T net cash provided by operating activities 
-1
-$
-7,745 
-$
-7,726 
-ME&T capital expenditures
-(1,944)
-(1,284)
-ME&T free cash flow
-$
-5,801 
-$
-6,442 
-1 
-See reconciliation of ME&T net cash provided by operating activities to consolidated net cash provided by operating activities on pages 
-77
--
-78
-. 
- Supplemental Consolidating Data
- 
-We are providing supplemental consolidating data for the purpose of additional analysis.  The data has been grouped as follows:
- 
 Consolidated –
  Caterpillar Inc. and its subsidiaries.
- 
+
 Machinery, Energy & Transportation –
  We define ME&T as it is presented in the supplemental data as Caterpillar Inc. and its subsidiaries, excluding Financial Products. ME&T’s information relates to the design, manufacturing and marketing of our products.
- 
+
 Financial Products –
  We define Financial Products as it is presented in the supplemental data as our finance and insurance subsidiaries, primarily Caterpillar Financial Services Corporation (Cat Financial) and Caterpillar Insurance Holdings Inc. (Insurance Services). Financial Products’ information relates to the financing to customers and dealers for the purchase and lease of Caterpillar and other equipment.
- 
+
 Consolidating Adjustments –
- Elimi
+ Eliminations of transactions between ME&T and Financial Products.
 
---- CHUNK ---
-
-orded between Financial Products and ME&T.
-4
-Elimination of discount recorded by ME&T on receivables sold to Financial Products and of interest earned between ME&T and Financial Products as well as dividends paid by Financial Products to ME&T.
-5
-Profit attributable to common shareholders.
+The nature of the ME&T and Financial Products businesses is different, especially with regard to the financial position and cash flow items. Caterpillar management utilizes this presentation internally to highlight these differences. We believe this presentation will assist readers in understanding our business.
+Pages 
 71
+-
+78
+ reconcile ME&T and Financial Products to Caterpillar Inc. consolidated financial information. 
+70
 Table of Contents
 Caterpillar Inc.
 Supplemental Data for Results of Operations
-For the Nine Months Ended September 30, 2025 
+For the Three Months Ended September 30, 2025 
 (Unaudited)
 (Millions of dollars)
- 
- 
- 
+
 Supplemental Consolidating Data
- 
+
 Consolidated
-Machinery, Energy & Transportation 
-Financial
-Products
-Consolidating
-Adjustments
-Sales and revenues:
- 
- 
- 
- 
+Machinery,
+Energy &
+Transportation 
+Finan
+
+--- CHUNK ---
+
 Sales of Machinery, Energy & Transportation
 $
 45,778 
@@ -240,10 +309,7 @@ Total sales and revenues
 3,244 
 (566)
 Operating costs:
- 
- 
- 
- 
+
 Cost of goods sold
 31,445 
 31,451 
@@ -310,54 +376,44 @@ Profit of consolidated companies
 5,928 
 531 
 — 
-Equity in profit
-
---- CHUNK ---
-
-Profit
- 4
-$
-2,464 
-$
-2,275 
-$
-189 
-$
+Equity in profit (loss) of unconsolidated affiliated companies
+22 
+22 
 — 
- 
+— 
+Profit of consolidated and affiliated companies
+6,481 
+5,950 
+531 
+— 
+Less: Profit (loss) attributable to noncontrolling interests
+(1)
+(2)
+1 
+— 
+Profit
+
+5
+$
+6,482 
+$
+5,952 
+$
+530 
+$
+—
+
 1
 Elimination of Financial Products’ revenues earned from ME&T.
 2
-Elimination of net expenses recorded by ME&T paid to Financial Products.
+Elimination of net expenses recorded between ME&T and Financial Products.
 3
-Elimination of discount recorded by ME&T on receivables sold to Financial Products and of interest earned between ME&T and Financial Products as well as dividends paid by Financial Products to ME&T.
+Elimination of interest expense recorded between Financial Products and ME&T.
 4
-Profit attributable to common shareholders.
- 
-73
-Table of Contents
-Caterpillar Inc.
-Supplemental Data for Results of Operations
-For the Nine Months Ended September 30, 2024 
-(Unaudited)
-(Millions of dollars)
- 
- 
-Supplemental Consolidating Data
- 
-Consolidated
-Machinery,
-Energy &
-Transportation
-Financial
-Products
-Consolidating
-Adjustments
-Sales and revenues:
- 
- 
- 
- 
+Elimination of discount recorded by ME&T on receivables sold to Financial Products and of interest earned between ME&T and Financial Products as well as 
+
+--- CHUNK ---
+
 Sales of Machinery, Energy & Transportation
 $
 46,031 
@@ -379,10 +435,7 @@ Total sales and revenues
 3,150 
 (587)
 Operating costs:
- 
- 
- 
- 
+
 Cost of goods sold
 29,878 
 29,883 
@@ -437,66 +490,55 @@ Consolidated profit before taxes
 9,593 
 537 
 — 
+Provision (benefit) for income taxes
+2,166 
+1,983 
+183 
+— 
+Profit of consolidated companies
+7,964 
+7,610 
+354 
+— 
+Equity in profit (loss) of unconsolidated affiliated companies
+34 
+34 
+— 
+— 
+Profit of consolidated and affiliated companies
+7,998 
+7,644 
+354 
+— 
+Less: Profit (loss) attributable to noncontrolling interests
+(3)
+(4)
+1 
+— 
+Profit
+ 4
+$
+8,001 
+$
+7,648 
+$
+353 
+$
+—
+
+1
+Elimination of Financial Products’ revenues earned from ME&T.
+2
+Elimination of net expenses recorded between ME&T and Financial Products.
+3
+Elimination of discount recorded by ME&T on receivables sold to Financial Products and of interest earned between ME&T and Financial Products as well as dividends paid by Financial Products to ME&T.
+4
+Profit attributable to common sharehol
 
 --- CHUNK ---
 
-9 
-3 
-29 
-7
-Dividends payable
-— 
-— 
-— 
-— 
-Other current liabilities
-2,760 
-2,209 
-806 
-(255)
-4,5,8
-Long-term debt due within one year
-9,289 
-32 
-9,257 
-— 
-Total current liabilities
-35,991 
-20,875 
-15,640 
-(524)
-Long-term debt due after one year
-27,736 
-10,899 
-18,067 
-(1,230)
-7,9
-Liability for postemployment benefits
-3,664 
-3,663 
-1 
-— 
-Other liabilities
-5,672 
-4,679 
-1,407 
-(414)
-4,5
-Total liabilities
-73,063 
-40,116 
-35,115 
-(2,168)
-Commitments and contingencies
- 
- 
- 
- 
 Shareholders’ equity
- 
- 
- 
- 
+
 Common stock
 6,223 
 6,223 
@@ -552,179 +594,22 @@ Elimination of other intercompany assets and liabilities between ME&T and Financ
 6     
 Elimination of payables between ME&T and Financial Products.
 7     
-Reclassificatio
-
---- CHUNK ---
-
-ers’ equity
- 
- 
- 
- 
-Common stock
-6,941 
-6,941 
-905 
-(905)
-10
-Treasury stock
-(44,331)
-(44,331)
-— 
-— 
-Profit employed in the business
-59,352 
-54,787 
-4,555 
-10 
-10
-Accumulated other comprehensive income (loss)
-(2,471)
-(1,182)
-(1,289)
-— 
-Noncontrolling interests
-3 
-6 
-75 
-(78)
-10
-Total shareholders’ equity
-19,494 
-16,221 
-4,246 
-(973)
-Total liabilities and shareholders’ equity
-$
-87,764 
-$
-52,642 
-$
-37,129 
-$
-(2,007)
- 
-1     
-Elimination of receivables between ME&T and Financial Products.
-2     
-Reclassification of ME&T’s trade receivables purchased by Financial Products and Financial Products’ wholesale inventory receivables.
-3     
-Elimination of ME&T’s insurance premiums that are prepaid to Financial Products.
-4     
-Reclassification reflecting required netting of deferred tax assets/liabilities by taxing jurisdiction.
-5    
- Elimination of other intercompany assets between ME&T and Financial Products.
-6    
- Elimination of payables between ME&T and Financial Products.
-7     
 Reclassification of Financial Products' payables to customer advances.
 8     
-Elimination of prepaid insurance in Financial Products' other liabilities.
+Elimination of prepaid insurance in Financial Products’ other liabilities.
 9     
 Elimination of debt between ME&T and Financial Products.
 10     
-Eliminations associated with ME&T’s investments in Financial Products’ subsidiaries. 
-76
+Eliminations associated with ME&T’s investments in Financial Products’ subsidiaries.
+75
 Table of Contents
 Caterpillar Inc.
-Supplemental Data for Cash Flow
-For the Nine Months Ended September 30, 2025 
+Supplemental Data for Financial Position
+At December 31, 2024 
 (Unaudited)
 (Millions of dollars)
- 
- 
+
 Supplemental Consolidating Data
- 
-Consolidate
 
---- CHUNK ---
-
-ncing activities:
- 
- 
- 
- 
-Dividends paid
-(2,043)
-(2,043)
-— 
-— 
-Common stock issued, and other stock compensation transactions, net
-(39)
-(39)
-— 
-— 
-Payments to purchase common stock
-(4,850)
-(4,850)
-— 
-— 
-Excise tax paid on purchases of common stock 
-(73)
-(73)
-— 
-— 
-Proceeds from intercompany borrowings (original maturities greater than three months)
-— 
-— 
-1,000 
-(1,000)
-3
-Payments on intercompany borrowings (original maturities greater than three months)
-— 
-(56)
-— 
-56 
-3
-Proceeds from debt issued (original maturities greater than three months)
-8,454 
-1,976 
-6,478 
-— 
-Payments on debt (original maturities greater than three months)
-(6,205)
-(43)
-(6,162)
-— 
-Short-term borrowings – net (original maturities three months or less)
-106 
-— 
-106 
-— 
-Net cash provided by (used for) financing activities
-(4,650)
-(5,128)
-1,422 
-(944)
-Effect of exchange rate changes on cash
-(23)
-(39)
-16 
-— 
-Increase (decrease) in cash, cash equivalents and restricted cash
-648 
-466 
-182 
-— 
-Cash, cash equivalents and restricted cash at beginning of period
-6,896 
-6,170 
-726 
-— 
-Cash, cash equivalents and restricted cash at end of period
-$
-7,544 
-$
-6,636 
-$
-908 
-$
-— 
-1    
-Elimination of non-cash adjustments and changes in assets and liabilities related to consolidated reporting.
-2    
-Reclassification of Financial Products’ cash flow activity from investing to operating for receivables that arose from the sale of inventory.
-3    
-Elimination of proceeds and payments to/from ME&T and Financial Products.
-77
-Tabl
+Consolidated
+Machin

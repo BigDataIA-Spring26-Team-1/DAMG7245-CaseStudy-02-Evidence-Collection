@@ -35,10 +35,9 @@ class ChunkRow:
  
  
 class EvidenceStore:
-    class EvidenceStore:
-        def __init__(self):
-            self.conn = get_snowflake_connection()
-            self.conn.autocommit(True)
+    def __init__(self):
+        self.conn = get_snowflake_connection()
+        self.conn.autocommit(True)
 
  
     def close(self):

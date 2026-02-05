@@ -1,67 +1,215 @@
 Item 1. Business—Competition" of this Form 10-K for a discussion of the competitive environment in the markets in which we operate. Many risks affect more than one category, and the risks are not in order of significance or probability of occurrence because they have been grouped by categories. The risks described below are not the only risks we face and the occurrence of any of the following risks or other risks not presently known to us or that we currently believe to be immaterial could
- 
+
+--- CHUNK ---
+
 have a materially adverse effect on our business, results of operations, financial condition or reputation.
 LEGAL AND COMPLIANCE RISKS
 Failure to comply with, compliance with or changes in, laws and regulations applicable to our businesses could have a materially adverse effect on our reputation, results of operations or financial condition, or have other adverse consequences
-Our business is subject to a wide range of complex U.S. and foreign laws and regulations, including, but not limited to, the laws and regulations described in the “Industry Regulation” section in Part I, Item 1 of this Annual Report on Form 10-K. Failure to comply with laws and regulations applicable to our operations or client solutions and services could cause us to incur substantial costs or could result in the suspension or revocation of licenses or registrations, the limitation, suspension or termination of services, the imposition of consent orders or civil and criminal penalties, including fines, and lawsuits,
+Our business is subject to a wide range of complex U.S. and foreign laws and regulations, including, but not limited to, the laws and regulations described in the “Industry Regulation” section in Part I, Item 1 of this Annual Report on Form 10-K. Failure to comply with laws and regulations applicable to our operations or client solutions and services could cause us to incur substantial costs or could result in the suspension or revocation of licenses or registrations, the limitation, suspension or termination of services, the imposition of consent orders or civil and criminal penalties, including fines, and lawsuits, including class actions, that could damage our reputation and have a materially adverse effect on our results of operations or financial condition.
+In addition, changes in laws or regulations, or changes in the interpretation of laws or regulations by a regulatory authority, may decrease our revenues and earnings and may require us to change the manner in which we conduct some aspects of our business. For example, a change in regulations either decreasing the amount of taxes to be 
+withheld 
 
 --- CHUNK ---
 
-loyees (
-“
-WSE”), including with respect to their wages and the payment thereof, tax credits for employers, the payment of certain taxes with respect to WSE wages and employee benefits provided to the WSEs. Even though PEO clients are contractually responsible for the timely remittance of such costs, it is possible that our clients will not remit such payments despite their contractual obligations. The risk of failing to receive such payments from PEO clients could be magnified during significant financial or other disruptions or catastrophic events, such as the failure of a bank with whom a significant number of PEO clients may bank at the time, or more widespread stress or failure within the U.S. banking system. Any such event could prevent or materially delay the recovery of any payments not timely remitted and could have an adverse impact on our financial results and liquidity.
-In addition, our payroll and tax processing services involve the collection and disbursement of a significant amount of funds to a large number of federal, state and local tax authorities. Our failure to properly or timely remit taxes on behalf of our clients could result in fines, penalties and interest for which we could be responsible, and could materially adversely affect our reputation, results of operations or financial condition.
-Our Wisely® offerings and potentially other future offerings in the payments and/or consumer space may subject us to additional laws and regulations, some of which 
-
---- CHUNK ---
-
-cial institutions, including banks and money services businesses (such as national trust banks and providers of prepaid access like us), to develop and implement risk-based anti-money laundering programs, report large cash transactions and suspicious activity, and maintain transaction records. We have registered our prepaid card business as a provider of prepaid access, and registered ADP Trust Bank and ADP Retirement Trust Services with the Treasury Department’s Financial Crimes Enforcement Network. ADP Canada Co. is a registered entity with FINTRAC as a Money Service Business. In November 2024, ADP Canada Co. filed its application for registration with the Bank of Canada as a Payment Services Provider as defined and required under the Retail Payment Activities Act. 
-We have implemented policies and procedures to monitor and address compliance with applicable anti-corruption, economic and trade sanctions and anti-money laundering laws and regulations, and we regularly review, upgrade and enhance our policies and procedures. However, there can be no assurance that our employees, consultants or agents will not take actions in violation of our policies for which we may be ultimately responsible, or that our policies and 
-procedures will be adequate or will be determined to be adequate by regulators. Any violations of applicable anti-corruption, economic and trade sanctions or anti-money laundering laws or regulations could limit certain of our business activities until they are
-
---- CHUNK ---
-
-of personal information for secondary purposes such as marketing. Under certain circumstances, some of these laws require us to provide notification to affected individuals, clients, data protection authorities and/or other regulators in the event of a data breach. In many cases, these laws apply not only to third-party transactions, but also to transfers of information among the Company and its subsidiaries. The European Union (the “EU”) General Data Protection Regulation (the “GDPR”), and state consumer privacy laws like the California Privacy Rights Act of 2020 (the “CPRA”), are among the most comprehensive of these laws, and more and more jurisdictions are adopting similarly comprehensive laws that impose new data privacy protection requirements and restrictions. As part of our overall data protection compliance program in connection with the GDPR, we implemented Binding 
-17
-Corporate Rules (“BCRs”) as both a data processor and data controller, which permits us to process and transfer personal data across borders in compliance with EU data protection laws. In addition, the Department of Justice implemented a Data Security Program under Executive Order 14117 restricting certain transfers of U.S. persons’ sensitive data to “countries of concern” and we have taken appropriate steps to comply. 
-We believe that providing insights and content from data, including via AI and ML, will become increasingly important to the 
-value
- that our solutions and services deliver to our clie
-
---- CHUNK ---
-
-/or future enforcement actions or investigations could have a materially adverse impact on us through increased costs or restrictions on our businesses and noncompliance could result in significant regulatory penalties and legal liability and damage our reputation. In addition, data security events, concerns about privacy abuses by other companies and increased awareness of the potential (positive and negative) of AI are changing client, consumer and social expectations for enhanced protections (including with respect to bias and potential discrimination). As a 
-result, noncompliance, the failure to meet such expectations or the perception of noncompliance or such failure, whether or not valid, may damage our reputation.
-If we fail to protect our intellectual property rights, it could materially adversely affect our business and our brand
-Our ability to compete and our success depend, in part, upon our intellectual property. We rely on patent, copyright, trade secret and trademark laws, and confidentiality or license agreements with our employees, clients, vendors, partners and others to protect our intellectual property rights. We may need to devote significant resources, including cybersecurity resources, to monitoring our intellectual property rights. In addition, the steps we take to protect our intellectual property rights may be inadequate or ineffective, or may not provide us with a significant competitive advantage. Our intellectual property (including source code) co
-
---- CHUNK ---
-
-itigation could be costly and time-consuming.
-SECURITY AND TECHNOLOGY RISKS
-Our businesses collect, host, store, transfer, process, disclose, use, secure, retain and dispose of personal and business information, and collect, hold and transmit client funds, and a security or privacy breach may damage or disrupt our businesses or operations, result in the disclosure of confidential information, damage our reputation, increase our costs, cause losses and materially adversely affect our results of operations
-In connection with our business, we collect, host, store, transfer, process, disclose, use, secure, retain and dispose of large amounts of personal and business information about our clients, employees of our clients, our vendors, our partners, and our employees, contractors and temporary staff, including payroll information, health care information, personal and business financial data, social security numbers and their foreign equivalents, bank account numbers, tax information and other personal and business information. We also collect significant amounts of funds from the accounts of our clients and transmit them to their employees, tax authorities and other payees.
-We are focused on safeguarding and protecting personal and business information and client funds, and we devote significant resources to maintain and regularly update our systems and processes. Nonetheless, the global environment continues to grow increasingly hostile as attacks on information technology syste
-
---- CHUNK ---
-
-r services that we develop or procure from authorized third parties, or are required by governmental or law enforcement agencies to install on our systems, may contain defects in design or manufacture or other problems that could (or in respect of third party software, may be designed to) compromise the confidentiality, integrity or availability of data or our systems. Unauthorized parties have also attempted to gain (and in certain cases have gained), and will continue to attempt to gain, access to our systems and facilities, and those of our authorized third parties, through fraud, trickery, and other methods of deceit, including using stolen identities to obtain employment with us or our authorized third parties as well as phishing and other social engineering techniques whereby attackers use end-user behaviors to distribute computer viruses and malware into our systems, our authorized third parties’ systems or otherwise compromise the confidentiality, integrity or availability of data or our systems. As these threats continue to evolve and increase (including due to the use of AI), we continue to invest significant resources, and may be required to invest significant additional resources, to modify and enhance our cybersecurity controls and to investigate and remediate any security vulnerabilities. In addition, as we become increasingly interconnected with our authorized third parties, the security risk of our networks and the larger ecosystem in which we operate is heigh
-
---- CHUNK ---
-
-(which could include our personnel) with respect to our businesses or our authorized third parties’ businesses, or inadvertent acts or inactions by our authorized third parties or personnel, could result in the loss, disclosure or misuse of confidential personal or business information or our intellectual property or the theft of client or ADP funds, which could have a materially adverse effect on our business or results of operations or that of our clients, result in liability, litigation, regulatory investigations and sanctions or a loss of confidence in our ability to serve clients, or cause current or potential clients to choose another service provider. As the global environment continues to grow increasingly hostile, the security of our operating environment is ever more important to our clients and potential clients. As a result, the breach or perceived breach of our security systems or the security systems of our authorized third parties could result in a loss of confidence by our clients or potential clients and cause them to choose another service provider, which could have a materially adverse effect on our business, financial condition or results of operations.
-While ADP maintains insurance coverage that, subject to policy terms and conditions and a significant self-insured retention, is designed to address losses or claims that may arise in connection with certain aspects of data and cyber risks, such insurance coverage may be insufficient to cover all losses or 
-
---- CHUNK ---
-
-ations.
+In addition, the severity of the failure or disablement may require us to replace or rebuild the affected system(s), application(s) or solution(s) and we may be unable to do so before it materially adversely affects our business or operations.
 A disruption of the data centers or cloud-computing or other technology services or systems that we utilize could have a materially adverse effect on our business, operations, financial condition or results of operations
-We host our applications and serve our clients with data centers that we operate, and with data centers that are operated, and cloud-computing and other technology services and systems that are provided, by third-party vendors. These data centers or cloud-computing and other technology services and systems have failed, become disabled or been disrupted, and may do so in the future. Any failure, disablement or disruption, even for a limited period of time, could disrupt our businesses or operations and we could suffer financial loss, liability to clients, loss of clients, regulatory intervention or damage to our reputation, any of which could have a material adverse effect on our business, results of operations or financial condition. In addition, our third-party vendors may cease providing data center facilities or cloud-computing or other technology services or systems (including those on which our products or services are based), elect to not renew their agreements or licenses with us on commercially reasonable terms or at all, breach their agreements or licenses with us or fail to satisfy our expectations, which could disrupt our operations and require us to incur costs which could materially adversely affect our results of operations or financial 
+We host our applications and serve our clients with data centers that we operate, and with data centers that are operated, and cloud-computing and other technology services and systems that are provided, by third-party vendors. These data centers or cloud-computing and other technology services and systems have failed, become disabled or been disrupted, and may do so in the future. Any failure, disablement or disruption, even for a limited period of time, could disrupt our businesses or operations and we could suffer financial loss, liability to clients, loss of clients, regulatory intervention or damage to our reputation, any of which could have a material adverse effect on our business, results of operations or financial condition. In addition, our third-party vendors may cease providing data center facilities or cloud-computing or other technology services or systems (including those on which our products or services are based), elect to not renew their agreements or licenses with us on commercially reasonable terms 
 
 --- CHUNK ---
 
-in the development of a product which could cause an impairment of goodwill or intangibles and result in a significant charge to earnings.
-A major natural disaster or catastrophic event could have a materially adverse effect on our business, operations, financial condition and results of operations, or have other adverse consequences
-Our business, operations, financial condition, results of operations, access to capital markets and borrowing costs may be adversely affected by a major natural disaster or catastrophic event, including civil unrest, geopolitical instability, war, terrorist attack, pandemics or other (actual or threatened) public health emergencies, extreme weather, such as droughts, hurricanes, flooding and wildfires (including as a result of climate change), or other events beyond our control, and measures taken in response thereto.
-The COVID-19 outbreak created, and such other events may create, significant volatility and uncertainty and economic and financial market disruption. The extent of any such impact depends on developments which are highly uncertain and cannot be predicted, including the 
-duration and scope of the event; the governmental and business actions taken in response thereto; actions taken by the Company in response thereto and the related costs; the impact on economic activity and employment levels; the effect on our clients, prospects, suppliers and partners; our ability to sell and provide our solutions and services, including due to trave
+We engage in both internal and external assurance and audit activities across the company multiple times a year including an annual third-party review of our overall cybersecurity program. 
+•
+Threat Intelligence.
+ We maintain affiliations with cybercrime task forces and other third-party monitoring organizations. In addition, we collaborate with professional security organizations, law enforcement and technology companies to proactively identify malicious activity.
+•
+Business Resiliency Program. 
+We have established a global, integrated business resiliency program designed to manage the impacts of technological, environmental, process and health risks on service delivery. This program uses an integrated framework that lays out our mitigation, preparedness, response and recovery process. 
+•
+Third-Party Risk Management. 
+We maintain a 
+third-party risk management process
+, designed to identify and manage risks associated with our vendors, our partners and other third parties, that includes conducting security assessments prior to engagement and periodically during the engagement. We also seek to include security and privacy terms, where appropriate, in our contracts with third-party service providers that require third parties to maintain security controls to protect our data and notify us in the event of a cybersecurity incident.
+•
+Security Awareness and Training Program
+. Our security training and awareness program is a continuous, dynamic initiative, designed to develop and 
+
+--- CHUNK ---
+
+Governance
+A cross-functional, enterprise-wide management program operates to evaluate our global cybersecurity program’s effectiveness and members of the Company’s executive committee, through an executive security council, routinely review strategy, policy, program effectiveness, standards enforcement and cyber issue management. 
+Our chief information security officer (“CISO”) leads our global cybersecurity program and oversees the global cybersecurity services team, which is responsible for monitoring, identifying, assessing and managing cybersecurity threats across ADP. Our CISO reports to our 
+chief security officer (“CSO”)
+, who leads our global security organization and is responsible for cybersecurity, fraud prevention, operational risk management, client security management, and workforce protection. 
+Our CSO has over 25 years of experience in a range of security roles, including serving as a chief security officer at another public company, and participates in various cyber security organizations. The current CISO has served in various roles in cybersecurity and information technology for over 25 years and has attained the professional certification of Certified Information Security Manager.
+Our board of directors is actively engaged in the oversight of our global cybersecurity program.
+
+Our 
+board of directors
+ receives regular, quarterly reports on these matters from our CSO and leadership from our global product and technology organization, including on the statu
+
+--- CHUNK ---
+
+Our global cybersecurity program is subject to an annual third-party assessment overseen by our board of directors and this assessment reviews all aspects of our cyber program. Findings are reported to our board of directors and, in response, ADP develops initiatives to improve our maturity across each of the pillars of the NIST Cybersecurity Framework. The status of these initiatives is then reviewed with our board of directors during its quarterly meetings. This governance process encourages an environment of continuous improvement.
+
+Item 2. Properties
+ADP ow
+ns 6 of its processing/print centers, and 10 other operational offices, sales offices, and its corporate headquarters in Roseland, New Jersey, which aggregate approximately 2,555,369 square feet. None of ADP’s owned facilities is subject to any material encumbrances. ADP leases space for some of its processing centers, other operational offices, and sales offices. All of these leases, which aggregate approximately 5,640,668 square feet worldwide, expire at various times up to the year 2036. ADP believes its facilities are currently adequate for their intended purposes and are adequately maintained.
+Item 3. Legal Proceedings
+In the normal course of business, ADP is subject to various claims and litigation. While the outcome of any litigation is inherently unpredictable, ADP believes that it has valid defenses with respect to the legal matters pending against it and that the ultimate resolution of these matters will not 
+
+--- CHUNK ---
+
+Item 1A. Risk Factors”, and in other written or oral statements made from time to time by ADP, should be considered in evaluating any forward-looking statements contained herein.
+NON-GAAP FINANCIAL MEASURES
+In addition to our U.S. GAAP results, we use adjusted results and other non-GAAP metrics to evaluate our operating performance in the absence of certain items and for planning and forecasting of future periods. Adjusted EBIT, adjusted EBIT margin, adjusted net earnings, adjusted diluted earnings per share, adjusted effective tax rate and organic constant currency are all non-GAAP financial measures. Please refer to the accompanying financial tables in the “Non-GAAP Financial Measures” section for a discussion of why ADP believes these measures are important and for a reconciliation of non-GAAP financial measures to their nearest comparable GAAP financial measures.
+EXECUTIVE OVERVIEW 
+As a global leader in HR and payroll solutions, ADP continuously aims to solve complex business challenges for our clients and their workers. Our Human Capital Management ("HCM") solutions, which include both software and outsourcing services, are designed to help our clients manage their workforce through a dynamic business and regulatory landscape and the changing world of work. We see tremendous opportunity ahead as we focus on our three key Strategic Priorities: Leading with Best-in-Class HCM technology, Providing Unmatched Expertise and Outsourcing Solutions, and Leveraging our Global Sca
+
+--- CHUNK ---
+
+2025
+2024
+%
+Change
+Costs of revenues:
+
+Operating expenses
+$
+9,622.7 
+$
+9,050.1 
+6 
+%
+Research and development
+988.6 
+955.7 
+3 
+%
+Depreciation and amortization
+486.0 
+470.9 
+3 
+%
+Total costs of revenues
+11,097.3 
+10,476.7 
+6 
+%
+Selling, general and administrative expenses
+4,051.7 
+3,778.9 
+7 
+%
+Interest expense
+455.9 
+361.4 
+26 
+%
+Total expenses
+$
+15,604.9 
+$
+14,617.0 
+7 
+%
+For the year ended June 30:
+Operating expenses increased in fiscal 2025 due to an increase of $313.1 million of PEO Services zero-margin benefits pass-through costs to $4,289.0 million in fiscal 2025 from $3,975.9 million in fiscal 2024. Additionally, operating expenses increased by $137.3 million due to higher service and implementation costs in support of our growing revenue and by $67.8 million due to an increase in costs related to workers' compensation coverage and state unemployment taxes for worksite employees.
+Research and development expenses increased in fiscal 2025 due to increased costs to develop, support, and maintain our new and existing products and the WorkForce Software acquisition.
+Depreciation and amortization increased in fiscal 2025 due to the WorkForce Software acquisition, amortization of investments in internally developed software primarily for our next-gen products, and amortization of purchased software, partially offset by lower amortization of customer contracts and lists.
+30
+Selling, general and administrative expenses increased in fiscal 2025 primarily due to increases in sel
+
+--- CHUNK ---
+
+Operating expenses
+$
+9,622.7 
+$
+9,050.1 
+6 
+%
+Research and development
+988.6 
+955.7 
+3 
+%
+Depreciation and amortization
+486.0 
+470.9 
+3 
+%
+Total costs of revenues
+11,097.3 
+10,476.7 
+6 
+%
+Selling, general and administrative expenses
+4,051.7 
+3,778.9 
+7 
+%
+Interest expense
+455.9 
+361.4 
+26 
+%
+Total expenses
+$
+15,604.9 
+$
+14,617.0 
+7 
+%
+For the year ended June 30:
+Operating expenses increased in fiscal 2025 due to an increase of $313.1 million of PEO Services zero-margin benefits pass-through costs to $4,289.0 million in fiscal 2025 from $3,975.9 million in fiscal 2024. Additionally, operating expenses increased by $137.3 million due to higher service and implementation costs in support of our growing revenue and by $67.8 million due to an increase in costs related to workers' compensation coverage and state unemployment taxes for worksite employees.
+Research and development expenses increased in fiscal 2025 due to increased costs to develop, support, and maintain our new and existing products and the WorkForce Software acquisition.
+Depreciation and amortization increased in fiscal 2025 due to the WorkForce Software acquisition, amortization of investments in internally developed software primarily for our next-gen products, and amortization of purchased software, partially offset by lower amortization of customer contracts and lists.
+30
+Selling, general and administrative expenses increased in fiscal 2025 primarily due to increases in selling and marketing expenses of $184.4 m
+
+--- CHUNK ---
+
+For the year ended June 30, respectively:
+Years Ended
+June 30,
+2025
+2024
+YoY Growth
+EBIT
+$
+5,310.1 
+$
+4,872.3 
+9 
+%
+  EBIT Margin
+25.8 
+%
+25.4 
+%
+50 bps
+Adjusted EBIT
+$
+5,347.1 
+$
+4,890.1 
+9 
+%
+  Adjusted EBIT Margin
+26.0 
+%
+25.5 
+%
+50 bps
+Note: Numbers may not foot due to rounding.
+Earnings before income taxes increased in fiscal 2025 due to the increases in total revenues, partially offset by the increases in total expenses discussed above. 
+EBIT Margin increased in fiscal 2025 due to contributions from client funds interest revenues, discussed above, and operating efficiencies for costs of servicing and implementing our clients on growing revenue, partially offset by increased interest expense and acquisition related expenses.
+Adjusted EBIT and Adjusted EBIT margin exclude interest income and interest expense that are not related to our client funds
+extended investment strategy, and net charges, including certain legal matters, gain on sale of assets, and broad-based optimization initiatives, in the applicable periods.
+31
+Provision for Income Taxes
+The 
+effective tax rate in fiscal 2025 and 2024 was 
+23.2%
+ and 23.0%, respectively.
+ The increase in the effective tax rate is primarily due to higher reserves for uncertain tax positions in fiscal 2025 and a valuation allowance release in fiscal 2024 offset by an increase in the excess tax benefit on stock-based compensation in fiscal 2025. Refer to Note 12, Income Taxes, within the Notes to the Consolidated Financial Statemen

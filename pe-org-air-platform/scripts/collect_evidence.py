@@ -1,10 +1,9 @@
 from __future__ import annotations
- 
+
 import argparse
 import sys
 from pathlib import Path
 from uuid import uuid4
-
 from app.config import settings
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -15,7 +14,6 @@ from app.pipelines.sec_edgar import SecEdgarClient, store_raw_filing
 from app.pipelines.document_parser import parse_filing_bytes, chunk_document
 from app.services.evidence_store import EvidenceStore, DocumentRow, ChunkRow
 from app.services.snowflake import get_snowflake_connection
-from app.config import settings
  
 DEFAULT_TICKERS = [
     "CAT", "DE", "UNH", "HCA", "ADP",
@@ -104,16 +102,22 @@ def main() -> int:
             for f in filings:
                 raw = client.download_primary_document(f)
                 raw_path = store_raw_filing(base_dir, f, raw)
- 
+
                 parsed = parse_filing_bytes(raw, file_hint=str(raw_path))
                 chunks = chunk_document(parsed)
- 
+
                 if store.document_exists_by_hash(parsed.content_hash):
                     print(
                         f"SKIP: {ticker} {f.form} {f.filing_date} already processed "
                         f"(hash={parsed.content_hash[:10]})"
                     )
                     continue
+
+                if chunks and len(chunks) > 1:
+                    print("Overlap proof:")
+                    print("chunk0_end:", chunks[0].content[-200:].replace("\n", " "))
+                    print("chunk1_start:", chunks[1].content[:200].replace("\n", " "))
+
  
                 doc_id = str(uuid4())
                 doc_row = DocumentRow(

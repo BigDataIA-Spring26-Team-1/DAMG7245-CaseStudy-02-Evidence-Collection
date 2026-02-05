@@ -15,7 +15,54 @@ We are currently subject to a consolidated multidistric
 
 --- CHUNK ---
 
-485.89 per share to pay payroll taxes on the vesting of restricted stock awards.
+​
+​
+
+​
+​
+15.9 
+​
+​
+May 26 to Jun 22
+​
+272 
+​
+$
+519.79 
+​
+271 
+​
+15.6 
+​
+​
+Jun 23 to Jul 27
+​
+310 
+​
+​
+514.24 
+​
+310 
+​
+15.3 
+​
+​
+Total
+​
+582 
+​
+​
+​
+​
+581 
+​
+​
+​
+​
+(1)
+We have a share repurchase plan that was announced in December 2022 to purchase up to $18.0 billion of shares of our common stock. The maximum number of shares that may yet be purchased under this plan was 15.3 million based on the closing price of our common stock on the New York Stock Exchange as of the end of the third quarter of 2025 of $517.38 per share. At the end of the third quarter of 2025, $7.9 billion of common stock remained to be purchased under this plan.
+(2)
+In the third quarter of 2025, one thousand shares of common stock were acquired from plan participants at the weighted-average market price of $485.89 per share to pay payroll taxes on the vesting of restricted stock awards.
 Item 3.
 Defaults Upon Senior Securities
 None.
@@ -39,28 +86,156 @@ adopted
 May 19, 2026
 .
 ​
-On 
-June 20, 2025
-, 
-John C. May
-, 
-Chairman and Chief Executive Officer
-, 
-adopted
- a trading plan intended to satisfy the affirmative defense conditions of Rule 10b5-1(c) under the Exchange Act. The plan provides for the sale of up to 
-52,578
- shares of common stock resulting from the exercise of employee stock options. The plan expires on 
-June 18, 2026
-.
-46
+On
+
+--- CHUNK ---
+
+Item 7A). There have been no material changes in this information.
+Item 4.
+CONTROLS AND PROCEDURES
+Our principal executive officer and principal financial officer have concluded that our disclosure controls and procedures (as defined in Rules 13a-15(e) and 15d-15(e) of the Securities Exchange Act of 1934, as amended (the Exchange Act)) were effective as of July 27, 2025, based on the evaluation of these controls and procedures required by Rule 13a-15(b) or 15d-15(b) of the Exchange Act. During the third quarter of 2025, there were no changes that have materially affected or are reasonably likely to materially affect our internal control over financial reporting.
+PART II.  OTHER INFORMATION
+Item 1.
+Legal Proceedings
+On January 15, 2025, the Federal Trade Commission (FTC), along with the Attorneys General of the States of Illinois and Minnesota, filed a lawsuit against us in the United States District Court for the Northern District of Illinois Western Division. The Attorneys General of the States of Arizona, Michigan, and Wisconsin then joined the lawsuit. The lawsuit alleges monopolization and unfair competition in violation of federal and state antitrust laws. Plaintiffs seek a permanent injunction and other equitable relief to allow owners of our equipment, as well as independent repair providers, access to our repair tools and any other repair resources available to authorized John Deere dealers. On March 17, 2025, we filed a motion to dismiss the lawsuit, the FTC filed a 
+
+--- CHUNK ---
 
 ​
-Item 6.
-Exhibits
-Certain instruments relating to long-term borrowings constituting less than 10% of the registrant’s total assets are not filed as exhibits herewith pursuant to Item 601(b)(4)(iii)(A) of Regulation S-K. The registrant will furnish copies of such instruments to the Commission upon request of the Commission.
+Item 2.
+Unregistered Sales of Equity Securities and Use of Proceeds
+Issuer Purchases of Equity Securities
+Purchases of our common stock during the third quarter of 2025 were as follows:
 ​
 ​
 ​
 ​
-3.1
-Certificate of Incorporation (Exhibit 3.1 to Form 10-Q of registrant for the quarter end
+​
+​
+​
+​
+​
+​
+​
+​
+​
+
+​
+
+​
+​
+​
+Total Number of
+
+​
+
+​
+​
+​
+​
+​
+​
+​
+Shares Purchased as
+​
+Maximum Number of
+
+​
+​
+Total Number of
+​
+​
+​
+​
+Part of Publicly
+​
+Shares that May Yet Be
+
+​
+​
+Shares
+​
+​
+​
+​
+Announced Plans or
+​
+Purchased under the
+
+​
+​
+Purchased (2)
+​
+Average Price
+​
+Programs (1)
+​
+Plans or Programs (1)
+
+Period
+​
+(thousands)
+​
+Per Share
+​
+(thousands)
+​
+(millions)
+
+Apr 28 to May 25
+​
+
+​
+
+​
+
+​
+​
+
+​
+​
+15.9 
+​
+​
+May 26 to Jun 22
+​
+272 
+​
+$
+519.79 
+​
+271 
+​
+15.6 
+​
+​
+Jun 23 to Jul 27
+​
+310 
+​
+​
+514.24 
+​
+310 
+​
+15.3 
+​
+​
+Total
+​
+582 
+​
+​
+​
+​
+581 
+​
+​
+​
+​
+(1)
+We have a share repurchase plan that was announced in December 2022 to purchase up to $18.0 billion of shares of our common stock. The maximum number of shares that may yet be purchased under this plan was 15.3 million based on the closing price of our common stock on the New York Stock Exchange as of the end of the third quarter of 2025 of $517.38 per share. At the end of the third quarter of 2025, $7.9 billion of common stock remained to be purchased under this plan.
+(2)
+In the third quarter of 2025, one thousand shares of common stock were acquired from plan participants at the weighted-average market price of $485.89 per share to pay payroll taxes on the vesting of restricted stock awards.
+Item 3.
+Defaults Upon Senior Securitie

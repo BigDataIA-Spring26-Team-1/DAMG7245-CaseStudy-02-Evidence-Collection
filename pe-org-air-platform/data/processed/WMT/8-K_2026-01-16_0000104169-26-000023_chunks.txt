@@ -50,7 +50,7 @@ WASHINGTON, DC 20549
 ________________________
 FORM 
 8-K
- 
+
 CURRENT REPORT
 PURSUANT TO SECTION 13 or 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934
 Date of Report (date of earliest event reported)
@@ -66,46 +66,40 @@ DE
 (Commission File Number)
 (I.R.S. Employer Identification No.)
 1 Customer Drive
- 
+
 Bentonville
 , 
 AR
- 
+
 72716
- 
-(Address of Principal Executive Offices)  (Zip code)
+
+(Address of Principal Executive Offices) (Zip code)
 Registrant's telephone number, including area code:
  (
 479
 ) 
 273-4000
- 
-Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any
+
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of th
 
 --- CHUNK ---
 
-motion to President and Chief Executive Officer of Walmart Inc. (the “Company”) as of the Effective Date was announced by the Company on November 14, 2025.
- 
-Since January 2025, Mr. Guggina has served as Executive Vice President and Chief eCommerce Officer, Walmart U.S.
- 
 Previously, Mr. Guggina served as Executive Vice President, Supply Chain from November 2022 to January 2025, as Senior Vice President, Innovation and Automation from April 2021 to November 2022, and as Senior Vice President, Product and Engineering from December 2019 to April 2021.
- 
+
 Prior to joining the Company in 2019, Mr. Guggina served in a variety of roles at Amazon.com, Inc.
-In connection with his new role, the Compensation and Management Development Committee (the “CMDC”) of the Company’s Board of Directors approved certain changes to Mr. Guggina’s compensation.  As of the Effective Date, Mr. Guggina’s annualized base salary will be $975,000.  For the fiscal year ending January 31, 2027 (“fiscal 2027”), Mr. Guggina’s target annual cash incentive opportunity under the Company’s Management Incentive Plan (the “MIP”) will be 180% of his base salary, with a maximum possible payout of 225% of his base salary.  For fiscal 2027, Mr. Guggina will be eligible to receive an annual equity award with a value of approximately $8,000,000, consisting of 75% performance-based restricted stock units and 25% restricted stock, and with the same grant date and vesting schedule as approved by the CMDC for all of the Compa
+In connection with his new role, the Compensation and Management Development Committee (the “CMDC”) of the Company’s Board of Directors approved certain changes to Mr. Guggina’s compensation. As of the Effective Date, Mr. Guggina’s annualized base salary will be $975,000. For the fiscal year ending January 31, 2027 (“fiscal 2027”), Mr. Guggina’s target annual cash incentive opportunity under the Company’s Management Incentive Plan (the “MIP”) will be 180% of his base salary, with a maximum possible payout of 225% of his base salary. For fiscal 2027, Mr. Guggina will be eligible to receive an annual equity award with a value of approximately $8,000,000, consisting of 75% performance-based restricted stock units and 25% restricted stock, and with the same grant date and vesting schedule as approved by the CMDC for all of the Company’s executive officers. 
+Walmart International
+. 
+On January 15, 2026, the Company announced that Kathryn McLay, the Company’s Executive Vice President, President and Chief Executive Officer, Walmart International (the “Position”), will depart the Company. Ms. McLay will rema
 
 --- CHUNK ---
 
-27, Mr. Nicholas will be eligible to receive an annual equity award with a value of approximately $9,000,000, consisting of 75% performance-based restricted stock units and 25% restricted stock, and with the same grant date and vesting schedule as approved by the CMDC for all of the Company’s executive officers.  
-Sam’s Club U.S.
- 
-Also on January 16, 2026, 
-Latriece Watkins, age 51, was appointed Executive Vice President, President and Chief Executive Officer, Sam’s Club U.S., effective as of the Effective Date.
- 
-Since May 2023, Ms. Watkins has served as Executive Vice President and Chief Merchandising Officer, Walmart U.S.
-  From 
-December 2020 to May 2023, Ms. Watkins served as Executive Vice President, Consumables, Walmart U.S.
- 
 Ms. Watkins joined the Company in 1997 as a real estate intern and has served in various leadership roles across Sam’s Club, Walmart U.S., human resources, and store operations.
- 
+
 She has served on the Board of Directors of Live Nation Entertainment, Inc. since 2021.
-In connection with her new role, the CMDC approved certain changes to Ms. Watkins’ compensation.  As of the Effective Date, Ms. Watkins’ annualized base salary will be $925,000.  For fiscal 2027, Ms. Watkins’ target annual cash incentive opportunity under the MIP will be 180% of her base salary, with a maximum possible payout of 225% of her base salary.  For fiscal 2027, Ms. Watkins will be eligible to receive an annual equity award with a value of approximately $7,000,000,  consist
+In connection with her new role, the CMDC approved certain changes to Ms. Watkins’ compensation. As of the Effective Date, Ms. Watkins’ annualized base salary will be $925,000. For fiscal 2027, Ms. Watkins’ target annual cash incentive opportunity under the MIP will be 180% of her base salary, with a maximum possible payout of 225% of her base salary. For fiscal 2027, Ms. Watkins will be eligible to receive an annual equity award with a value of approximately $7,000,000, consisting of 75% performance-based restricted stock units and 25% restricted stock, and with the same grant date and vesting schedule as approved by the CMDC for all of the Company’s executive officers. 
+General.
+
+The Company previously entered into a post-termination agreement and covenant not to compete with Mr. Guggina dated January 18, 2020, with Mr. Nicholas dated May 20, 2018, and with Ms. Watkins dated June 4, 2014 (collectively, the 
+“Non-Competition Agreements”). The Non-Competition Agreements are substantially similar to the form of post termination agreement and covenant not to compete that is attached as Exhibit 10(p) to the Company’s Form 10-K filed on March 30, 2011.
+The Non-Competition Agreements prohibit Mr. Guggina, Mr. Nicholas,

@@ -42,8 +42,8 @@ $
 918,641,111 
 Total
 1,935,124 
-1,935,124 
- 
+1,935,124
+
 (1)
 The Company received the Board of Directors' approval in November 2022 to repurchase $5 billion of its common stock, as reflected in the table above. In January 2026, the Company received the Board of Directors' approval to repurchase $6 billion of its common stock, which replaces in its entirety the previous 2022 authorization.
 (2)
@@ -55,4 +55,4 @@ During the fiscal quarter ended December 31, 2025, none of the Company’s dire
 adopted
  or 
 terminated
- any contra
+ any contract

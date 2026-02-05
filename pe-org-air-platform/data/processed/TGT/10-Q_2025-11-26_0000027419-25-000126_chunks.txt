@@ -54,28 +54,41 @@ Not app
 
 --- CHUNK ---
 
-has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
- 
- 
+Item 7A, Quantitative and Qualitative Disclosures About Market Risk of our 
+Form 10-K
+ for the fiscal year ended February 1, 2025.
+Item 4. Controls and Procedures
+Changes in Internal Control Over Financial Reporting
+There were no changes during the most recent fiscal quarter that materially affected, or are reasonably likely to materially affect, our internal control over financial reporting.
+Evaluation of Disclosure Controls and Procedures
+As of the end of the period covered by this quarterly report, we conducted an evaluation, under supervision and with the participation of management, including the chief executive officer and chief financial officer, of the effectiveness of the design and operation of our disclosure controls and procedures pursuant to Rules 13a-15 and 15d-15 of the Securities Exchange Act of 1934, as amended (Exchange Act). Based upon that evaluation, our chief executive officer and chief financial officer concluded that our disclosure controls and procedures are effective at a reasonable assurance level. Disclosure controls and procedures are defined by Rules 13a-15(e) and 15d-15(e) of the Exchange Act as controls and other procedures that are designed to ensure that information required to be disclosed by us in reports filed with the SEC under the Exchange Act is recorded, processed, summarized, and reported within the time periods specified in the SEC’s rules and forms. Disclosure controls and procedures include, without limitation, controls and procedu
+
+--- CHUNK ---
+
 TARGET CORPORATION
- 
- 
+Q3 2025 Form 10-Q
+28
+SUPPLEMENTAL INFORMATION
+Table of Contents
+Index to Notes
+SIGNATURES
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized.
+
+TARGET CORPORATION
+
 Dated: November 26, 2025
 By:
  /s/ Jim Lee
- 
+
 Jim Lee
- 
- 
+
 Executive Vice President and
- 
- 
+
 Chief Financial Officer
- 
- 
+
 (Duly Authorized Officer and
- 
- 
+
 Principal Financial Officer)
 /s/ Matthew A. Liegel
 Matthew A. Liegel
