@@ -18,10 +18,11 @@ class SignalStore:
     def close(self):
         self.conn.close()
  
-    def exists_by_hash(self, content_hash: str) -> bool:
+    def signal_exists_by_hash(self, content_hash: str) -> bool:
+        q = "SELECT 1 FROM external_signals WHERE content_hash = %s LIMIT 1"
         cur = self.conn.cursor()
         try:
-            cur.execute("SELECT 1 FROM external_signals WHERE content_hash=%s LIMIT 1", (content_hash,))
+            cur.execute(q, (content_hash,))
             return cur.fetchone() is not None
         finally:
             cur.close()

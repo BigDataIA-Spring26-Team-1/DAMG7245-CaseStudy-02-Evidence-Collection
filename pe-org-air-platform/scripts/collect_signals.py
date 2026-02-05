@@ -3,17 +3,15 @@ from __future__ import annotations
 import argparse
 import sys
 from pathlib import Path
-from app.config import settings
-
  
 ROOT = Path(__file__).resolve().parents[1]
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
  
+from app.config import settings
 from app.services.snowflake import get_snowflake_connection
 from app.services.signal_store import SignalStore
 from app.pipelines.external_signals import ExternalSignalCollector, sha256_text
- 
  
 DEFAULT_COMPANIES = {
     "CAT": "Caterpillar",
@@ -28,7 +26,6 @@ DEFAULT_COMPANIES = {
     "GS": "Goldman Sachs",
 }
  
- 
 def get_company_id(ticker: str) -> str:
     conn = get_snowflake_connection()
     cur = conn.cursor()
@@ -42,19 +39,18 @@ def get_company_id(ticker: str) -> str:
         cur.close()
         conn.close()
  
- 
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--companies", required=True, help="Ticker list like CAT,DE or 'all'")
     args = ap.parse_args()
  
-    tickers = list(DEFAULT_COMPANIES.keys()) if args.companies.lower().strip() == "all" else [
-        t.strip().upper() for t in args.companies.split(",") if t.strip()
-    ]
- 
-    collector = ExternalSignalCollector(
-    user_agent=settings.sec_user_agent
+    tickers = (
+        list(DEFAULT_COMPANIES.keys())
+        if args.companies.lower().strip() == "all"
+        else [t.strip().upper() for t in args.companies.split(",") if t.strip()]
     )
+ 
+    collector = ExternalSignalCollector(user_agent=settings.sec_user_agent)
     store = SignalStore()
  
     try:
@@ -67,9 +63,13 @@ def main() -> int:
             q = f"{DEFAULT_COMPANIES[ticker]} {ticker}"
  
             url, rss = collector.google_news_rss(q)
+            if not rss:
+                print(f"SKIP: {ticker} no rss returned for query={q}")
+                continue
+ 
             h = sha256_text(rss)
  
-            if store.exists_by_hash(h):
+            if store.signal_exists_by_hash(h):
                 print(f"SKIP: {ticker} rss already stored (hash={h[:10]})")
                 continue
  
@@ -89,9 +89,11 @@ def main() -> int:
  
         return 0
     finally:
-        collector.close()
+        try:
+            collector.close()
+        except Exception:
+            pass
         store.close()
- 
  
 if __name__ == "__main__":
     raise SystemExit(main())
