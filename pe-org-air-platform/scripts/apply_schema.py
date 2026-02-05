@@ -17,10 +17,18 @@ def split_sql_statements(sql: str) -> list[str]:
     """
     parts = [p.strip() for p in sql.split(";")]
     return [p for p in parts if p]
+
+
+def strip_leading_line_comments(sql: str) -> str:
+    lines = sql.splitlines()
+    i = 0
+    while i < len(lines) and lines[i].lstrip().startswith("--"):
+        i += 1
+    return "\n".join(lines[i:]).strip()
  
  
 def main() -> int:
-    schema_path = Path("app/database/schema.sql")
+    schema_path = ROOT / "app" / "database" / "schema.sql"
     if not schema_path.exists():
         raise SystemExit(f"schema.sql not found at: {schema_path.resolve()}")
  
@@ -31,14 +39,18 @@ def main() -> int:
     cur = conn.cursor()
     try:
         applied = 0
-        for stmt in statements:
-            # Skip comments-only blocks
-            if stmt.strip().startswith("--"):
+        for i, stmt in enumerate(statements, start=1):
+            s = strip_leading_line_comments(stmt)
+            if not s:
                 continue
-            cur.execute(stmt)
-            applied += 1
+            try:
+                cur.execute(s)
+                applied += 1
+            except Exception:
+                print(f"\n Failed on statement #{i}:\n{s}\n")
+                raise
  
-        print(f"✅ Applied {applied} SQL statements from {schema_path}")
+        print(f"Applied {applied} SQL statements from {schema_path}")
         return 0
     finally:
         cur.close()

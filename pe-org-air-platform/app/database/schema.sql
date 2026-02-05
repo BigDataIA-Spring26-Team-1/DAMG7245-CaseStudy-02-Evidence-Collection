@@ -80,15 +80,12 @@ CREATE TABLE IF NOT EXISTS documents (
   processed_at TIMESTAMP_NTZ
 );
  
--- Dedupe support: prevent duplicates on reruns
-ALTER TABLE documents ADD CONSTRAINT IF NOT EXISTS uq_documents_content_hash UNIQUE (content_hash);
- 
 CREATE TABLE IF NOT EXISTS document_chunks (
   id STRING PRIMARY KEY,
   document_id STRING NOT NULL,
   chunk_index INT NOT NULL,
   content STRING NOT NULL,
-  section STRING,                       -- "Item 1", "Item 1A", "Item 7" or NULL
+  section STRING,
   start_char INT,
   end_char INT,
   word_count INT,
@@ -108,3 +105,4 @@ ON t.id = s.id
 WHEN NOT MATCHED THEN
 INSERT (id, name, sector, hr_base)
 VALUES (s.id, s.name, s.sector, s.hr_base);
+

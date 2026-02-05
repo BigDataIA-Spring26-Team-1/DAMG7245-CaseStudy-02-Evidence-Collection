@@ -108,15 +108,20 @@ def extract_key_sections(full_text: str) -> Dict[str, str]:
     def slice_section(start, end):
         if start is None:
             return ""
-        if end is None or end <= start:
-            return text[start:start+60000]
+        if end is None:
+            return text[start:start + 80000]   # cap
+        if end <= start:
+            return text[start:start + 80000]
         return text[start:end]
 
+
     sections = {
-        "Item 1": slice_section(i1, i1a or i7),
-        "Item 1A": slice_section(i1a, i7),
-        "Item 7": slice_section(i7, i7a),
+    "Item 1": slice_section(i1, i1a or i7),
+    "Item 1A": slice_section(i1a, i7),
+    "Item 7": slice_section(i7, i7a),
+    "Item 7A": slice_section(i7a, None),
     }
+
 
     # Drop tiny false positives
     for k in list(sections.keys()):
@@ -124,55 +129,6 @@ def extract_key_sections(full_text: str) -> Dict[str, str]:
             sections[k] = ""
 
     return sections
-
-    """
-    Best-effort extraction for Item 1, 1A, 7. Works okay for many 10-K/10-Q HTML texts.
-    For forms where items don't exist (e.g., some 8-K), sections may be empty.
-    """
-    # Normalize whitespace for more stable regex matching
-    text = re.sub(r"[ \t]+", " ", full_text)
-    text_lower = text.lower()
-
-    def find_span(item_pat: str) -> Optional[int]:
-        m = re.search(item_pat, text_lower)
-        return m.start() if m else None
-
-    # Patterns: allow "item 1.", "item 1 –", etc.
-    p1 = r"\bitem\s+1\b"
-    p1a = r"\bitem\s+1a\b"
-    p7 = r"\bitem\s+7\b"
-    p7a = r"\bitem\s+7a\b"  # often follows item 7; used as an end marker
-
-    i1 = find_span(p1)
-    i1a = find_span(p1a)
-    i7 = find_span(p7)
-    i7a = find_span(p7a)
-
-    out: Dict[str, str] = {}
-
-    # Determine boundaries conservatively
-    def slice_between(start: Optional[int], end: Optional[int]) -> str:
-        if start is None:
-            return ""
-        if end is None or end <= start:
-            return text[start : min(len(text), start + 20000)]  # cap to avoid runaway
-        return text[start:end]
-
-    # Item 1 ends at Item 1A if present, else Item 7 if present
-    out[ITEM_1] = slice_between(i1, i1a or i7)
-    # Item 1A ends at Item 7 if present
-    out[ITEM_1A] = slice_between(i1a, i7)
-    # Item 7 ends at Item 7A if present, else cap
-    out[ITEM_7] = slice_between(i7, i7a)
-
-    # Trim noisy short sections
-    for k in list(out.keys()):
-        if len(out[k].strip()) < 200:  # too small, likely false match
-            out[k] = ""
-        else:
-            out[k] = out[k].strip()
-
-    return out
 
 
 def chunk_text(

@@ -38,6 +38,9 @@ class Settings(BaseSettings):
     aws_secret_access_key: str | None = None
     s3_bucket_name: str | None = None
 
+    # SEC / EDGAR
+    sec_user_agent: str = "PE-OrgAIR (Northeastern) yourname@northeastern.edu"
+
 
 @lru_cache(maxsize=1)
 def get_settings() -> Settings:

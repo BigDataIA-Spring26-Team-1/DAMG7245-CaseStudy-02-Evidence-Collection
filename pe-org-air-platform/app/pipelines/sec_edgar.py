@@ -39,8 +39,6 @@ class SecEdgarClient:
 
     def __init__(self, user_agent: str, rate_limit_per_sec: float = 5.0, timeout_s: float = 30.0):
         if not user_agent or "@" not in user_agent:
-            # SEC expects a descriptive UA with contact email.
-            # Example: "PE-OrgAIR (Northeastern) yourname@northeastern.edu"
             raise ValueError("SEC user_agent must include contact email (e.g., 'AppName email@domain').")
         self.user_agent = user_agent
         self.rate_limit_per_sec = max(rate_limit_per_sec, 0.1)
