@@ -4,7 +4,9 @@ import argparse
 import sys
 from pathlib import Path
 from uuid import uuid4
- 
+
+from app.config import settings
+
 ROOT = Path(__file__).resolve().parents[1]
 if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))

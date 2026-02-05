@@ -106,3 +106,36 @@ WHEN NOT MATCHED THEN
 INSERT (id, name, sector, hr_base)
 VALUES (s.id, s.name, s.sector, s.hr_base);
 
+-- =========================================================
+-- CS2: External Signals
+-- =========================================================
+ 
+CREATE TABLE IF NOT EXISTS external_signals (
+  id STRING PRIMARY KEY,
+  company_id STRING NOT NULL,
+  ticker STRING NOT NULL,
+ 
+  signal_type STRING NOT NULL,          -- jobs/news/patents/tech
+  source STRING NOT NULL,               -- greenhouse/google_news_rss/uspto/etc
+  title STRING,
+  url STRING,
+  published_at TIMESTAMP_NTZ,
+  collected_at TIMESTAMP_NTZ DEFAULT CURRENT_TIMESTAMP(),
+ 
+  content_text STRING,
+  content_hash STRING,
+ 
+  metadata VARIANT
+);
+ 
+CREATE TABLE IF NOT EXISTS company_signal_summaries (
+  id STRING PRIMARY KEY,
+  company_id STRING NOT NULL,
+  ticker STRING NOT NULL,
+  as_of_date DATE NOT NULL,
+ 
+  summary_text STRING NOT NULL,
+  signal_count INT DEFAULT 0,
+  created_at TIMESTAMP_NTZ DEFAULT CURRENT_TIMESTAMP()
+);
+
