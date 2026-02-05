@@ -14,7 +14,7 @@ cat:A5.3DebenturesDueSeptember152035Member
 2026-01-28
 UNITED STATES 
 SECURITIES AND EXCHANGE COMMISSION 
-Washington, D.C.  20549
+Washington, D.C. 20549
 FORM
 8-K
 Current Report
@@ -27,9 +27,9 @@ Delaware
 1-768
 37-0602744
 (State or other jurisdiction of incorporation)
- 
+
 (Commission File Number)
- 
+
 (I.R.S Employer Identification No.)
 5205 N. O'Connor Blvd.,
 Suite 100,
@@ -58,4 +58,4 @@ Name of each exchange which registered
 Common Stock ($1.00 par value)
 CAT
 The New York Stock Exchange
-5.3% Debentures due Septembe
+5.3% Debentures due September 1

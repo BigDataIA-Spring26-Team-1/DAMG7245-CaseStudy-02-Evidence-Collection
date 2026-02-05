@@ -7,33 +7,44 @@ There were no repurchases of the Company’s common stock
 
 --- CHUNK ---
 
-relating to the 6.875% Senior Notes due 2038 (incorporated by reference to Exhibit 4.1 to UnitedHealth Group Incorporated’s Current Report on Form 8-K filed on April 24, 2023)
-*
-10.1
-Employment Agreement, effective as of September 2, 2025, between United HealthCare Services, Inc. and Wayne S. DeVeydt (incorporated by reference to Exhibit 10.1 to UnitedHealth Group Incorporated’s Current Report on Form 8-K filed on July 31, 2025).
-31.1
-Certifications pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
-32.1
-Certifications pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
-101.INS
-XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.
-101.SCH
-Inline XBRL Taxonomy Extension Schema Document.
-101.CAL
-Inline XBRL Taxonomy Extension Calculation Linkbase Document.
-101.DEF
-Inline XBRL Taxonomy Extension Definition Linkbase Document. 
-101.LAB
-Inline XBRL Taxonomy Extension Label Linkbase Document. 
-101.PRE
-Inline XBRL Taxonomy Extension Presentation Linkbase Document.
-104 
-Cover Page Interactive Data File (formatted as Inline XBRL and embedded within Exhibit 101).
- ________________
-*
-Denotes management contracts and compensation plans in which certain directors and named executive officers participate and which are being filed pursuant to Item 601(b)(10)(iii)(A) of Regulation S-K.
-**
-Pursuant to Item 601(b)(4)(iii) of Regulation S-K, copies of instruments defining the ri
+UNITEDHEALTH GROUP INCORPORATED
+
+/s/ S
+TEPHEN
+ H
+EMSLEY
+Chair and Chief Executive Officer
+(principal executive officer)
+Dated:
+October 28, 2025
+Stephen Hemsley
+
+/s/ W
+AYNE
+ D
+E
+V
+EYDT
+Chief Financial Officer
+(principal financial officer)
+Dated:
+October 28, 2025
+Wayne DeVeydt
+
+/s/
+
+T
+HOMAS
+ R
+OOS
+Senior Vice President and 
+Chief Accounting Officer
+(principal accounting officer)
+Dated:
+October 28, 2025
+Thomas Roos
+
+29
 
 --- CHUNK ---
 
@@ -43,77 +54,41 @@ The statements, estimates, projections, guidance or outlook contained in this do
 
 --- CHUNK ---
 
-subject to risks, uncertainties and assumptions that are difficult to predict or quantify. Actual results may vary materially from expectations expressed or implied in this document or any of our prior communications. You should not place undue reliance on forward-looking statements, which speak only as of the date they are made. We do not undertake to update or revise any forward-looking statements, except as required by law.
-25
-Table of Contents
-ITEM 3.    QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
-We manage exposure to market interest rates by diversifying investments across different fixed-income market sectors and debt across maturities, as well as by matching a portion of our floating-rate assets and liabilities, either directly or through the use of interest rate swap contracts. Unrealized gains and losses on investments in available-for-sale debt securities are reported in comprehensive income.
-The following table summarizes the impact of hypothetical changes in market interest rates across the entire yield curve by 1% point or 2% points as of September 30, 2025 on our investment income and interest expense per annum, and the fair value of our investments and debt (in millions, except percentages):
-September 30, 2025
-Increase (Decrease) in Market Interest Rate
-Investment
-Income Per
-Annum
-Interest
-Expense Per
-Annum
-Fair Value of
-Financial Assets
-Fair Value of
-Financial Liabilities
-2 %
-$
-728 
-$
-576 
-$
-(4,249)
-$
-(9,525)
-1
-364 
-288 
-(2,170)
-(5,160)
-(1)
-(36
+UNITEDHEALTH GROUP INCORPORATED
 
---- CHUNK ---
+/s/ S
+TEPHEN
+ H
+EMSLEY
+Chair and Chief Executive Officer
+(principal executive officer)
+Dated:
+October 28, 2025
+Stephen Hemsley
 
-1 of this report.
-ITEM 1A.    RISK FACTORS 
-In addition to the other information set forth in this report, you should carefully consider the factors discussed in Part I, Item 1A, “Risk Factors” of our 2024 10-K, which could materially affect our business, financial condition or future results. The risks described in our 2024 10-K are not the only risks facing us. Additional risks and uncertainties not currently known to us or that we currently deem to be immaterial also may materially adversely affect our business, financial condition or future results. 
-There have been no material changes to the risk factors as disclosed in our 2024 10-K.
-ITEM 2.    UNREGISTERED SALE OF EQUITY SECURITIES AND USE OF PROCEEDS
-In November 1997, our Board of Directors adopted a share repurchase program, which the Board of Directors evaluates periodically. In June 2024, the Board of Directors amended our share repurchase program to authorize the repurchase of up to 35 million shares of our common stock in open market purchases or other types of transactions (including prepaid or structured repurchase programs), in addition to all remaining shares authorized to be repurchased under the Board’s 2018 renewal of the program. There is no established expiration date for the program. The Board of Directors from time to time may further amend the share repurchase program in order to increase the authorized number of shares which may be repurchased under the program.
-There were no repurchases of the Compa
+/s/ W
+AYNE
+ D
+E
+V
+EYDT
+Chief Financial Officer
+(principal financial officer)
+Dated:
+October 28, 2025
+Wayne DeVeydt
 
---- CHUNK ---
+/s/
 
-tion, as trustee, relating to the 6.875% Senior Notes due 2038 (incorporated by reference to Exhibit 4.1 to UnitedHealth Group Incorporated’s Current Report on Form 8-K filed on April 24, 2023)
-*
-10.1
-Employment Agreement, effective as of September 2, 2025, between United HealthCare Services, Inc. and Wayne S. DeVeydt (incorporated by reference to Exhibit 10.1 to UnitedHealth Group Incorporated’s Current Report on Form 8-K filed on July 31, 2025).
-31.1
-Certifications pursuant to Section 302 of the Sarbanes-Oxley Act of 2002
-32.1
-Certifications pursuant to Section 906 of the Sarbanes-Oxley Act of 2002
-101.INS
-XBRL Instance Document - the instance document does not appear in the Interactive Data File because its XBRL tags are embedded within the Inline XBRL document.
-101.SCH
-Inline XBRL Taxonomy Extension Schema Document.
-101.CAL
-Inline XBRL Taxonomy Extension Calculation Linkbase Document.
-101.DEF
-Inline XBRL Taxonomy Extension Definition Linkbase Document. 
-101.LAB
-Inline XBRL Taxonomy Extension Label Linkbase Document. 
-101.PRE
-Inline XBRL Taxonomy Extension Presentation Linkbase Document.
-104 
-Cover Page Interactive Data File (formatted as Inline XBRL and embedded within Exhibit 101).
- ________________
-*
-Denotes management contracts and compensation plans in which certain directors and named executive officers participate and which are being filed pursuant to Item 601(b)(10)(iii)(A) of Regulation S-K.
-**
-Pursuant to Item 601(b)(4)(iii) of Regulation S-K, copies of instrumen
+T
+HOMAS
+ R
+OOS
+Senior Vice President and 
+Chief Accounting Officer
+(principal accounting officer)
+Dated:
+October 28, 2025
+Thomas Roos
+
+29

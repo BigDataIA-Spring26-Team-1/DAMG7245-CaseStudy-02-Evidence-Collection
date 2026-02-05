@@ -1,6 +1,4 @@
 Item 1.01 is hereby incorporated by reference into this Item 2.03.
- 
- 
 
 Item 9.01 Financial Statements and Exhibits.
 
@@ -20,41 +18,18 @@ Exhibit 104
 
 The cover page from this Current Report on Form 8-K, formatted in Inline XBRL
 
- 
-
 SIGNATURES
 Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
 
- 
-
- 
-
- 
-
 PAYCHEX, INC.
-
- 
-
- 
-
- 
-
- 
 
 Date:
 
 January 26, 2026
 
 By:
- 
 
 /s/ Robert L. Schrader
-
- 
-
- 
-
- 
 
 Robert L. Schrader
 Senior Vice President and Chief Financial Officer

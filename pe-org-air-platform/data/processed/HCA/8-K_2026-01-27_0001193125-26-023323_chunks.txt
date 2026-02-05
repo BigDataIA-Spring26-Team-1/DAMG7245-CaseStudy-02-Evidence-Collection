@@ -4,60 +4,31 @@ Exhibit 99.1
 .
 Item 8.01. Other Events.
 On January 27, 2026, the Company announced that its Board of Directors had authorized an additional share repurchase program for up to $10 billion of the Company’s outstanding common stock. Repurchases will be made in accordance with applicable securities laws from time to time in the open market, through privately negotiated transactions, or otherwise.
- 
+
 On January 27, 2026, the Company announced that its Board of Directors had declared a quarterly cash dividend of $0.78 per share of the Company’s common stock. The dividend will be paid on March 31, 2026 to stockholders of record at the close of business on March 17, 2026.
 Item 9.01. Financial Statements and Exhibits.
 (d) Exhibits:
- 
 
 Exhibit 99.1
 
- 
-
 Press Release, dated January 27, 2026
- 
 
 Exhibit 104
 
- 
-
 Cover Page Interactive Data File (embedded within the Inline XBRL document)
-
- 
 
 SIGNATURES
 Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized.
 
- 
-
- 
-
- 
-
 HCA HEALTHCARE, INC.
-
- 
-
- 
-
- 
-
- 
 
 Date:
 
 January 27, 2026
 
 By:
- 
 
 /s/ Michael A. Marks
 
- 
-
- 
-
- 
-
 Michael A. Marks
-Executive Vice President and Chief Financial Off
+Executive Vice President and Chief Financial Officer
