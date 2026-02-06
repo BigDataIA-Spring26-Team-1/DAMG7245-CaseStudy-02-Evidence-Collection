@@ -183,7 +183,7 @@ A Streamlit-based interface can be added to visualize:
 - Document metadata and registry status
 
 Streamlit App Link:  
-<ADD STREAMLIT APP LINK HERE>
+This project is hosted [here](https://damg7245-casestudy-02-evidence-collection-cxbw3qzkhfgouuh6mtdk.streamlit.app/).
 
 ---
 
@@ -202,9 +202,10 @@ Architecture Diagram Link:
 ## Video Recording
 
 A walkthrough video explaining the system design, pipeline execution, and outputs is available at:
+[![Project Walkthrough Video](https://img.youtube.com/vi/MLVnwJO5sQ8/0.jpg)](https://www.youtube.com/watch?v=MLVnwJO5sQ8)
 
-Video Recording Link:  
-<https://www.youtube.com/watch?v=MLVnwJO5sQ8>
+
+
 
 ---
 
