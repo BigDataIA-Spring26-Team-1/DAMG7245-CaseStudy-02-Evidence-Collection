@@ -44,6 +44,24 @@ Manual research, subjective judgment, or anecdotal claims are insufficient. CS2 
 
 ---
 
+## Codelabs Documentation
+
+This project includes a step-by-step Codelabs walkthrough documenting the complete
+evidence collection pipeline, design decisions, and implementation details.
+
+- **Google Doc (Public Viewer)**  
+  https://docs.google.com/document/d/16ilwbj0_W-pHgIrBX6mAY0TC4x-fDf9vZCQoXdVGCWY/edit
+
+- **Codelab Preview**  
+  https://codelabs-preview.appspot.com/?file_id=16ilwbj0_W-pHgIrBX6mAY0TC4x-fDf9vZCQoXdVGCWY
+
+The Codelab follows the official Google Codelab formatting guidelines and provides
+a guided, reproducible walkthrough of the system architecture, ingestion pipeline,
+parsing logic, chunking strategy, and auditability guarantees.
+
+---
+
+
 ## Evidence Sources
 
 ### SEC Filings (Primary Evidence)
