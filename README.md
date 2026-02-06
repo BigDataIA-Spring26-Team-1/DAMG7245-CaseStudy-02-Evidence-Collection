@@ -194,7 +194,7 @@ The system architecture diagram illustrating ingestion, processing, storage, and
 Architecture Diagram Link:  
 <https://drive.google.com/file/d/1XG-5UuxJHmMyr1j5hF3Ivk0hW5W-XyTm/view>
 
-![Architecture Diagram](pe-org-air-platform\architecture.png)
+![Architecture Diagram](architecture.png)
 
 
 ---
