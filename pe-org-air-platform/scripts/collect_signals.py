@@ -4,6 +4,7 @@ import argparse
 import json
 import sys
 from pathlib import Path
+from typing import Any, Dict, Optional, Tuple
 
 ROOT = Path(__file__).resolve().parents[1]
 if str(ROOT) not in sys.path:
@@ -12,7 +13,14 @@ if str(ROOT) not in sys.path:
 from app.config import settings
 from app.services.snowflake import get_snowflake_connection
 from app.services.signal_store import SignalStore
-from app.pipelines.external_signals import ExternalSignalCollector, TechStackCollector, sha256_text
+from app.pipelines.external_signals import ExternalSignalCollector, sha256_text
+
+# TechStackCollector is optional depending on your file.
+# We'll import if available and fallback gracefully if not.
+try:
+    from app.pipelines.external_signals import TechStackCollector  # type: ignore
+except Exception:  # pragma: no cover
+    TechStackCollector = None  # type: ignore
 
 
 DEFAULT_COMPANIES: dict[str, str] = {
@@ -46,8 +54,68 @@ def get_company_id(ticker: str) -> str:
         conn.close()
 
 
+def _write_text(path: Path, text: str, limit: int = 20000) -> None:
+    path.write_text((text or "")[:limit], encoding="utf-8", errors="ignore")
+
+
+def _write_json(path: Path, obj: Any) -> None:
+    path.write_text(json.dumps(obj, indent=2, sort_keys=True), encoding="utf-8", errors="ignore")
+
+
+def _safe_get_patents_rss(collector: ExternalSignalCollector, query: str) -> Tuple[Optional[str], Optional[str], str]:
+    """
+    Returns (url, rss_text, source_label).
+    We try a dedicated method if your collector has it; otherwise we fallback to Google News RSS with a "patent" query.
+    """
+    # If you implemented something like patents_uspto_stub(query)
+    if hasattr(collector, "patents_uspto_stub"):
+        fn = getattr(collector, "patents_uspto_stub")
+        url, rss = fn(query)
+        return url, rss, "uspto_stub_rss"
+
+    # If you implemented something like google_patents_rss(query)
+    if hasattr(collector, "google_patents_rss"):
+        fn = getattr(collector, "google_patents_rss")
+        url, rss = fn(query)
+        return url, rss, "google_patents_rss"
+
+    # Fallback (still external)
+    # This is not “USPTO API”, but it keeps the pipeline end-to-end and produces external patent-related signals.
+    url, rss = collector.google_news_rss(f"{query} patent")
+    return url, rss, "google_news_rss_patent_fallback"
+
+
+def _extract_tech_counts(collector: ExternalSignalCollector, tech_obj: Any, blob: str) -> Dict[str, int]:
+    """
+    Supports multiple possible implementations:
+    - TechStackCollector.extract(text) -> dict
+    - collector.extract_tech_stack(text) -> dict
+    """
+    if not blob.strip():
+        return {}
+
+    # Preferred: TechStackCollector if present
+    if tech_obj is not None:
+        # expected method name: extract()
+        if hasattr(tech_obj, "extract"):
+            counts = tech_obj.extract(blob)
+            return counts or {}
+        # if someone used extract_tech_stack() inside collector class
+        if hasattr(tech_obj, "extract_tech_stack"):
+            counts = tech_obj.extract_tech_stack(blob)
+            return counts or {}
+
+    # Fallback to collector method if you placed it there
+    if hasattr(collector, "extract_tech_stack"):
+        counts = collector.extract_tech_stack(blob)
+        return counts or {}
+
+    return {}
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
+    ap.add_argument("--out", default="data/signals", help="Output folder for proof artifacts")
     ap.add_argument("--companies", required=True, help="Ticker list like CAT,DE or 'all'")
     args = ap.parse_args()
 
@@ -59,16 +127,24 @@ def main() -> int:
 
     collector = ExternalSignalCollector(user_agent=settings.sec_user_agent)
     store = SignalStore()
-    tech = TechStackCollector()
+    tech = TechStackCollector() if TechStackCollector is not None else None
 
     try:
         for ticker in tickers:
+            out_dir = ROOT / args.out / ticker
+            out_dir.mkdir(parents=True, exist_ok=True)
+
             if ticker not in DEFAULT_COMPANIES:
                 print(f"SKIP: unknown ticker {ticker}")
                 continue
 
             company_id = get_company_id(ticker)
             company_name = DEFAULT_COMPANIES[ticker]
+
+            # Keep these defined no matter which branch runs
+            jobs_rss: str = ""
+            news_rss: str = ""
+            patents_rss: str = ""
 
             # =========================================================
             # 1) JOBS signals (Greenhouse / Lever / RSS fallback)
@@ -78,7 +154,7 @@ def main() -> int:
             lv = (tokens.get("lever") or "").strip()
 
             jobs: list[dict] = []
-            source_used: str | None = None
+            source_used: Optional[str] = None
 
             try:
                 if gh:
@@ -121,11 +197,14 @@ def main() -> int:
                     )
                     inserted_jobs += 1
 
+                # Proof artifact: small summary JSON
+                _write_json(out_dir / "jobs_board_sample.json", {"source": source_used, "inserted": inserted_jobs, "sample": jobs[:3]})
                 print(f"STORED: {ticker} jobs inserted={inserted_jobs} source={source_used}")
 
             else:
                 jobs_q = f"{company_name} {ticker} hiring jobs"
                 jobs_url, jobs_rss = collector.google_jobs_rss(jobs_q)
+                _write_text(out_dir / "jobs_rss.txt", jobs_rss)
 
                 if jobs_rss:
                     jobs_hash = sha256_text(f"jobs_rss|{ticker}|{jobs_rss}")
@@ -153,6 +232,7 @@ def main() -> int:
             # =========================================================
             news_q = f"{company_name} {ticker}"
             news_url, news_rss = collector.google_news_rss(news_q)
+            _write_text(out_dir / "news_rss.txt", news_rss)
 
             if news_rss:
                 news_hash = sha256_text(f"news_rss|{ticker}|{news_rss}")
@@ -176,11 +256,11 @@ def main() -> int:
                 print(f"SKIP: {ticker} no news rss returned for query={news_q}")
 
             # =========================================================
-            # 3) TECH STACK signals (derived from external text, NOT EDGAR)
-            #    We analyze the combined RSS blobs as a lightweight external proxy
+            # 3) TECH STACK signals (external-only proxy)
             # =========================================================
-            tech_blob = "\n".join([s for s in [news_rss or "", jobs_rss or ""] if s])
-            tech_counts = tech.extract(tech_blob)
+            tech_blob = "\n".join([x for x in [news_rss, jobs_rss] if x])
+            tech_counts = _extract_tech_counts(collector, tech, tech_blob)
+            _write_json(out_dir / "tech_counts.json", tech_counts)
 
             if tech_counts:
                 tech_hash = sha256_text(f"tech|{ticker}|" + json.dumps(tech_counts, sort_keys=True))
@@ -207,13 +287,15 @@ def main() -> int:
                 print(f"SKIP: {ticker} no tech keywords found in external blobs")
 
             # =========================================================
-            # 4) PATENT signals (external)
+            # 4) PATENTS signals (external)
             # =========================================================
             pat_q = f"{company_name} {ticker}"
-            pat_url, pat_rss = collector.patents_uspto_stub(pat_q)
+            pat_url, pat_rss, pat_source = _safe_get_patents_rss(collector, pat_q)
+            patents_rss = pat_rss or ""
+            _write_text(out_dir / "patents_rss.txt", patents_rss)
 
-            if pat_rss:
-                pat_hash = sha256_text(f"patents_rss|{ticker}|{pat_rss}")
+            if patents_rss:
+                pat_hash = sha256_text(f"patents_rss|{ticker}|{patents_rss}")
                 if store.signal_exists_by_hash(pat_hash):
                     print(f"SKIP: {ticker} patents rss already stored (hash={pat_hash[:10]})")
                 else:
@@ -221,15 +303,15 @@ def main() -> int:
                         company_id=company_id,
                         ticker=ticker,
                         signal_type="patents",
-                        source="uspto_stub_rss",
+                        source=pat_source,
                         title=f"{company_name} patents RSS",
                         url=pat_url,
                         published_at=None,
-                        content_text=pat_rss[:20000],
+                        content_text=patents_rss[:20000],
                         content_hash=pat_hash,
                         metadata={"query": pat_q, "note": "patents rss stored (truncated to 20k)"},
                     )
-                    print(f"STORED: {ticker} patents rss hash={pat_hash[:10]}")
+                    print(f"STORED: {ticker} patents rss hash={pat_hash[:10]} source={pat_source}")
             else:
                 print(f"SKIP: {ticker} no patents rss returned for query={pat_q}")
 

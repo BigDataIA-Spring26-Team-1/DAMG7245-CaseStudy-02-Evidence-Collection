@@ -15,10 +15,10 @@ from app.services.snowflake import get_snowflake_connection
 
 
 DEFAULT_WEIGHTS = {
-    "jobs": 0.35,
-    "tech": 0.30,
-    "patents": 0.20,
-    "news": 0.15,
+    "jobs": 0.30,
+    "tech": 0.25,
+    "patents": 0.25,
+    "news": 0.20,
 }
 
 
