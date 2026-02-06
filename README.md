@@ -9,8 +9,8 @@ Program: MS in Information Systems, Northeastern University
 
 ## Team Members
 
-Ayush Patil
-Piyush Kunjilwar
+Ayush Patil,
+Piyush Kunjilwar,
 Raghavendra Prasath Sridhar
 
 ---
