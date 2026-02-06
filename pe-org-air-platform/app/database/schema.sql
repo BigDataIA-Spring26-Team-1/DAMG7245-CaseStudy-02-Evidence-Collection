@@ -74,7 +74,7 @@ CREATE TABLE IF NOT EXISTS documents (
   content_hash STRING,
   word_count INT,
   chunk_count INT,
-  status STRING DEFAULT 'processed',
+  status STRING DEFAULT 'pending',  
   error_message STRING,
   created_at TIMESTAMP_NTZ DEFAULT CURRENT_TIMESTAMP(),
   processed_at TIMESTAMP_NTZ
