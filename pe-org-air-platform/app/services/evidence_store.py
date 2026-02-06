@@ -1,10 +1,20 @@
 from __future__ import annotations
  
 from dataclasses import dataclass
+from enum import Enum
 from typing import Optional, Sequence
-from uuid import uuid4
- 
+
 from app.services.snowflake import get_snowflake_connection
+
+
+class DocumentStatus(str, Enum):
+    PENDING = "pending"
+    DOWNLOADED = "downloaded"
+    PARSED = "parsed"
+    CHUNKED = "chunked"
+    INDEXED = "indexed"
+    FAILED = "failed"
+    PROCESSED = "processed"
  
  
 @dataclass(frozen=True)
@@ -35,12 +45,10 @@ class ChunkRow:
  
  
 class EvidenceStore:
-    class EvidenceStore:
-        def __init__(self):
-            self.conn = get_snowflake_connection()
-            self.conn.autocommit(True)
+    def __init__(self) -> None:
+        self.conn = get_snowflake_connection()
+        self.conn.autocommit(True)
 
- 
     def close(self):
         self.conn.close()
  
@@ -108,6 +116,64 @@ class EvidenceStore:
                     )
                     for c in chunks
                 ],
+            )
+        finally:
+            cur.close()
+
+    def update_document_status(
+        self, document_id: str, status: str, error_message: str | None = None
+    ) -> None:
+        q = """
+        UPDATE documents
+           SET status=%s,
+               error_message=COALESCE(%s, error_message),
+               processed_at=CASE WHEN %s IN ('indexed','failed') THEN CURRENT_TIMESTAMP() ELSE processed_at END
+         WHERE id=%s
+        """
+        cur = self.conn.cursor()
+        try:
+            cur.execute(q, (status, error_message, status, document_id))
+        finally:
+            cur.close()
+
+    def insert_failed_stub(
+        self,
+        doc_id: str,
+        company_id: str,
+        ticker: str,
+        filing_type: str,
+        filing_date: str,
+        source_url: str | None,
+        local_path: str | None,
+        content_hash: str | None,
+        error_message: str,
+    ) -> None:
+        q = """
+        INSERT INTO documents (
+          id, company_id, ticker, filing_type, filing_date,
+          source_url, local_path, content_hash, word_count, chunk_count,
+          status, error_message, processed_at
+        )
+        VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,CURRENT_TIMESTAMP())
+        """
+        cur = self.conn.cursor()
+        try:
+            cur.execute(
+                q,
+                (
+                    doc_id,
+                    company_id,
+                    ticker,
+                    filing_type,
+                    filing_date,
+                    source_url,
+                    local_path,
+                    content_hash,
+                    0,
+                    0,
+                    DocumentStatus.FAILED.value,
+                    error_message,
+                ),
             )
         finally:
             cur.close()
