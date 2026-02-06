@@ -12,7 +12,8 @@ from app.routers.documents import router as documents_router
 from app.routers.signals import router as signals_router
 from app.routers.evidence import router as evidence_router
 from app.routers import chunk
- 
+from app.main import app
+
  
 app = FastAPI(title=settings.app_name)
  
