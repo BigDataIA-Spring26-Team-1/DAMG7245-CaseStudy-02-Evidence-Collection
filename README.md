@@ -204,7 +204,7 @@ Architecture Diagram Link:
 A walkthrough video explaining the system design, pipeline execution, and outputs is available at:
 
 Video Recording Link:  
-<ADD VIDEO RECORDING LINK HERE>
+<https://www.youtube.com/watch?v=MLVnwJO5sQ8>
 
 ---
 
