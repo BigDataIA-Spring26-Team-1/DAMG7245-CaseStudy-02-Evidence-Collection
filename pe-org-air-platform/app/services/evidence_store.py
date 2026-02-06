@@ -1,5 +1,5 @@
 from __future__ import annotations
- 
+
 from dataclasses import dataclass
 from enum import Enum
 from typing import Optional, Sequence
@@ -14,9 +14,9 @@ class DocumentStatus(str, Enum):
     CHUNKED = "chunked"
     INDEXED = "indexed"
     FAILED = "failed"
-    PROCESSED = "processed"
- 
- 
+    PROCESSED = "processed"  # legacy / CS1-compatible
+
+
 @dataclass(frozen=True)
 class DocumentRow:
     id: str
@@ -30,8 +30,8 @@ class DocumentRow:
     word_count: int
     chunk_count: int
     status: str = "processed"
- 
- 
+
+
 @dataclass(frozen=True)
 class ChunkRow:
     id: str
@@ -42,16 +42,20 @@ class ChunkRow:
     start_char: int
     end_char: int
     word_count: int
- 
- 
+
+
 class EvidenceStore:
     def __init__(self) -> None:
         self.conn = get_snowflake_connection()
-        self.conn.autocommit(True)
+        try:
+            self.conn.autocommit(True)
+        except Exception:
+            # Some connector versions may not support this; inserts will still work
+            pass
 
-    def close(self):
+    def close(self) -> None:
         self.conn.close()
- 
+
     def document_exists_by_hash(self, content_hash: str) -> bool:
         q = "SELECT 1 FROM documents WHERE content_hash = %s LIMIT 1"
         cur = self.conn.cursor()
@@ -60,7 +64,7 @@ class EvidenceStore:
             return cur.fetchone() is not None
         finally:
             cur.close()
- 
+
     def insert_document(self, doc: DocumentRow) -> None:
         q = """
         INSERT INTO documents (
@@ -89,10 +93,11 @@ class EvidenceStore:
             )
         finally:
             cur.close()
- 
+
     def insert_chunks_bulk(self, chunks: Sequence[ChunkRow]) -> None:
         if not chunks:
             return
+
         q = """
         INSERT INTO document_chunks (
             id, document_id, chunk_index, content, section, start_char, end_char, word_count
@@ -120,6 +125,14 @@ class EvidenceStore:
         finally:
             cur.close()
 
+    def update_document_chunk_count(self, document_id: str, chunk_count: int) -> None:
+        q = "UPDATE documents SET chunk_count=%s WHERE id=%s"
+        cur = self.conn.cursor()
+        try:
+            cur.execute(q, (chunk_count, document_id))
+        finally:
+            cur.close()
+
     def update_document_status(
         self, document_id: str, status: str, error_message: str | None = None
     ) -> None:
@@ -127,7 +140,10 @@ class EvidenceStore:
         UPDATE documents
            SET status=%s,
                error_message=COALESCE(%s, error_message),
-               processed_at=CASE WHEN %s IN ('indexed','failed') THEN CURRENT_TIMESTAMP() ELSE processed_at END
+               processed_at=CASE
+                   WHEN %s IN ('indexed','failed') THEN CURRENT_TIMESTAMP()
+                   ELSE processed_at
+               END
          WHERE id=%s
         """
         cur = self.conn.cursor()
@@ -148,6 +164,11 @@ class EvidenceStore:
         content_hash: str | None,
         error_message: str,
     ) -> None:
+        """
+        Use ONLY when the script fails before insert_document() could run.
+        If content_hash is None, this may fail if your table requires NOT NULL.
+        Your schema currently allows NULL content_hash, so it's ok.
+        """
         q = """
         INSERT INTO documents (
           id, company_id, ticker, filing_type, filing_date,
