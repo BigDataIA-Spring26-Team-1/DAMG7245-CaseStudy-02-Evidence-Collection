@@ -17,62 +17,34 @@ July
 1,884,056
 $
 719.24
- 
+
 1,883,981
 $
 35,645
- 
+
 August
 899,162
 $
 717.25
- 
+
 899,162
 $
 35,000
- 
+
 September
 –
 $
 –
- 
+
 –
 $
 35,000
- 
+
 Total
 2,783,218
 2,783,143
 In the table above, total shares purchased included 75 shares during July 2025 remitted to satisfy statutory withholding taxes related to share-based awards.
-During the first quarter of 2025, our Board approved a share repurchase program authorizing repurchases of up to $40 billion of our common stock. This program replaced our previous share repurchase program and has no set expiration or termination date. The share repurchases are effected primarily through regular open-market purchases (which may include repurchase plans designed to comply with Rule 10b5-1 and accelerated share repurchases), the amounts and timing of which are determined primarily by our current and projected capital position, and capital deployment oppo
-
---- CHUNK ---
-
-ts behalf by the undersigned thereunto duly authorized. 
-THE GOLDMAN SACHS GROUP, INC.
-By:
-/s/
-Denis P. Coleman III
-Name:
-Denis P. Coleman III
-Title:
-Chief Financial Officer
-(Principal Financial Officer)
-Date:
-October 31, 2025
-By:
-/s/
-Sheara J. Fredman
-Name:
-Sheara J. Fredman
-Title:
-Chief Accounting Officer
-(Principal Accounting Officer)
-Date:
-October 31, 2025
- 
-175
-Goldman Sachs September 2025 Form 10-Q
+During the first quarter of 2025, our Board approved a share repurchase program authorizing repurchases of up to $40 billion of our common stock. This program replaced our previous share repurchase program and has no set expiration or termination date. The share repurchases are effected primarily through regular open-market purchases (which may include repurchase plans designed to comply with Rule 10b5-1 and accelerated share repurchases), the amounts and timing of which are determined primarily by our current and projected capital position, and capital deployment opportunit
 
 --- CHUNK ---
 
@@ -81,40 +53,37 @@ These statements may relate to, among other things, (i) our future plans and res
 
 --- CHUNK ---
 
-anges in investment preferences and changes in economic or market conditions. 
-Statements about the timing, costs, profitability, benefits and other aspects of business and expense savings initiatives, the level and composition of more durable revenues and increases in market share and the narrowing of our consumer business are based on our current expectations regarding our ability to implement these initiatives, and actual results may differ, possibly materially, from our current expectations due to, among other things, a delay in the timing of these initiatives, increased competition and an inability to reduce expenses and grow businesses with more durable revenues or to exit certain consumer businesses. 
-Statements about expenses we may incur, our level of future compensation expense, including as a percentage of both operating expenses and net revenues, net of provision for credit losses, and our efficiency ratio are subject to the risks that the compensation and other costs to operate our businesses may be greater than currently expected. 
-Statements about our Investment banking fees backlog and future advisory and capital market results are subject to the risk that advisory and capital market activity may not increase as we expect or that such transactions may be modified or may not be completed at all, and related net revenues may not be realized or may be materially less than expected. Important factors that could have such a result include, for underwriting transact
+1,883,981
+$
+35,645
 
---- CHUNK ---
+August
+899,162
+$
+717.25
 
-e made in forecasting our expected tax rate, the interpretation or application of existing tax statutes and regulations, as well as any corporate tax legislation that may be enacted or any guidance that may be issued by the IRS or in the other jurisdictions in which we operate (including Global Anti-Base Erosion (Pillar II) guidance). 
-Statements about the future state of our liquidity and regulatory capital ratios (including our SCB and G-SIB surcharge), and our prospective capital distributions (including dividends and repurchases), are subject to the risk that our actual liquidity, regulatory capital ratios and capital distributions may differ, possibly materially, from what is currently expected due to, among other things, the need to use capital to support clients, increased regulatory requirements resulting from changes in regulations or the interpretation or application of existing regulations, results of applicable supervisory stress tests, changes to the composition of our balance sheet and our results of operations. Statements about the estimated impact of proposed, but not finalized, capital rules are subject to change as the proposed rules may change, the final rules may differ from the proposed rules and our balance sheet composition will change. As a consequence, we may underestimate the actual impact of the final rules.
-Statements about the risk exposure related to the asset recovery guarantee provided to the Government of Malaysia are subject to the risk that 
+899,162
+$
+35,000
 
---- CHUNK ---
+September
+–
+$
+–
 
-our internal control over financial reporting (as defined in Rule 13a-15(f) under the Exchange Act) occurred during the quarter ended September 2025 that has materially affected, or is reasonably likely to materially affect, our internal control over financial reporting. 
-PART II. OTHER INFORMATION
-Item 1. Legal Proceedings 
-We are involved in a number of judicial, regulatory and arbitration proceedings concerning matters arising in connection with the conduct of our businesses. Many of these proceedings are in early stages, and many of these cases seek an indeterminate amount of damages. We have estimated the upper end of the range of reasonably possible aggregate loss for matters where we have been able to estimate a range and we believe, based on currently available information, that the results of matters where we have not been able to estimate a range of reasonably possible loss, in the aggregate, will not have a material adverse effect on our financial condition, but may be material to our operating results in a given period. Given the range of litigation and investigations presently under way, our litigation expenses may remain high. See “Management’s Discussion and Analysis of Financial Condition and Results of Operations — Use of Estimates” in Part I, Item 2 of this Form 10-Q. See Notes 18 and 27 to the consolidated financial statements in Part I, Item 1 of this Form 10-Q for information about our reasonably possible aggregate loss estimate and judicial, regulatory a
+–
+$
+35,000
 
---- CHUNK ---
-
-hibits 
-15.1     
-Letter re: Unaudited Interim Financial Information. 
-31.1     
-Rule 13a-14(a) Certifications
-. 
-32.1    
-Section 1350 Certifications (This information is furnished and not filed for purposes of Sections 11 and 12 of the Securities Act of 1933 and Section 18 of the Securities Exchange Act of 1934). 
-101     Pursuant to Rules 405 and 406 of Regulation S-T, the following information is formatted in iXBRL (Inline eXtensible Business Reporting Language): (i) the Consolidated Statements of Earnings for the three and nine months ended September 30, 2025 and September 30, 2024, (ii) the Consolidated Statements of Comprehensive Income for the three and nine months ended September 30, 2025 and September 30, 2024, (iii) the Consolidated Balance Sheets as of September 30, 2025 and December 31, 2024, (iv) the Consolidated Statements of Changes in Shareholders’ Equity for the three and nine months ended September 30, 2025 and September 30, 2024, (v) the Consolidated Statements of Cash Flows for the nine months ended September 30, 2025 and September 30, 2024, (vi) the notes to the Consolidated Financial Statements and (vii) the cover page.
-104    Cover Page Interactive Data File (formatted in iXBRL in Exhibit 101).
-SIGNATURES 
-Pursuant to the requirements of the Securities Exchange Act of 1934, the registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized. 
-THE GOLDMAN SACHS GROUP, INC.
-By:
-/s/
-Denis P. Coleman III
-Name:
+Total
+2,783,218
+2,783,143
+In the table above, total shares purchased included 75 shares during July 2025 remitted to satisfy statutory withholding taxes related to share-based awards.
+During the first quarter of 2025, our Board approved a share repurchase program authorizing repurchases of up to $40 billion of our common stock. This program replaced our previous share repurchase program and has no set expiration or termination date. The share repurchases are effected primarily through regular open-market purchases (which may include repurchase plans designed to comply with Rule 10b5-1 and accelerated share repurchases), the amounts and timing of which are determined primarily by our current and projected capital position, and capital deployment opportunities, but which may also be influenced by the evolution of current and future regulatory capital requirements, general market conditions and the prevailing price and trading volumes of our common stock. 
+Item 5. Other Information
+Rule 10b5-1 Trading Plans
+During the three months ended September 2025, no directors or executive officers 
+entered into
+, modified or 
+terminated
+, contracts, instructions or written plans for the sale or purchase of Group Inc.’s securities that were intended to satisfy the affirmative defense conditions of Rule 10b5-1 or that constituted non-Rule 10b5-1 trading arrangements (as defined in Item 408 of Regulati

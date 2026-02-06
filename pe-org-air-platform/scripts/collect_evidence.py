@@ -1,10 +1,9 @@
 from __future__ import annotations
- 
+
 import argparse
 import sys
 from pathlib import Path
 from uuid import uuid4
-
 from enum import Enum
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -180,6 +179,12 @@ def main() -> int:
                         )
                     print(f"FAILED: {ticker} {f.form} {f.filing_date} error={err}")
                     continue
+
+                if chunks and len(chunks) > 1:
+                    print("Overlap proof:")
+                    print("chunk0_end:", chunks[0].content[-200:].replace("\n", " "))
+                    print("chunk1_start:", chunks[1].content[:200].replace("\n", " "))
+
  
         print("\nOK: Evidence collection completed")
         return 0

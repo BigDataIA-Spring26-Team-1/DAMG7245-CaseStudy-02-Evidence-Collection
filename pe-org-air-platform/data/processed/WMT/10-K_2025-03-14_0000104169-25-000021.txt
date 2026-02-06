@@ -1087,4 +1087,1296 @@ Report of Independent Registered Public Accounting Firm
 To the Shareholders and the Board of Directors of Walmart Inc.
 Opinion on the Financial Statements 
 We have audited the accompanying consolidated balance sheets of Walmart Inc. (the Company) as of January 31, 2025 and 2024, the related consolidated statements of income, comprehensive income, shareholders' equity and cash flows for each of the three years in the period ended January 31, 2025, and the related notes (collectively referred to as the "Consolidated Financial Statements"). In our opinion, the Consolidated Financial Statements present fairly, in all material respects, the financial position of the Company at January 31, 2025 and 2024, and the results of its operations and its cash flows for each of the three years in the period ended January 31, 2025, in conformity with U.S. generally accepted accounting principles.
-We also have audited, in accordance with the standards of the Public Company Accounting Oversight 
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the Company's internal control over financial reporting as of January 31, 2025, based on criteria established in Internal Control-Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) and our report dated March 14, 2025 expressed an unqualified opinion thereon.
+Basis for Opinion 
+These financial statements are the responsibility of the Company's management. Our responsibility is to express an opinion on the Company's financial statements based on our audits. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB.
+We conducted our audits in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free of material misstatement, whether due to error or fraud. Our audits included performing procedures to assess the risks of material misstatement of the financial statements, whether due to error or fraud, and performing procedures that respond to those risks. Such procedures included examining, on a test basis, evidence regarding the amounts and disclosures in the financial statements. Our audits also included evaluating the accounting principles used and significant estimates made by management, as well as evaluating the overall presentation of the financial statements. We believe that our audits provide a reasonable basis for our opinion.
+Critical Audit Matter
+The critical audit matter communicated below is a matter arising from the current period audit of the financial statements that was communicated or required to be communicated to the audit committee and that: (1) relates to accounts or disclosures that are material to the financial statements and (2) involved our especially challenging, subjective or complex judgments. The communication of the critical audit matter does not alter in any way our opinion on the Consolidated Financial Statements, taken as a whole, and we are not, by communicating the critical audit matter below, providing a separate opinion on the critical audit matter or on the account or disclosures to which it relates.
+Contingencies
+Description of the Matter
+As described in Note 10 to the Consolidated Financial Statements, at January 31, 2025, the Company is involved in a number of legal proceedings and certain regulatory matters. The Company records a liability for those legal proceedings and regulatory matters when management determines it is probable that a loss has been incurred and the amount of the loss can be reasonably estimated. The Company also discloses when it is reasonably possible that a material loss may be incurred. In assessing the probability of occurrence and whether an estimate of loss can be reasonably estimated for a particular legal proceeding, management exercises judgment on matters relevant to each proceeding. Auditing management's accounting for, and disclosure of, loss contingencies was complex and highly judgmental as it involved our assessment of the significant judgments made by management when assessing the probability of loss for contingencies or when determining whether an estimate of the loss or range of loss could be made. 
+50
+How We Addressed the Matter in Our Audit
+We obtained an understanding, evaluated the design and tested the operating effectiveness of controls over the identification and evaluation of contingencies. For example, we tested controls over the Company's assessment of the likelihood of loss and the Company's determinations regarding the measurement of loss. 
+To test the Company's assessment of the probability of loss or determination of an estimate of loss, or range of loss, among other procedures, we read the minutes of the meetings of the board of directors and committees of the board of directors, reviewed documents provided to the Company by certain outside legal counsel, read letters received directly by us from internal and outside legal counsel, evaluated the current status of contingencies based on discussions with internal and outside legal counsel, and obtained representations from management. We also assessed the adequacy of the related disclosures. 
+/s/ 
+Ernst & Young LLP
+ 
+We have served as the Company's auditor since 1969.
+Rogers, Arkansas
+March 14, 2025
+51
+Report of Independent Registered Public Accounting Firm
+To the Shareholders and the Board of Directors of Walmart Inc. 
+Opinion on Internal Control Over Financial Reporting 
+We have audited Walmart Inc.'s internal control over financial reporting as of January 31, 2025, based on criteria established in Internal Control—Integrated Framework issued by the Committee of Sponsoring Organizations of the Treadway Commission (2013 framework) (the COSO criteria). In our opinion, Walmart Inc. (the Company) maintained, in all material respects, effective internal control over financial reporting as of January 31, 2025, based on the COSO criteria.
+We also have audited, in accordance with the standards of the Public Company Accounting Oversight Board (United States) (PCAOB), the consolidated balance sheets of the Company as of January 31, 2025 and 2024, the related consolidated statements of income, comprehensive income, shareholders' equity and cash flows for each of the three years in the period ended January 31, 2025, and the related notes and our report dated March 14, 2025 expressed an unqualified opinion thereon.
+Basis for Opinion 
+The Company's management is responsible for maintaining effective internal control over financial reporting and for its assessment of the effectiveness of internal control over financial reporting included in the accompanying Report on Internal Control Over Financial Reporting. Our responsibility is to express an opinion on the Company's internal control over financial reporting based on our audit. We are a public accounting firm registered with the PCAOB and are required to be independent with respect to the Company in accordance with the U.S. federal securities laws and the applicable rules and regulations of the Securities and Exchange Commission and the PCAOB. 
+We conducted our audit in accordance with the standards of the PCAOB. Those standards require that we plan and perform the audit to obtain reasonable assurance about whether effective internal control over financial reporting was maintained in all material respects. 
+Our audit included obtaining an understanding of internal control over financial reporting, assessing the risk that a material weakness exists, testing and evaluating the design and operating effectiveness of internal control based on the assessed risk, and performing such other procedures as we considered necessary in the circumstances. We believe that our audit provides a reasonable basis for our opinion. 
+Definition and Limitations of Internal Control Over Financial Reporting 
+A company's internal control over financial reporting is a process designed to provide reasonable assurance regarding the reliability of financial reporting and the preparation of financial statements for external purposes in accordance with generally accepted accounting principles. A company's internal control over financial reporting includes those policies and procedures that (1) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (2) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (3) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company's assets that could have a material effect on the financial statements. 
+Because of its inherent limitations, internal control over financial reporting may not prevent or detect misstatements. Also, projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+/s/ Ernst & Young LLP 
+Rogers, Arkansas
+March 14, 2025
+52
+Walmart Inc.
+Consolidated Statements of Income
+Fiscal Years Ended January 31,
+(Amounts in millions, except per share data)
+2025
+2024
+2023
+Revenues:
+Net sales
+$
+674,538
+ 
+$
+642,637
+ 
+$
+605,881
+ 
+Membership and other income
+6,447
+ 
+5,488
+ 
+5,408
+ 
+Total revenues
+680,985
+ 
+648,125
+ 
+611,289
+ 
+Costs and expenses:
+Cost of sales
+511,753
+ 
+490,142
+ 
+463,721
+ 
+Operating, selling, general and administrative expenses
+139,884
+ 
+130,971
+ 
+127,140
+ 
+Operating income
+29,348
+ 
+27,012
+ 
+20,428
+ 
+Interest:
+Debt
+2,249
+ 
+2,259
+ 
+1,787
+ 
+Finance lease
+479
+ 
+424
+ 
+341
+ 
+Interest income
+(
+483
+)
+(
+546
+)
+(
+254
+)
+Interest, net
+2,245
+ 
+2,137
+ 
+1,874
+ 
+Other (gains) and losses
+794
+ 
+3,027
+ 
+1,538
+ 
+Income before income taxes
+26,309
+ 
+21,848
+ 
+17,016
+ 
+Provision for income taxes
+6,152
+ 
+5,578
+ 
+5,724
+ 
+Consolidated net income
+20,157
+ 
+16,270
+ 
+11,292
+ 
+Consolidated net (income) loss attributable to noncontrolling interest
+(
+721
+)
+(
+759
+)
+388
+ 
+Consolidated net income attributable to Walmart
+$
+19,436
+ 
+$
+15,511
+ 
+$
+11,680
+ 
+Net income per common share:
+Basic net income per common share attributable to Walmart
+$
+2.42
+ 
+$
+1.92
+ 
+$
+1.43
+ 
+Diluted net income per common share attributable to Walmart
+2.41
+ 
+1.91
+ 
+1.42
+ 
+Weighted-average common shares outstanding:
+Basic
+8,041
+ 
+8,077
+ 
+8,171
+ 
+Diluted
+8,081
+ 
+8,108
+ 
+8,202
+ 
+Dividends declared per common share
+$
+0.8300
+ 
+$
+0.7600
+ 
+$
+0.7467
+ 
+See accompanying notes. 
+53
+Walmart Inc.
+Consolidated Statements of Comprehensive Income
+ 
+Fiscal Years Ended January 31,
+(Amounts in millions)
+2025
+2024
+2023
+Consolidated net income
+$
+20,157
+ 
+$
+16,270
+ 
+$
+11,292
+ 
+Consolidated net (income) loss attributable to noncontrolling interest
+(
+721
+)
+(
+759
+)
+388
+ 
+Consolidated net income attributable to Walmart
+19,436
+ 
+15,511
+ 
+11,680
+ 
+Other comprehensive income (loss), net of income taxes
+Currency translation and other
+(
+2,810
+)
+888
+ 
+(
+1,853
+)
+Cash flow hedges
+(
+49
+)
+56
+ 
+(
+203
+)
+Other comprehensive income (loss), net of income taxes
+(
+2,859
+)
+944
+ 
+(
+2,056
+)
+Other comprehensive (income) loss attributable to noncontrolling interest
+556
+ 
+(
+566
+)
+404
+ 
+Other comprehensive income (loss) attributable to Walmart
+(
+2,303
+)
+378
+ 
+(
+1,652
+)
+Comprehensive income, net of income taxes
+17,298
+ 
+17,214
+ 
+9,236
+ 
+Comprehensive (income) loss attributable to noncontrolling interest
+(
+165
+)
+(
+1,325
+)
+792
+ 
+Comprehensive income attributable to Walmart
+$
+17,133
+ 
+$
+15,889
+ 
+$
+10,028
+ 
+ See accompanying notes. 
+54
+Walmart Inc.
+Consolidated Balance Sheets
+As of January 31,
+(Amounts in millions)
+2025
+2024
+ASSETS
+Current assets:
+Cash and cash equivalents
+$
+9,037
+ 
+$
+9,867
+ 
+Receivables, net
+9,975
+ 
+8,796
+ 
+Inventories
+56,435
+ 
+54,892
+ 
+Prepaid expenses and other
+4,011
+ 
+3,322
+ 
+Total current assets
+79,458
+ 
+76,877
+ 
+Property and equipment, net
+119,993
+ 
+110,810
+ 
+Operating lease right-of-use assets
+13,599
+ 
+13,673
+ 
+Finance lease right-of-use assets, net
+6,112
+ 
+5,855
+ 
+Goodwill
+28,792
+ 
+28,113
+ 
+Other long-term assets
+12,869
+ 
+17,071
+ 
+Total assets
+$
+260,823
+ 
+$
+252,399
+ 
+LIABILITIES, REDEEMABLE NONCONTROLLING INTEREST, AND SHAREHOLDERS' EQUITY
+Current liabilities:
+Short-term borrowings
+$
+3,068
+ 
+$
+878
+ 
+Accounts payable
+58,666
+ 
+56,812
+ 
+Accrued liabilities
+29,345
+ 
+28,759
+ 
+Accrued income taxes
+608
+ 
+307
+ 
+Long-term debt due within one year
+2,598
+ 
+3,447
+ 
+Operating lease obligations due within one year
+1,499
+ 
+1,487
+ 
+Finance lease obligations due within one year
+800
+ 
+725
+ 
+Total current liabilities
+96,584
+ 
+92,415
+ 
+Long-term debt
+33,401
+ 
+36,132
+ 
+Long-term operating lease obligations
+12,825
+ 
+12,943
+ 
+Long-term finance lease obligations
+5,923
+ 
+5,709
+ 
+Deferred income taxes and other
+14,398
+ 
+14,629
+ 
+Commitments and contingencies
+Redeemable noncontrolling interest
+271
+ 
+222
+ 
+Shareholders' equity:
+Common stock
+802
+ 
+805
+ 
+Capital in excess of par value
+5,503
+ 
+4,544
+ 
+Retained earnings
+98,313
+ 
+89,814
+ 
+Accumulated other comprehensive loss
+(
+13,605
+)
+(
+11,302
+)
+Total Walmart shareholders' equity
+91,013
+ 
+83,861
+ 
+Nonredeemable noncontrolling interest
+6,408
+ 
+6,488
+ 
+Total shareholders' equity
+97,421
+ 
+90,349
+ 
+Total liabilities, redeemable noncontrolling interest, and shareholders' equity
+$
+260,823
+ 
+$
+252,399
+ 
+ See accompanying notes. 
+55
+Walmart Inc.
+Consolidated Statements of Shareholders' Equity
+Accumulated
+Total
+Capital in
+Other
+Walmart
+Nonredeemable
+Total
+(Amounts in millions)
+Common Stock
+Excess of
+Retained
+Comprehensive
+Shareholders'
+Noncontrolling
+Shareholders'
+Shares
+Amount
+Par Value
+Earnings
+Income (Loss)
+Equity
+Interest
+Equity
+Balances as of February 1, 2022
+8,284
+ 
+$
+828
+ 
+$
+4,287
+ 
+$
+86,904
+ 
+$
+(
+8,766
+)
+$
+83,253
+ 
+$
+8,638
+ 
+$
+91,891
+ 
+Consolidated net income
+— 
+— 
+— 
+11,680
+ 
+— 
+11,680
+ 
+(
+388
+)
+11,292
+ 
+Other comprehensive loss, net of income taxes
+— 
+— 
+— 
+— 
+(
+1,652
+)
+(
+1,652
+)
+(
+404
+)
+(
+2,056
+)
+Cash dividends declared ($
+0.7467
+ per share)
+— 
+— 
+— 
+(
+6,114
+)
+— 
+(
+6,114
+)
+— 
+(
+6,114
+)
+Purchase of Company stock
+(
+221
+)
+(
+22
+)
+(
+518
+)
+(
+9,326
+)
+— 
+(
+9,866
+)
+— 
+(
+9,866
+)
+Cash dividend declared to noncontrolling interest
+— 
+— 
+— 
+— 
+— 
+— 
+(
+449
+)
+(
+449
+)
+Purchase of noncontrolling interest
+— 
+— 
+(
+18
+)
+— 
+(
+1,262
+)
+(
+1,280
+)
+(
+493
+)
+(
+1,773
+)
+Sale of subsidiary stock
+— 
+— 
+48
+ 
+— 
+— 
+48
+ 
+18
+ 
+66
+ 
+Other
+17
+ 
+2
+ 
+631
+ 
+(
+9
+)
+— 
+624
+ 
+139
+ 
+763
+ 
+Balances as of January 31, 2023
+8,080
+ 
+808
+ 
+4,430
+ 
+83,135
+ 
+(
+11,680
+)
+76,693
+ 
+7,061
+ 
+83,754
+ 
+Consolidated net income
+— 
+— 
+— 
+15,511
+ 
+— 
+15,511
+ 
+774
+ 
+16,285
+ 
+Other comprehensive income, net of income taxes
+— 
+— 
+— 
+— 
+378
+ 
+378
+ 
+566
+ 
+944
+ 
+Cash dividends declared ($
+0.7600
+ per share)
+— 
+— 
+— 
+(
+6,140
+)
+— 
+(
+6,140
+)
+— 
+(
+6,140
+)
+Purchase of Company stock
+(
+55
+)
+(
+6
+)
+(
+150
+)
+(
+2,635
+)
+— 
+(
+2,791
+)
+— 
+(
+2,791
+)
+Cash dividend declared to noncontrolling interest
+— 
+— 
+— 
+— 
+— 
+— 
+(
+776
+)
+(
+776
+)
+Purchase of noncontrolling interest
+— 
+— 
+(
+1,076
+)
+— 
+— 
+(
+1,076
+)
+(
+1,367
+)
+(
+2,443
+)
+Sale of subsidiary stock
+— 
+— 
+562
+ 
+— 
+— 
+562
+ 
+154
+ 
+716
+ 
+Other
+29
+ 
+3
+ 
+778
+ 
+(
+57
+)
+— 
+724
+ 
+76
+ 
+800
+ 
+Balances as of January 31, 2024
+8,054
+ 
+805
+ 
+4,544
+ 
+89,814
+ 
+(
+11,302
+)
+83,861
+ 
+6,488
+ 
+90,349
+ 
+Consolidated net income
+— 
+— 
+— 
+19,436
+ 
+— 
+19,436
+ 
+766
+ 
+20,202
+ 
+Other comprehensive loss, net of income taxes
+— 
+— 
+— 
+— 
+(
+2,303
+)
+(
+2,303
+)
+(
+556
+)
+(
+2,859
+)
+Cash dividends declared ($
+0.8300
+ per share)
+— 
+— 
+— 
+(
+6,688
+)
+— 
+(
+6,688
+)
+— 
+(
+6,688
+)
+Purchase of Company stock
+(
+61
+)
+(
+6
+)
+(
+230
+)
+(
+4,241
+)
+— 
+(
+4,477
+)
+— 
+(
+4,477
+)
+Cash dividend declared to noncontrolling interest
+— 
+— 
+— 
+— 
+— 
+— 
+(
+648
+)
+(
+648
+)
+Sale of subsidiary stock
+— 
+— 
+169
+ 
+— 
+— 
+169
+ 
+193
+ 
+362
+ 
+Other
+31
+ 
+3
+ 
+1,020
+ 
+(
+8
+)
+— 
+1,015
+ 
+165
+ 
+1,180
+ 
+Balances as of January 31, 2025
+8,024
+ 
+802
+ 
+5,503
+ 
+98,313
+ 
+(
+13,605
+)
+91,013
+ 
+6,408
+ 
+97,421
+ 
+ See accompanying notes.
+56
+Walmart Inc.
+Consolidated Statements of Cash Flows
+Fiscal Years Ended January 31,
+(Amounts in millions)
+2025
+2024
+2023
+Cash flows from operating activities:
+Consolidated net income
+$
+20,157
+ 
+$
+16,270
+ 
+$
+11,292
+ 
+Adjustments to reconcile consolidated net income to net cash provided by operating activities:
+Depreciation and amortization
+12,973
+ 
+11,853
+ 
+10,945
+ 
+Investment (gains) and losses, net
+878
+ 
+3,193
+ 
+1,683
+ 
+Deferred income taxes
+(
+635
+)
+(
+175
+)
+449
+ 
+Other operating activities
+2,889
+ 
+2,642
+ 
+1,919
+ 
+Changes in certain assets and liabilities, net of effects of acquisitions and dispositions:
+Receivables, net
+(
+1,106
+)
+(
+797
+)
+240
+ 
+Inventories
+(
+2,755
+)
+2,017
+ 
+(
+528
+)
+Accounts payable
+3,228
+ 
+2,515
+ 
+(
+1,425
+)
+Accrued liabilities
+379
+ 
+(
+1,324
+)
+4,393
+ 
+Accrued income taxes
+435
+ 
+(
+468
+)
+(
+127
+)
+Net cash provided by operating activities
+36,443
+ 
+35,726
+ 
+28,841
+ 
+Cash flows from investing activities:
+Payments for property and equipment
+(
+23,783
+)
+(
+20,606
+)
+(
+16,857
+)
+Proceeds from the disposal of property and equipment
+432
+ 
+250
+ 
+170
+ 
+Proceeds from disposal of certain strategic investments
+4,080
+ 
+—
+ 
+—
+ 
+Payments for business acquisitions, net of cash acquired
+(
+1,896
+)
+(
+9
+)
+(
+740
+)
+Other investing activities
+(
+212
+)
+(
+922
+)
+(
+295
+)
+Net cash used in investing activities
+(
+21,379
+)
+(
+21,287
+)
+(
+17,722
+)
+Cash flows from financing activities:
+Net change in short-term borrowings
+2,212
+ 
+512
+ 
+(
+34
+)
+Proceeds from issuance of long-term debt
+—
+ 
+4,967
+ 
+5,041
+ 
+Repayments of long-term debt
+(
+3,468
+)
+(
+4,217
+)
+(
+2,689
+)
+Dividends paid
+(
+6,688
+)
+(
+6,140
+)
+(
+6,114
+)
+Purchase of Company stock
+(
+4,494
+)
+(
+2,779
+)
+(
+9,920
+)
+Dividends paid to noncontrolling interest
+(
+576
+)
+(
+763
+)
+(
+444
+)
+Purchase of noncontrolling interest
+—
+ 
+(
+3,462
+)
+(
+827
+)
+Sale of subsidiary stock
+362
+ 
+716
+ 
+66
+ 
+Other financing activities
+(
+2,170
+)
+(
+2,248
+)
+(
+2,118
+)
+Net cash used in financing activities
+(
+14,822
+)
+(
+13,414
+)
+(
+17,039
+)
+Effect of exchange rates on cash, cash equivalents and restricted cash
+(
+641
+)
+69
+ 
+(
+73
+)
+Net increase (decrease) in cash, cash equivalents and restricted cash
+(
+399
+)
+1,094
+ 
+(
+5,993
+)
+Cash, cash equivalents and restricted cash at beginning of year
+9,935
+ 
+8,841
+ 
+14,834
+ 
+Cash, cash equivalents and restricted cash at end of year
+$
+9,536
+ 
+$
+9,935
+ 
+$
+8,841
+ 
+Supplemental disclosure of cash flow information:
+Income taxes paid
+$
+5,884
+ 
+$
+5,879
+ 
+$
+3,310
+ 
+Interest paid 
+2,739
+ 
+2,519
+ 
+2,051
+ 
+ See accompanying notes. 
+57
+Walmart Inc.
+Notes to Consolidated Financial Statements
+Note 1. 
+Summary of Significant Accounting Policies
+General
+Walmart Inc. ("Walmart" or the "Company") is a people-led, technology-powered omni-channel retailer dedicated to helping people around the world save money and live better by providing the opportunity to shop in both retail stores and through eCommerce. Through innovation, the Company is striving to continuously improve a customer-centric experience that seamlessly integrates eCommerce and retail stores in an omni-channel offering that saves time for its customers. 
+The Company's operations comprise 
+three
+ reportable segments: Walmart U.S., Walmart International and Sam's Club U.S.
+Principles of Consolidation
+The Consolidated Financial Statements include the accounts of Walmart and its subsidiaries as of and for the fiscal years ended January 31, 2025 ("fiscal 2025"), January 31, 2024 ("fiscal 2024") and January 31, 2023 ("fiscal 2023"). Intercompany accounts and transactions have been eliminated in consolidation. The Company consolidates variable interest entities where it has been determined that the Company is the primary beneficiary of those entities' operations. Investments in common stock or in-substance common stock for which the Company exercises significant influence but does not have control are accounted for under the equity method. These variable interest entities and equity method investments are immaterial to the Company's Consolidated Financial Statements.
+The Company's Consolidated Financial Statements are based on a fiscal year ending on January 31 for the United States ("U.S.") and Canadian operations. The Company consolidates all other operations generally using a one-month lag and based on a calendar year. There were no significant intervening events during the month of January 2025 related to the operations consolidated using a lag that materially affected the Consolidated Financial Statements.
+Use of Estimates
+The Consolidated Financial Statements have been prepared in conformity with U.S. generally accepted accounting principles ("GAAP"). Those principles require management to make est
