@@ -192,7 +192,10 @@ Streamlit App Link:
 The system architecture diagram illustrating ingestion, processing, storage, and data flow can be found below:
 
 Architecture Diagram Link:  
-<ADD ARCHITECTURE DIAGRAM LINK HERE>
+<https://drive.google.com/file/d/1XG-5UuxJHmMyr1j5hF3Ivk0hW5W-XyTm/view>
+
+![Architecture Diagram](pe-org-air-platform\architecture.png)
+
 
 ---
 
