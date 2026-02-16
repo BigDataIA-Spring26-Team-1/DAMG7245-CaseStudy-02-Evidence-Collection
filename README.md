@@ -200,8 +200,11 @@ A Streamlit-based interface can be added to visualize:
 - Chunked evidence
 - Document metadata and registry status
 
-Streamlit App Link:  
-This project is hosted [here](https://damg7245-casestudy-02-evidence-collection-cxbw3qzkhfgouuh6mtdk.streamlit.app/).
+
+This project is hosted [here](https://damg7245-casestudy-02-evidence-collection-cxbw3qzkhfgouuh6mtdk.streamlit.app/)
+
+Backend (API endpoints) is hosted [here](https://my-project-zeta-jet-67.vercel.app/docs)
+
 
 ---
 
