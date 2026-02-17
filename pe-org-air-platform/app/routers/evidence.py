@@ -8,7 +8,7 @@ router = APIRouter(prefix="/evidence")
 def stats():
    store = EvidenceStore()
    try:
-       return store.evidence_stats()
+       return store.stats()
    finally:
        store.close()
 
