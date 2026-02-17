@@ -45,3 +45,12 @@ def get_chunks(
        return store.list_chunks(document_id=document_id, limit=limit)
    finally:
        store.close()
+      
+@router.get("/companies/{company_id}/evidence")
+def company_evidence(company_id: str, limit: int = Query(default=200, ge=1, le=1000)):
+   store = EvidenceStore()
+   try:
+       return store.list_documents(company_id=company_id, limit=limit)
+   finally:
+       store.close()
+
