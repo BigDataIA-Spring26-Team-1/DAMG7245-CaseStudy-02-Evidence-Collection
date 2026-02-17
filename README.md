@@ -201,7 +201,7 @@ A Streamlit-based interface can be added to visualize:
 - Document metadata and registry status
 
 
-This project is hosted [here](https://damg7245-casestudy-02-evidence-collection-cxbw3qzkhfgouuh6mtdk.streamlit.app/)
+This project is hosted [here](https://pe-org-ai-r.streamlit.app/)
 
 Backend (API endpoints) is hosted [here](https://my-project-zeta-jet-67.vercel.app/docs)
 
