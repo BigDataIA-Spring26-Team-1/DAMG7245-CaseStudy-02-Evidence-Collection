@@ -11,6 +11,8 @@ from app.models.company import CompanyCreate, CompanyOut, CompanyUpdate, Industr
 from app.models.pagination import Page
 from app.services.redis_cache import cache_delete, cache_get_json, cache_set_json
 from app.services.snowflake import get_snowflake_connection
+from app.services.evidence_store import EvidenceStore
+
 
 router = APIRouter(prefix="/companies")
 
