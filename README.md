@@ -203,7 +203,7 @@ A Streamlit-based interface can be added to visualize:
 
 This project is hosted [here](https://pe-org-ai-readiness-engine.streamlit.app/)
 
-Backend (API endpoints) is hosted [here](https://my-project-zeta-jet-67.vercel.app/doc)
+Backend (API endpoints) is hosted [here](https://org-air-api-334893558229.us-central1.run.app/)
 
 
 ---
